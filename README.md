@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jmwittl
+- 👋 Hi, I’m Joseph M Wittl
 - 👀 I’m interested in electronics, woodworking, and gardening
 - 🌱 I’m currently learning Nextcloud
 - 💞️ I’m looking to collaborate on staying alive
