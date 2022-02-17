@@ -1,0 +1,7 @@
+20220125:	How to change your raspberry pi's hostname
+
+		How to Set Up a Headless Raspberry Pi, Without Ever Attaching a Monitor
+
+		Headless Wi-Fi / Ethernet
+
+		Add BIG disk

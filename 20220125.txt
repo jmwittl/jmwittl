@@ -1,0 +1,109 @@
+20220125:	How to change your raspberry pi's hostname
+
+	Source: https://www.tomshardware.com/how-to/raspberry-pi-change-hostname
+
+	Out of the box, every Raspberry Pi is listed as ‘raspberrypi.’ Change the Raspberry Pi 
+	hostname to rename your device.
+
+	1.  Launch raspi-config by typing: 
+
+		sudo raspi-config
+
+	Google:	raspberry pi set hostname
+
+How to Set Up a Headless Raspberry Pi, Without Ever Attaching a Monitor
+
+	Source:	https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html
+
+	Write an empty text file named "ssh" (no file extension) to the root of the directory of 
+	the card. When it sees the "ssh" on its first boot-up, Raspberry Pi OS will 
+	automatically enable SSH (Secure Socket Shell), which will allow you to remotely access 
+	the Pi command line from your PC.
+
+Headless Wi-Fi / Ethernet
+
+	Source:	https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html
+	
+	# To setup a Wi-Fi connection on your headless Raspberry Pi, create a text file called 
+	# wpa_supplicant.conf, and place it in the root directory of the microSD card. You will 
+	# need the following text in the file.
+
+	country=US
+	ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+	update_config=1
+	
+	network={
+	scan_ssid=1
+	ssid="your_wifi_ssid"
+	psk="your_wifi_password"
+	}
+
+Add BIG disk
+
+	# 1 TB hard drive with external powersupply attached to
+	# PCIe SATA3.0 Card attached to CM4 IO Board 
+
+	cd /mnt/storage2
+
+20220203 vncserver rcrvution
+
+	google:	how to run vnc server on raspberry pi
+
+	source:	https://help.realvnc.com/
+
+		people ask 
+		How do I start VNC Server service?
+
+		1.) Open terminal and connect to famillyroom000 (192.168.1.36:1)
+		2.) Set a pssword by running vncpasswd at the command prompt
+		3.) Start a VNC session by using the vncserver command vncserver
+
+
+	VNC Connect and Raspberry Pi
+
+		pi@famillyroom000:~ $ vncserver
+		VNC(R) Server 6.7.4 (r43891) ARMv6 (Jan 20 2021 14:26:50)
+		Copyright (C) 2002-2020 RealVNC Ltd.
+		Protected by UK patent 2481870; US patent 8760366; EU patent 2652951.
+		See https://www.realvnc.com for information on VNC.
+		For third party acknowledgements see:
+		https://www.realvnc.com/docs/6/foss.html
+		VNC(R) Server 6.7.4 (r43891) ARMv6 (Jan 20 2021 14:37:13)
+		Copyright (C) 2002-2020 RealVNC Ltd.
+		RealVNC and VNC are trademarks of RealVNC Ltd and are protected by trademark
+		registrations and/or pending trademark applications in the European Union,
+		United States of America and other jurisdictions.
+		Protected by UK patent 2481870; US patent 8760366; EU patent 2652951.
+		See https://www.realvnc.com for information on VNC.
+		For third party acknowledgements see:
+		https://www.realvnc.com/docs/6/foss.html
+		OS: Raspbian GNU/Linux 11, Linux 5.10.63, armv7l
+		<11> 2022-02-03T21:47:56.545Z famillyroom000 Xvnc[29319]: VendorConfig: Error in Certificate "CN=GlobalSign,O=GlobalSign,OU=GlobalSign Root CA - R2": X.509 Error: Certificate expired
+		Generating private key... done
+		On some distributions (in particular Red Hat), you may get a better experience
+		by running vncserver-virtual in conjunction with the system Xorg server, rather
+		than the old version built-in to Xvnc. More desktop environments and
+		applications will likely be compatible. For more information on this alternative
+		implementation, please see: https://www.realvnc.com/doclink/kb-546
+		
+		Running applications in /etc/vnc/xstartup
+		
+		VNC Server catchphrase: "Beast local bonus. Phantom nirvana switch."
+		             signature: 63-7a-2c-0c-f5-5a-84-6e
+		
+		Log file is /home/pi/.vnc/famillyroom000:1.log
+		New desktop is famillyroom000:1 (192.168.1.36:1)
+		pi@famillyroom000:~ $ 
+
+ 	Getting connected to your Raspberry Pi
+
+		pi@famillyroom000:~ $ pi@famillyroom000:~ $ sudo passwd
+		New password: 
+		Retype new password: 
+		passwd: password updated successfully
+		pi@famillyroom000:~ $ 
+		
+		pi@raspberrypi:~ vncviewer (command line on other machiner)
+
+			File->connect
+
