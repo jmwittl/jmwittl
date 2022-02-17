@@ -1,0 +1,2126 @@
+863 551 488	total
+ 588 177 408	/home/pi/Downloads
+274 141 184	/home/pi/Downloads/docs
+238 829 568	/home/pi/Desktop
+238 825 472	/home/pi/Desktop/owncloud
+238 821 376	/home/pi/Desktop/owncloud/client
+202 362 880	/home/pi/Desktop/owncloud/client/.git
+200 503 296	/home/pi/Downloads/docs/.git
+200 110 080	/home/pi/Downloads/docs/.git/objects
+200 101 888	/home/pi/Downloads/docs/.git/objects/pack
+199 077 888	/home/pi/Desktop/owncloud/client/.git/objects
+199 069 696	/home/pi/Desktop/owncloud/client/.git/objects/pack
+174 874 624	/home/pi/Downloads/owncloud
+174 731 264	/home/pi/Downloads/owncloud/apps
+ 95 031 296	/home/pi/Downloads/owncloud/apps/files_external
+ 89 362 432	/home/pi/Downloads/owncloud/apps/files_external/3rdparty
+ 77 594 624	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google
+ 76 976 128	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services
+ 76 939 264	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src
+ 76 935 168	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google
+ 76 931 072	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service
+ 43 311 104	/home/pi/Downloads/docs/modules
+ 35 971 072	/home/pi/Bookshelf
+ 33 415 168	/home/pi/Downloads/owncloud/apps/graphapi
+ 32 284 672	/home/pi/Downloads/owncloud/apps/graphapi/vendor
+ 29 184 000	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft
+ 29 179 904	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph
+ 28 663 808	/home/pi/Downloads/docs/modules/admin_manual
+ 28 372 992	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/src
+ 26 222 592	/home/pi/Downloads/docs/modules/admin_manual/assets
+ 26 087 424	/home/pi/Downloads/docs/modules/admin_manual/assets/images
+ 21 635 072	/home/pi/Downloads/docs/fonts
+ 20 738 048	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/src/Beta
+ 20 733 952	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/src/Beta/Microsoft
+ 20 729 856	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/src/Beta/Microsoft/Graph
+ 20 426 752	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/src/Beta/Microsoft/Graph/Model
+ 18 456 576	/home/pi/Desktop/owncloud/client/src
+ 15 089 664	/home/pi/Desktop/owncloud/client/src/3rdparty
+ 14 942 208	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt
+ 14 618 624	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty
+ 14 520 320	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad
+ 10 039 296	/home/pi/Downloads/docs/modules/admin_manual/assets/images/appliance
+  9 027 584	/home/pi/Desktop/owncloud/client/translations
+  8 126 464	/home/pi/Downloads/docs/docs
+  7 995 392	/home/pi/Downloads/docs/docs/images
+  7 720 960	/home/pi/Downloads/docs/modules/user_manual
+  7 405 568	/home/pi/Downloads/docs/modules/user_manual/assets
+  7 397 376	/home/pi/Downloads/docs/modules/user_manual/assets/images
+  7 356 416	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/src/Model
+  7 327 744	/home/pi/Downloads/docs/modules/admin_manual/assets/images/configuration
+  6 684 672	/home/pi/Downloads/docs/modules/developer_manual
+  5 988 352	/home/pi/Downloads/owncloud/apps/files_classifier
+  5 816 320	/home/pi/Desktop/owncloud/client/shell_integration
+  5 779 456	/home/pi/Downloads/owncloud/apps/firewall
+  5 521 408	/home/pi/Downloads/docs/modules/admin_manual/assets/images/appliance/ucs
+  5 472 256	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/composer
+  5 402 624	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools
+  5 287 936	/home/pi/Downloads/owncloud/apps/firewall/vendor
+  4 943 872	/home/pi/Downloads/owncloud/apps/market
+  4 931 584	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/windows
+  4 927 488	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Compute
+  4 710 400	/home/pi/Downloads/docs/docs/images/what-is-antora
+  4 644 864	/home/pi/Downloads/owncloud/apps/market/js
+  4 595 712	/home/pi/Downloads/owncloud/apps/files_classifier/vendor
+  4 579 328	/home/pi/Downloads/owncloud/apps/web
+  4 558 848	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/windows/dump_syms
+  4 534 272	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/windows/dump_syms/testdata
+  4 300 800	/home/pi/Desktop/owncloud/client/shell_integration/icons
+  3 997 696	/home/pi/Downloads/owncloud/apps/files_external/appinfo
+  3 751 936	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client
+  3 747 840	/home/pi/Downloads/owncloud/apps/web/js
+  3 653 632	/home/pi/Downloads/owncloud/apps/user_ldap
+  3 596 288	/home/pi/Downloads/docs/modules/developer_manual/assets
+  3 584 000	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony
+  3 575 808	/home/pi/Downloads/docs/modules/developer_manual/assets/images
+  3 391 488	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib
+  3 280 896	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa
+  3 182 592	/home/pi/Downloads/owncloud/apps/web/js/_chunks
+  3 072 000	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib
+  3 067 904	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib
+  3 031 040	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib
+  2 994 176	/home/pi/Downloads/docs/modules/admin_manual/assets/images/configuration/files
+  2 985 984	/home/pi/Desktop/owncloud/client/.git/modules
+  2 981 888	/home/pi/Desktop/owncloud/client/.git/modules/src
+  2 977 792	/home/pi/Desktop/owncloud/client/.git/modules/src/3rdparty
+  2 973 696	/home/pi/Desktop/owncloud/client/.git/modules/src/3rdparty/libcrashreporter-qt
+  2 916 352	/home/pi/Downloads/docs/modules/admin_manual/assets/images/appliance/ucs/onlyoffice
+  2 736 128	/home/pi/Downloads/docs/modules/admin_manual/assets/images/qnap
+  2 723 840	/home/pi/Desktop/owncloud/client/.git/modules/src/3rdparty/libcrashreporter-qt/objects
+  2 715 648	/home/pi/Desktop/owncloud/client/.git/modules/src/3rdparty/libcrashreporter-qt/objects/pack
+  2 555 904	/home/pi/Downloads/docs/modules/admin_manual/assets/images/configuration/user
+  2 539 520	/home/pi/Downloads/docs/modules/admin_manual/assets/images/enterprise
+  2 519 040	/home/pi/Desktop/owncloud/client/shell_integration/icons/SVG
+  2 494 464	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/validator
+  2 473 984	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac
+  2 412 544	/home/pi/Downloads/owncloud/apps/user_ldap/l10n
+  2 342 912	/home/pi/Downloads/docs/modules/admin_manual/assets/images/configuration/user/oidc
+  2 338 816	/home/pi/Downloads/docs/modules/admin_manual/assets/images/configuration/user/oidc/ms-azure-ad
+  2 318 336	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/common
+  2 277 376	/home/pi/Downloads/owncloud/apps/files_sharing
+  2 252 800	/home/pi/Downloads/docs/modules/admin_manual/pages
+  2 199 552	/home/pi/Downloads/docs/modules/admin_manual/assets/images/configuration/files/external_storage
+  2 162 688	/home/pi/Downloads/owncloud/apps/metrics
+  2 039 808	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Dialogflow
+  2 039 808	/home/pi/Downloads/docs/modules/developer_manual/examples
+  2 035 712	/home/pi/Downloads/docs/modules/developer_manual/assets/images/core
+  2 031 616	/home/pi/Downloads/docs/modules/developer_manual/assets/images/core/theming
+  1 875 968	/home/pi/Downloads/docs/modules/developer_manual/examples/core
+  1 843 200	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ShoppingContent
+  1 736 704	/home/pi/Desktop/owncloud/client/src/gui
+  1 699 840	/home/pi/Downloads/owncloud/apps/encryption
+  1 601 536	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/processor
+  1 556 480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Dfareporting
+  1 540 096	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts
+  1 503 232	/home/pi/Downloads/owncloud/apps/files_sharing/l10n
+  1 454 080	/home/pi/Downloads/owncloud/apps/graphapi/vendor/composer
+  1 445 888	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Crypt
+  1 425 408	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DisplayVideo
+  1 413 120	/home/pi/Downloads/docs/docs/images/getting-started
+  1 409 024	/home/pi/Downloads/docs/docs/images/getting-started/non-developers
+  1 376 256	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/validator/Resources
+  1 372 160	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/validator/Resources/translations
+  1 343 488	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Vision
+  1 331 200	/home/pi/Downloads/pyocclient
+  1 327 104	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/guzzlehttp
+  1 298 432	/home/pi/Desktop/owncloud/client/shell_integration/windows
+  1 286 144	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Compute/Resource
+  1 282 048	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/php
+  1 269 760	/home/pi/Downloads/owncloud/apps/oauth2
+  1 253 376	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Apigee
+  1 228 800	/home/pi/Desktop/owncloud/client/test
+  1 220 608	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/php/vendor
+  1 208 320	/home/pi/Downloads/owncloud/apps/encryption/l10n
+  1 204 224	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac/handler
+  1 179 648	/home/pi/Downloads/docs/modules/admin_manual/assets/images/appliance/app-settings
+  1 175 552	/home/pi/Downloads/owncloud/apps/files_external/l10n
+  1 138 688	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Sheets
+  1 134 592	/home/pi/Downloads/docs/modules/admin_manual/pages/configuration
+  1 130 496	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Document
+  1 097 728	/home/pi/Downloads/owncloud/apps/files_mediaviewer
+  1 093 632	/home/pi/Downloads/docs/modules/admin_manual/assets/images/enterprise/collaboration
+  1 081 344	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/third_party
+  1 077 248	/home/pi/Downloads/owncloud/apps/files_antivirus
+  1 069 056	/home/pi/Downloads/owncloud/apps/metrics/js
+  1 064 960	/home/pi/Downloads/docs/modules/admin_manual/assets/images/enterprise/external_storage
+  1 060 864	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/php/vendor/guzzlehttp
+  1 060 864	/home/pi/Downloads/docs/modules/admin_manual/assets/images/configuration/server
+  1 048 576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DLP
+  1 044 480	/home/pi/Downloads/owncloud/apps/files_classifier/js
+  1 044 480	/home/pi/Downloads/docs/modules/developer_manual/assets/images/mobile_development
+  1 040 384	/home/pi/Downloads/docs/modules/developer_manual/pages
+  1 036 288	/home/pi/Downloads/owncloud/apps/graphapi/appinfo
+  1 028 096	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/YouTube
+  1 024 000	/home/pi/Downloads/docs/modules/admin_manual/assets/images/appliance/ucs/upgrade-owncloud
+  1 007 616	/home/pi/Downloads/docs/modules/admin_manual/assets/images/configuration/files/external_storage/google_drive
+    999 424	/home/pi/Desktop/owncloud/client/src/libsync
+    970 752	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DataLabeling
+    954 368	/home/pi/Downloads/docs/modules/developer_manual/assets/images/mobile_development/ios_library
+    954 368	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac/handler/testcases
+    942 080	/home/pi/Desktop/owncloud/client/shell_integration/windows/3rdparty
+    937 984	/home/pi/Downloads/docs/modules/admin_manual/assets/images/apps
+    937 984	/home/pi/Desktop/owncloud/client/shell_integration/windows/3rdparty/nlohmann-json
+    925 696	/home/pi/Downloads/owncloud/apps/federatedfilesharing
+    925 696	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac/handler/testcases/testdata
+    921 600	/home/pi/Downloads/owncloud/apps/graphapi/vendor/guzzlehttp
+    909 312	/home/pi/Downloads/owncloud/apps/firewall/vendor/font-awesome
+    888 832	/home/pi/Downloads/owncloud/apps/metrics/vendor
+    868 352	/home/pi/Downloads/owncloud/apps/sharepoint
+    868 352	/home/pi/Desktop/owncloud/client/changelog
+    864 256	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Dataflow
+    856 064	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudVideoIntelligence
+    843 776	/home/pi/Downloads/owncloud/apps/federation
+    802 816	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudSearch
+    802 816	/home/pi/Downloads/owncloud/apps/external
+    798 720	/home/pi/Downloads/owncloud/apps/firewall/vendor/jqueryui-timepicker-addon
+    782 336	/home/pi/Downloads/owncloud/apps/systemtags
+    774 144	/home/pi/Downloads/owncloud/apps/files_versions
+    770 048	/home/pi/Downloads/owncloud/apps/metrics/vendor/symfony
+    757 760	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/File
+    741 376	/home/pi/Downloads/pyocclient/.git
+    741 376	/home/pi/Downloads/owncloud/apps/windows_network_drive
+    737 280	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Bigquery
+    724 992	/home/pi/Downloads/owncloud/apps/password_policy
+    724 992	/home/pi/Downloads/owncloud/apps/firstrunwizard
+    720 896	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/monolog
+    716 800	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/monolog/monolog
+    712 704	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests
+    712 704	/home/pi/Downloads/owncloud/apps/comments
+    712 704	/home/pi/Downloads/docs/modules/user_manual/assets/images/files
+    704 512	/home/pi/Downloads/docs/modules/user_manual/assets/images/personal-settings
+    700 416	/home/pi/Downloads/owncloud/apps/templateeditor
+    700 416	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudHealthcare
+    692 224	/home/pi/Downloads/owncloud/apps/comments/l10n
+    692 224	/home/pi/Downloads/docs/modules/admin_manual/assets/images/appliance/ucs/collabora
+    692 224	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/third_party/libdisasm
+    688 128	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Docs
+    688 128	/home/pi/Downloads/owncloud/apps/files_antivirus/l10n
+    679 936	/home/pi/Downloads/docs/modules/admin_manual/pages/configuration/server
+    675 840	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/compiler
+    663 552	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Analytics
+    663 552	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AdExchangeBuyerII
+    655 360	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/monolog/monolog/src
+    651 264	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/monolog/monolog/src/Monolog
+    651 264	/home/pi/Downloads/docs/modules/admin_manual/assets/images/configuration/integration
+    647 168	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/Functional
+    647 168	/home/pi/Downloads/docs/modules/admin_manual/assets/images/configuration/integration/ms-teams
+    643 072	/home/pi/Downloads/owncloud/apps/systemtags/l10n
+    634 880	/home/pi/Downloads/owncloud/apps/federation/l10n
+    634 880	/home/pi/Downloads/owncloud/apps/external/l10n
+    626 688	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Directory
+    618 496	/home/pi/Downloads/owncloud/apps/firewall/vendor/font-awesome/fonts
+    614 400	/home/pi/Downloads/owncloud/apps/files_mediaviewer/js
+    614 400	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/guzzlehttp/guzzle
+    614 400	/home/pi/Desktop/owncloud/client/shell_integration/icons/icns
+    606 208	/home/pi/Downloads/owncloud/apps/notifications
+    606 208	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Books
+    602 112	/home/pi/Downloads/owncloud/apps/web/css
+    598 016	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Slides
+    593 920	/home/pi/Downloads/owncloud/apps/updatenotification
+    593 920	/home/pi/Downloads/owncloud/apps/graphapi/vendor/symfony
+    593 920	/home/pi/Downloads/owncloud/apps/files_versions/l10n
+    585 728	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac/sender
+    581 632	/home/pi/Downloads/owncloud/apps/oauth2/vendor
+    581 632	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Container
+    577 536	/home/pi/Downloads/pyocclient/.git/objects
+    569 344	/home/pi/Downloads/pyocclient/.git/objects/pack
+    561 152	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CertificateAuthorityService
+    557 056	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/windows
+    552 960	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/Functional/Resources
+    548 864	/home/pi/Downloads/owncloud/apps/metrics/vendor/symfony/serializer
+    548 864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Monitoring
+    548 864	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/validator/Constraints
+    548 864	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/serializer
+    544 768	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/phpdocumentor
+    540 672	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Spanner
+    536 576	/home/pi/Downloads/owncloud/apps/templateeditor/l10n
+    536 576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ToolResults
+    532 480	/home/pi/Downloads/owncloud/apps/guests
+    528 384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Crypt/EC
+    524 288	/home/pi/Downloads/owncloud/apps/oauth2/vendor/rowbot
+    524 288	/home/pi/Downloads/owncloud/apps/firstrunwizard/l10n
+    524 288	/home/pi/Downloads/owncloud/apps/files_external_ftp
+    520 192	/home/pi/Downloads/owncloud/apps/windows_network_drive/lib
+    520 192	/home/pi/Downloads/owncloud/apps/oauth2/vendor/rowbot/url
+    520 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/File/ASN1
+    512 000	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/File/ASN1/Maps
+    512 000	/home/pi/Downloads/owncloud/apps/federatedfilesharing/l10n
+    512 000	/home/pi/Desktop/owncloud/client/shell_integration/icons/nopadding
+    507 904	/home/pi/Downloads/docs/modules/admin_manual/assets/images/appliance/setup
+    499 712	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Devprojects
+    495 616	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ServiceNetworking
+    495 616	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Dataproc
+    495 616	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Cloudchannel
+    483 328	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/guzzlehttp/guzzle/src
+    479 232	/home/pi/Downloads/owncloud/apps/updatenotification/l10n
+    479 232	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/icewind
+    479 232	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Logging
+    475 136	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ruler
+    475 136	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AndroidEnterprise
+    475 136	/home/pi/Downloads/docs/modules/user_manual/assets/images/enterprise
+    471 040	/home/pi/Downloads/docs/modules/user_manual/assets/images/enterprise/collaboration
+    466 944	/home/pi/Downloads/docs/modules/user_manual/assets/images/enterprise/collaboration/secure-view
+    462 848	/home/pi/Downloads/owncloud/apps/graphapi/vendor/guzzlehttp/guzzle
+    462 848	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudMachineLearningEngine
+    458 752	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Apigee/Resource
+    458 752	/home/pi/Downloads/docs/modules/user_manual/assets/images/collaboration
+    454 656	/home/pi/Downloads/docs/modules/user_manual/assets/images/collaboration/secure-view
+    450 560	/home/pi/Downloads/owncloud/apps/sharepoint/3rdparty
+    450 560	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudAsset
+    450 560	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AdExchangeBuyer
+    450 560	/home/pi/Downloads/docs/modules/user_manual/assets/images/personal-settings/general
+    450 560	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/common/dwarf
+    446 464	/home/pi/Downloads/docs/modules/admin_manual/assets/images/enterprise/external_storage/windows_network_drive
+    438 272	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudTalentSolution
+    438 272	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/linux
+    434 176	/home/pi/Downloads/owncloud/apps/files_sharing/lib
+    434 176	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/common/mac
+    430 080	/home/pi/Downloads/owncloud/apps/password_policy/l10n
+    430 080	/home/pi/Downloads/docs/modules/admin_manual/assets/images/apps/files_antivirus
+    425 984	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/monolog/monolog/src/Monolog/Handler
+    425 984	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/php/vendor/guzzlehttp/guzzle
+    421 888	/home/pi/Downloads/owncloud/apps/user_ldap/lib
+    421 888	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ServiceManagement
+    417 792	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AlertCenter
+    413 696	/home/pi/Downloads/owncloud/apps/sharepoint/3rdparty/libSharepoint
+    413 696	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/stream
+    413 696	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n
+    413 696	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/SQLAdmin
+    413 696	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ServiceConsumerManagement
+    413 696	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/RemoteBuildExecution
+    413 696	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudRetail
+    413 696	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AndroidManagement
+    409 600	/home/pi/Downloads/owncloud/apps/files_external_ftp/l10n
+    409 600	/home/pi/Downloads/docs/modules/user_manual/assets/images/integration
+    409 600	/home/pi/Downloads/docs/modules/admin_manual/assets/images/installation
+    405 504	/home/pi/Downloads/docs/modules/user_manual/assets/images/integration/ms-teams
+    401 408	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Classroom
+    401 408	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/php/vendor/guzzlehttp/psr7
+    397 312	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ContainerAnalysis
+    397 312	/home/pi/Downloads/docs/modules/user_manual/assets/images/custom-groups
+    393 216	/home/pi/filelist.txt
+    393 216	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Appengine
+    393 216	/home/pi/Downloads/docs/modules/admin_manual/assets/images/configuration/server/security
+    389 120	/home/pi/Downloads/owncloud/apps/sharepoint/3rdparty/libSharepoint/src
+    389 120	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ServiceUsage
+    389 120	/home/pi/Downloads/docs/modules/developer_manual/pages/app
+    380 928	/home/pi/Downloads/owncloud/apps/sharepoint/3rdparty/libSharepoint/src/sharepoint
+    380 928	/home/pi/Desktop/owncloud/client/test/gui
+    376 832	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Math
+    376 832	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/GoogleAnalyticsAdmin
+    372 736	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/iterator
+    372 736	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PeopleService
+    372 736	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudRun
+    372 736	/home/pi/Desktop/owncloud/client/src/common
+    368 640	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Firestore
+    368 640	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Dfareporting/Resource
+    364 544	/home/pi/Downloads/owncloud/apps/graphapi/vendor/symfony/polyfill-intl-idn
+    364 544	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/TagManager
+    360 448	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/icewind/smb
+    360 448	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/auth
+    356 352	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AndroidPublisher
+    348 160	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Iam
+    348 160	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Games
+    344 064	/home/pi/Downloads/owncloud/apps/firewall/vendor/jqueryui-timepicker-addon/dist
+    344 064	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudResourceManager
+    344 064	/home/pi/Downloads/docs/modules/admin_manual/pages/enterprise
+    339 968	/home/pi/Downloads/owncloud/apps/user_ldap/vendor
+    339 968	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AIPlatformNotebooks
+    339 968	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/google_breakpad
+    335 872	/home/pi/Downloads/owncloud/apps/user_ldap/vendor/ui-multiselect
+    335 872	/home/pi/Downloads/owncloud/apps/files_external/lib
+    335 872	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/BigtableAdmin
+    335 872	/home/pi/Desktop/owncloud/client/theme
+    331 776	/home/pi/Downloads/owncloud/apps/guests/l10n
+    331 776	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/SecurityCommandCenter
+    331 776	/home/pi/Downloads/docs/modules/admin_manual/assets/images/docker
+    327 680	/home/pi/Downloads/docs/modules/developer_manual/assets/images/img
+    323 584	/home/pi/Downloads/owncloud/apps/theme-enterprise
+    323 584	/home/pi/Downloads/owncloud/apps/sharepoint/3rdparty/libSharepoint/src/sharepoint/wsdl
+    323 584	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Testing
+                                                                                                                                                                                                                                                                                                                                                                                                                                    .,K                                                323 584	/home/pi/Downloads/docs/modules/developer_manual/assets/images/img/7
+319 488	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/guzzlehttp/psr7
+319 488	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/HangoutsChat
+319 488	/home/pi/Downloads/docs/modules/admin_manual/pages/installation
+319 488	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/common/linux
+315 392	/home/pi/Downloads/owncloud/apps/oauth2/l10n
+315 392	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/GameServices
+315 392	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DataCatalog
+315 392	/home/pi/Downloads/owncloud/apps/encryption/lib
+311 296	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/icewind/smb/src
+311 296	/home/pi/Downloads/docs/modules/admin_manual/pages/configuration/server/occ_commands
+307 200	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Net
+307 200	/home/pi/Downloads/docs/modules/admin_manual/assets/images/enterprise/external_storage/onedrive
+307 200	/home/pi/Downloads/docs/modules/admin_manual/assets/images/appliance/ucs/clamav
+303 104	/home/pi/Downloads/owncloud/apps/oauth2/vendor/rowbot/url/tests
+303 104	/home/pi/Downloads/owncloud/apps/graphapi/vendor/symfony/polyfill-intl-idn/Resources
+303 104	/home/pi/Downloads/owncloud/apps/graphapi/vendor/guzzlehttp/guzzle/src
+303 104	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Crypt/EC/Curves
+303 104	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Vault
+303 104	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PlusDomains
+303 104	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/JobService
+303 104	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DisplayVideo/Resource
+303 104	/home/pi/Downloads/docs/modules/user_manual/pages
+299 008	/home/pi/Downloads/owncloud/apps/graphapi/vendor/symfony/polyfill-intl-idn/Resources/unidata
+299 008	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/auth/src
+299 008	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Storage
+294 912	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/RealTimeBidding
+294 912	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Drive
+294 912	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/windows/binaries
+290 816	/home/pi/Downloads/owncloud/apps/graphapi/vendor/guzzlehttp/psr7
+290816	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Logging/Resource
+290816	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/mac
+286720	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Datastore
+282624	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Math/BigInteger
+282624	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/GKEHub
+278528	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines
+278528	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/SASPortalTesting
+278528	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Sasportal
+278528	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/RecommendationsAI
+278528	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Gmail
+278528	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/php/vendor/guzzlehttp/guzzle/src
+278528	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/src
+278528	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac/testapp
+274432	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ServiceUser
+274432	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Partners
+274432	/home/pi/Downloads/docs/modules/admin_manual/assets/images/apps/user_ldap
+270336	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudIdentity
+270336	/home/pi/Downloads/docs/modules/admin_manual/assets/images/apps/user_ldap/ldap-wizard
+266240	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Calendar
+266240	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/phpdocumentor/reflection-docblock
+262144	/home/pi/Downloads/owncloud/apps/firewall/vendor/jqueryui-timepicker-addon/src
+262144	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Networkconnectivity
+262144	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/linux/minidump_writer
+258048	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Crypt/Common
+258048	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Pubsub
+258048	/home/pi/Downloads/docs/modules/admin_manual/assets/images/configuration/files/external_storage/dropbox
+253952	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Dialogflow/Resource
+253952	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient
+249856	/home/pi/Downloads/owncloud/apps/theme-enterprise/core
+249856	/home/pi/Downloads/owncloud/apps/notifications/l10n
+249856	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Safebrowsing
+249856	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudBuild
+249856	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/phpdocumentor/reflection-docblock/src
+245760	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/src/libcrashreporter-gui
+241664	/home/pi/Downloads/owncloud/apps/user_ldap/js
+241664	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/src/Beta/Microsoft/Graph/CallRecords
+241664	/home/pi/Downloads/owncloud/apps/graphapi/vendor/guzzlehttp/psr7/src
+241664	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/guzzlehttp/ringphp
+241664	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/guzzlehttp/psr7/src
+241664	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ShoppingContent/Resource
+241664	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Plus
+241664	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/MyBusinessLodging
+241664	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ManagedServiceforMicrosoftActiveDirectoryConsumerAPI
+237568	/home/pi/Downloads/owncloud/apps/user_ldap/js/wizard
+237568	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/src/Beta/Microsoft/Graph/CallRecords/Model
+237568	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/OnDemandScanning
+237568	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DriveActivity
+237568	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AnalyticsData
+237568	/home/pi/Downloads/owncloud/apps/federatedfilesharing/lib
+233472	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/math
+233472	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DatabaseMigrationService
+233472	/home/pi/Downloads/docs/modules/ROOT
+229376	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Dns
+229376	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudDatabaseMigrationService
+229376	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AndroidProvisioningPartner
+229376	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AnalyticsReporting
+229376	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/php/vendor/guzzlehttp/promises
+229376	/home/pi/Desktop/owncloud/client/shell_integration/icons/1024x1024
+225280	/home/pi/Downloads/owncloud/apps/theme-enterprise/core/img
+225280	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Transcoder
+225280	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Recommender
+225280	/home/pi/Downloads/docs/modules/admin_manual/assets/images/custom-groups
+221184	/home/pi/Downloads/pyocclient/owncloud
+221184	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/psr
+221184	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/YouTube/Resource
+221184	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DLP/Resource
+221184	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudHealthcare/Resource
+221184	/home/pi/Downloads/docs/modules/ROOT/pages
+221184	/home/pi/Downloads/docs/modules/admin_manual/assets/images/enterprise/external_storage/ldap-home-connector
+217088	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/OSConfig
+217088	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/IdentityToolkit
+217088	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Genomics
+217088	/home/pi/Desktop/owncloud/client/shell_integration/windows/OCOverlays
+212992	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ruler/Test
+212992	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/compiler/Test
+212992	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FirebaseManagement
+212992	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DeploymentManager
+212992	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudKMS
+208896	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/src/CallRecords
+208896	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/file
+208896	/home/pi/Downloads/owncloud/apps/firewall/vendor/jqueryui-timepicker-addon/dist/i18n
+208896	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient/src
+208896	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/NetworkManagement
+208896	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudMemorystoreforMemcached
+208896	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/phpdocumentor/type-resolver
+208896	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/phpdocumentor/reflection-docblock/src/DocBlock
+204800	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/src/CallRecords/Model
+204800	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ustring
+204800	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PolicySimulator
+204800	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DataprocMetastore
+204800	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudIot
+204800	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AccessContextManager
+204800	/home/pi/Downloads/docs/modules/admin_manual/pages/configuration/server/occ_commands/core_commands
+200704	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/stream/Test
+200704	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Blogger
+200704	/home/pi/Downloads/docs/modules/admin_manual/pages/configuration/files
+196608	/home/pi/Downloads/owncloud/apps/graphapi/vendor/symfony/polyfill-intl-normalizer
+196608	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/validator/Mapping
+196608	/home/pi/Downloads/docs/overlay
+196608	/home/pi/Downloads/docs/modules/user_manual/assets/images/personal-settings/security
+196608	/home/pi/Downloads/docs/modules/developer_manual/examples/core/webdav_api
+192512	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/compiler/Llk
+192512	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudDomains
+192512	/home/pi/Downloads/owncloud/apps/files_antivirus/lib
+192512	/home/pi/Downloads/owncloud/apps/admin_audit
+192512	/home/pi/Downloads/docs/modules/developer_manual/assets/images/img/7/actions
+188416	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Script
+188416	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Directory/Resource
+188416	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Adsense
+188416	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/laminas
+188416	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/php/vendor/guzzlehttp/psr7/tests
+188416	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac/testapp/English.lproj
+184320	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ruler/Test/Unit
+184320	/home/pi/Downloads/owncloud/apps/firewall/vendor/es5-shim
+184320	/home/pi/Downloads/owncloud/apps/files_external/lib/Lib
+184320	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PhotosLibrary
+184320	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudLifeSciences
+184320	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudFilestore
+184320	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Analytics/Resource
+184320	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AdExchangeBuyerII/Resource
+184320	/home/pi/Downloads/docs/modules/developer_manual/pages/app/fundamentals
+184320	/home/pi/Desktop/owncloud/client/changelog/2.9.0_2021-09-08
+180224	/home/pi/Downloads/owncloud/apps/metrics/vendor/symfony/serializer/Normalizer
+180224	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ArtifactRegistry
+180224	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/serializer/Normalizer
+180224	/home/pi/Downloads/docs/modules/user_manual/assets/images/apps
+180224	/home/pi/Downloads/docs/modules/admin_manual/examples
+180224	/home/pi/Desktop/owncloud/client/theme/colored
+176128	/home/pi/Downloads/owncloud/apps/password_policy/lib
+176128	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/People
+176128	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/phpdocumentor/type-resolver/src
+176128	/home/pi/Desktop/owncloud/client/src/csync
+176128	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/third_party/curl
+172032	/home/pi/Downloads/owncloud/apps/oauth2/vendor/rowbot/url/src
+172032	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/protocol
+172032	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/SecretManager
+172032	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PubsubLite
+172032	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/google_breakpad/processor
+167936	/home/pi/Downloads/owncloud/apps/firewall/vendor/jqueryui-timepicker-addon/src/i18n
+167936	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudUserAccounts
+167936	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Cih
+167936	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/BigQueryDataTransfer
+167936	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Apigateway
+167936	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/common/windows
+163840	/home/pi/Downloads/owncloud/apps/windows_network_drive/lib/acl
+163840	/home/pi/Downloads/owncloud/apps/oauth2/lib
+163840	/home/pi/Downloads/owncloud/apps/graphapi/vendor/symfony/polyfill-intl-normalizer/Resources
+163840	/home/pi/Downloads/owncloud/apps/graphapi/vendor/guzzlehttp/promises
+163840	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/compiler/Test/Unit
+163840	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/paragonie
+163840	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/TrafficDirectorService
+163840	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudTasks
+163840	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/webmozart
+163840	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/php/vendor/guzzlehttp/psr7/src
+163840	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/google_breakpad/common
+159744	/home/pi/Downloads/pyocclient/build
+159744	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/stream/Test/Unit
+159744	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/SystemsManagement
+159744	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/webmozart/assert
+159744	/home/pi/Desktop/owncloud/client/test/gui/shared
+159744	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/src/libcrashreporter-gui/linux-backtrace-generator
+159744	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/third_party/lss
+159744	/home/pi/Desktop/owncloud/client/changelog/2.7.0_2020-11-13
+155648	/home/pi/Downloads/owncloud/apps/metrics/vendor/symfony/property-access
+155648	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/iterator/Test
+155648	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Storagetransfer
+155648	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Manager
+155648	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Eventarc
+155648	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudPrivateCatalogProducer
+155648	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudDebugger
+155648	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/property-access
+155648	/home/pi/Downloads/docs/modules/developer_manual/pages/core
+155648	/home/pi/Downloads/docs/modules/admin_manual/assets/images/enterprise/reporting
+155648	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac/Breakpad.xcodeproj
+155648	/home/pi/Desktop/owncloud/client/shell_integration/windows/OCOverlays/ico
+151552	/home/pi/Downloads/pyocclient/build/lib
+151552	/home/pi/Downloads/owncloud/apps/graphapi/vendor/symfony/polyfill-intl-normalizer/Resources/unidata
+151552	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/iterator/Test/Unit
+151552	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Translate
+151552	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Spectrum
+151552	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Fusiontables
+151552	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudRedis
+151552	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags
+151552	/home/pi/Downloads/docs/modules/admin_manual/assets/images/enterprise/reporting/metrics
+151552	/home/pi/Desktop/owncloud/client/admin
+147456	/home/pi/Downloads/pyocclient/build/lib/owncloud
+147456	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/guzzlehttp/streams
+147456	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/GoogleAnalyticsAdmin/Resource
+147456	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudMachineLearning
+147456	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudFunctions
+147456	/home/pi/Downloads/owncloud/apps/configreport
+147456	/home/pi/Downloads/docs/modules/admin_manual/assets/images/configuration/server/import-ssl-cert
+143360	/home/pi/Downloads/owncloud/apps/firewall/appinfo
+143360	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Proximitybeacon
+143360	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DoubleClickBidManager
+143360	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AdMob
+143360	/home/pi/Downloads/owncloud/apps/files_classifier/appinfo
+143360	/home/pi/Downloads/docs/modules/admin_manual/assets/images/apps/search_elastic
+143360	/home/pi/Desktop/owncloud/client/admin/osx
+139264	/home/pi/Downloads/owncloud/apps/user_ldap/vendor/ui-multiselect/demos
+139264	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/compiler/Documentation
+139264	/home/pi/Downloads/owncloud/apps/firewall/vendor/jqueryui-timepicker-addon/lib
+139264	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/guzzlehttp/ringphp/src
+139264	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Firebaseappcheck
+139264	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DataFusion
+139264	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/polyfill-mbstring
+139264	/home/pi/Downloads/docs/modules/developer_manual/examples/app
+139264	/home/pi/Desktop/owncloud/client/src/gui/wizard
+135168	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/react
+135168	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/WebSecurityScanner
+135168	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Recommender/Resource
+135168	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Monitoring/Resource
+135168	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudSearch/Resource
+135168	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudIAP
+135168	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Cloudbilling
+135168	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Classroom/Resource
+135168	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AdSenseHost
+135168	/home/pi/Downloads/docs/modules/user_manual/assets/images/public-link
+135168	/home/pi/Downloads/docs/modules/admin_manual/pages/maintenance
+135168	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/windows/crash_generation
+131072	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/react/promise
+131072	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Fitness
+131072	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudComposer
+131072	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CertificateAuthorityService/Resource
+131072	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AdExchangeSeller
+131072	/home/pi/Downloads/docs/modules/user_manual/assets/images/session_management
+131072	/home/pi/Downloads/docs/modules/admin_manual/pages/configuration/user
+131072	/home/pi/Downloads/docs/modules/admin_manual/assets/attachments
+131072	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/ios
+126976	/home/pi/Downloads/owncloud/apps/web/themes
+126976	/home/pi/Downloads/owncloud/apps/market/lib
+126976	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/consistency
+126976	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/compiler/Test/Unit/Llk
+126976	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/WebRisk
+126976	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ServiceDirectory
+126976	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/SecurityCommandCenter/Resource
+126976	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Replicapool
+126976	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Mirror
+126976	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FirebaseRules
+126976	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ChromePolicy
+126976	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/phpdocumentor/type-resolver/src/Types
+126976	/home/pi/Downloads/docs/modules/user_manual/pages/files
+126976	/home/pi/Downloads/docs/modules/admin_manual/pages/_partials
+122880	/home/pi/Downloads/owncloud/apps/web/themes/owncloud
+122880	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/event
+122880	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/TPU
+122880	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Books/Resource
+122880	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/BinaryAuthorization
+122880	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/BigQueryReservation
+122880	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/laminas/laminas-zendframework-bridge
+122880	/home/pi/Desktop/owncloud/client/shell_integration/MacOSX
+122880	/home/pi/Desktop/owncloud/client/resources
+118784	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Crypt/EC/Formats
+118784	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Iam/Resource
+118784	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FirebaseDynamicLinks
+118784	/home/pi/Desktop/owncloud/client/shell_integration/icons/512x512
+118784	/home/pi/Desktop/owncloud/client/resources/font-awesome
+114688	/home/pi/Downloads/owncloud/apps/web/themes/owncloud/assets
+114688	/home/pi/Downloads/owncloud/apps/firewall/vendor/jqueryui-timepicker-addon/lib/jasmine-1.3.1
+114688	/home/pi/Downloads/owncloud/apps/files_ldap_home
+114688	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/icewind/streams
+114688	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/icewind/smb/src/Exception
+114688	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/guzzlehttp/streams/src
+114688	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Spanner/Resource
+114688	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/SASPortalTesting/Resource
+114688	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Sasportal/Resource
+114688	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Reports
+114688	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/HomeGraphService
+114688	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Dataproc/Resource
+114688	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Dataflow/Resource
+114688	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Container/Resource
+114688	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudNaturalLanguage
+114688	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudMonitoring
+114688	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CivicInfo
+114688	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AndroidEnterprise/Resource
+114688	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/webmozart/assert/src
+114688	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/property-info
+114688	/home/pi/Downloads/owncloud/apps/federation/lib
+114688	/home/pi/Downloads/docs/modules/user_manual/assets/images/sharing
+114688	/home/pi/Downloads/docs/modules/user_manual/assets/images/guest-users
+114688	/home/pi/Downloads/docs/modules/developer_manual/pages/general
+114688	/home/pi/Downloads/docs/modules/admin_manual/assets/images/enterprise/file_management
+114688	/home/pi/Downloads/docs/docs/images/what-is-asciidoc
+114688	/home/pi/Desktop/owncloud/client/src/libsync/creds
+114688	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/mac/dump_syms
+114688	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/windows/unittests
+110592	/home/pi/Downloads/owncloud/apps/sharepoint/3rdparty/libSharepoint/src/sharepoint/wsdl/2013
+110592	/home/pi/Downloads/owncloud/apps/sharepoint/3rdparty/libSharepoint/src/sharepoint/wsdl/2010
+110592	/home/pi/Downloads/owncloud/apps/metrics/vendor/composer
+110592	/home/pi/Downloads/owncloud/apps/graphapi/vendor/guzzlehttp/promises/src
+110592	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/exception
+110592	/home/pi/Downloads/owncloud/apps/firewall/js
+110592	/home/pi/Downloads/owncloud/apps/files_sharing/appinfo
+110592	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/paragonie/constant_time_encoding
+110592	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/YouTubeReporting
+110592	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Storage/Resource
+110592	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ServiceControl
+110592	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/QPXExpress
+110592	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PaymentsResellerSubscription
+110592	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Coordinate
+110592	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudShell
+110592	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Assuredworkloads
+110592	/home/pi/Downloads/owncloud/apps/admin_audit/handlers
+106496	/home/pi/Downloads/owncloud/apps/notifications/lib
+106496	/home/pi/Downloads/owncloud/apps/metrics/vendor/symfony/serializer/Mapping
+106496	/home/pi/Downloads/owncloud/apps/firewall/vendor/font-awesome/scss
+106496	/home/pi/Downloads/owncloud/apps/firewall/vendor/font-awesome/less
+106496	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Crypt/RSA
+106496	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Tracing
+106496	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/StreetViewPublish
+106496	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/SemanticTile
+106496	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Prediction
+106496	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DataCatalog/Resource
+106496	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ConsumerSurveys
+106496	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudSourceRepositories
+106496	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AndroidPublisher/Resource
+106496	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/serializer/Mapping
+106496	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/composer
+106496	/home/pi/Downloads/docs/modules/developer_manual/assets/images/app
+106496	/home/pi/Downloads/docs/modules/admin_manual/pages/installation/manual_installation
+106496	/home/pi/Downloads/docs/modules/admin_manual/assets/images/configuration/files/sharing
+106496	/home/pi/Downloads/docs/modules/admin_manual/assets/attachments/configuration
+106496	/home/pi/Desktop/owncloud/client/src/gui/socketapi
+106496	/home/pi/Desktop/owncloud/client/shell_integration/icons/nopadding/sync.iconset
+102400	/home/pi/Downloads/owncloud/apps/sharepoint/js
+102400	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/composer
+102400	/home/pi/Downloads/owncloud/apps/files_external/js
+102400	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/TagManager/Resource
+102400	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PagespeedInsights
+102400	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/OrgPolicyAPI
+102400	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Doubleclicksearch
+102400	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CustomSearchAPI
+102400	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Customsearch
+102400	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Area120Tables
+102400	/home/pi/Downloads/owncloud/apps/files_classifier/lib
+102400	/home/pi/Downloads/docs/modules/user_manual/assets/images/files/access_webdav
+102400	/home/pi/Downloads/docs/modules/developer_manual/pages/webdav_api
+102400	/home/pi/Downloads/docs/modules/developer_manual/pages/core/apis
+102400	/home/pi/Downloads/docs/modules/developer_manual/pages/app/advanced
+102400	/home/pi/Downloads/docs/modules/developer_manual/examples/core/apis
+102400	/home/pi/Downloads/docs/modules/admin_manual/pages/configuration/server/occ_commands/app_commands
+102400	/home/pi/Downloads/docs/modules/admin_manual/pages/appliance
+102400	/home/pi/Downloads/docs/modules/admin_manual/examples/installation
+102400	/home/pi/Downloads/docs/modules/admin_manual/assets/attachments/configuration/user
+102 400	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/common/android
+ 98 304	/home/pi/Downloads/owncloud/apps/windows_network_drive/lib/notification_queue
+ 98 304	/home/pi/Downloads/owncloud/apps/sharepoint/lib
+ 98 304	/home/pi/Downloads/owncloud/apps/sharepoint/3rdparty/libSharepoint/src/sharepoint/wsdl/2007
+ 98 304	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Crypt/EC/Formats/Keys
+ 98 304	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/monolog/monolog/src/Monolog/Formatter
+ 98 304	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Speech
+ 98 304	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/SearchConsole
+ 98 304	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Reseller
+ 98 304	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/RecaptchaEnterprise
+ 98 304	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/MyBusinessAccountManagement
+ 98 304	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Gmail/Resource
+ 98 304	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DataLabeling/Resource
+ 98 304	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudScheduler
+ 98 304	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudRun/Resource
+ 98 304	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ApiKeysService
+ 98 304	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AccessApproval
+ 98 304	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/php/vendor/guzzlehttp/promises/tests
+ 98 304	/home/pi/Downloads/docs/modules/admin_manual/pages/enterprise/external_storage
+98304	/home/pi/Downloads/docs/modules/admin_manual/assets/attachments/configuration/user/oidc
+98304	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/windows/tests
+98304	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/solaris
+98304	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/linux/handler
+98304	/home/pi/Desktop/owncloud/client/shell_integration/MacOSX/OwnCloudFinderSync
+98304	/home/pi/Desktop/owncloud/client/shell_integration/icons/nopadding/ok_swm.iconset
+94208	/home/pi/Downloads/owncloud/apps/graphapi/vendor/psr
+94208	/home/pi/Downloads/owncloud/apps/files_versions/lib
+94208	/home/pi/Downloads/owncloud/apps/files_sharing/lib/Controller
+94208	/home/pi/Downloads/owncloud/apps/files_sharing/js
+94208	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Vision/Resource
+94208	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Surveys
+94208	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Resourceviews
+94208	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Pagespeedonline
+94208	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudTrace
+94208	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Cloudchannel/Resource
+94208	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/BigQueryConnectionService
+94208	/home/pi/Downloads/owncloud/apps/files_antivirus/appinfo
+94208	/home/pi/Downloads/docs/modules/developer_manual/pages/app/tutorial
+94208	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/php/vendor/psr
+94208	/home/pi/Downloads/docs/modules/admin_manual/assets/images/configuration/server/legal-settings
+94208	/home/pi/Desktop/owncloud/client/test/gui/shared/scripts
+94208	/home/pi/Desktop/owncloud/client/test/csync
+94208	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/mac/dump_syms/dump_syms.xcodeproj
+94208	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/mac/crash_report
+94208	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/windows/tests/crash_generation_app
+94208	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/solaris/handler
+94208	/home/pi/Desktop/owncloud/client/shell_integration/icons/nopadding/ok.iconset
+94208	/home/pi/Desktop/owncloud/client/changelog/2.6.3_2020-06-10
+90112	/home/pi/Downloads/owncloud/apps/user_ldap/appinfo
+90112	/home/pi/Downloads/owncloud/apps/graphapi/vendor/psr/http-message
+90112	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ruler/Test/Unit/Visitor
+90112	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/psr/http-message
+90112	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Replicapoolupdater
+90112	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PolyService
+90112	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudResourceManager/Resource
+90112	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Clouderrorreporting
+90112	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Autoscaler
+90112	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/firebase
+90112	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/validator/Mapping/Loader
+90112	/home/pi/Downloads/docs/modules/user_manual/assets/images/apps/activity
+90112	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/php/vendor/psr/http-message
+90112	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/curl
+90112	/home/pi/Downloads/docs/modules/developer_manual/examples/core/apis/ocs
+90112	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/drkonqi-parser
+90112	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/common/pecoff
+90112	/home/pi/Desktop/owncloud/client/shell_integration/icons/nopadding/warning.iconset
+86016	/home/pi/Downloads/owncloud/apps/user_ldap/vendor/ui-multiselect/i18n
+86016	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/math/Test
+86016	/home/pi/Downloads/owncloud/apps/firewall/lib
+86016	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Keep
+86016	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/GamesManagement
+86016	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Drive/Resource
+86016	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/firebase/php-jwt
+86016	/home/pi/Downloads/docs/modules/user_manual/assets/images/apps/market
+86016	/home/pi/Downloads/docs/modules/developer_manual/assets/images/mobile_development/android_library
+86016	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/linux
+86016	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac/tests
+81920	/home/pi/Downloads/owncloud/config
+81920	/home/pi/Downloads/owncloud/apps/metrics/vendor/symfony/serializer/Encoder
+81920	/home/pi/Downloads/owncloud/apps/graphapi/vendor/guzzlehttp/guzzle/src/Handler
+81920	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/math/Test/Unit
+81920	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/react/promise/src
+81920	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/psr/log
+81920	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Crypt/DSA
+81920	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Crypt/Common/Formats
+81920	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/paragonie/constant_time_encoding/src
+81920	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/icewind/streams/src
+81920	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/YouTubeAnalytics
+81920	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Networkconnectivity/Resource
+81920	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudPrivateCatalog
+81920	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudNaturalLanguageAPI
+81920	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Calendar/Resource
+81920	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Appengine/Resource
+81920	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/serializer/Encoder
+81920	/home/pi/Downloads/owncloud/apps/encryption/lib/Crypto
+81920	/home/pi/Downloads/docs/modules/developer_manual/pages/testing
+81920	/home/pi/Downloads/docs/modules/developer_manual/examples/core/webdav_api/search
+81920	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/responses
+81920	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/php/vendor/guzzlehttp/promises/src
+81920	/home/pi/Downloads/docs/modules/admin_manual/assets/images/configuration/server/email-configuration
+81920	/home/pi/Desktop/owncloud/client/test/testutils
+81920	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/common/mac/testing
+81920	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/windows/build
+81920	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac/Framework
+81920	/home/pi/Desktop/owncloud/client/shell_integration/icons/nopadding/error.iconset
+77824	/home/pi/Downloads/pyocclient/owncloud/test
+77824	/home/pi/Downloads/owncloud/apps/user_ldap/vendor/ui-multiselect/demos/assets
+77824	/home/pi/Downloads/owncloud/apps/notifications/img
+77824	/home/pi/Downloads/owncloud/apps/metrics/lib
+77824	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ruler/Documentation
+77824	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/protocol/Test
+77824	/home/pi/Downloads/owncloud/apps/files_external/lib/Lib/Storage
+77824	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/PHP
+77824	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Crypt/EC/BaseCurves
+77824	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/guzzlehttp/guzzle/src/Event
+77824	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Playmoviespartner
+77824	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PlayableLocations
+77824	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ManufacturerCenter
+77824	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FlightAvailability
+77824	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FirebaseRulesAPI
+77824	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Essentialcontacts
+77824	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Chromewebstore
+77824	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/BigtableAdmin/Resource
+77824	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/php/vendor/guzzlehttp/guzzle/src/Handler
+77824	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/windows/handler
+73728	/home/pi/Downloads/owncloud/apps/user_external
+73728	/home/pi/Downloads/owncloud/apps/oauth2/appinfo
+73728	/home/pi/Downloads/owncloud/apps/market/vendor
+73728	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/protocol/Test/Unit
+73728	/home/pi/Downloads/owncloud/apps/files_external/lib/Command
+73728	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/guzzlehttp/guzzle/src/Message
+73728	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ToolResults/Resource
+73728	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/SQLAdmin/Resource
+73728	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PubsubLite/Resource
+73728	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/GamesConfiguration
+73728	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FirebaseManagement/Resource
+73728	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FirebaseCloudMessaging
+73728	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudSpeechAPI
+73728	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudMachineLearningEngine/Resource
+73728	/home/pi/Downloads/docs/modules/developer_manual/pages/_partials
+73728	/home/pi/Downloads/docs/modules/admin_manual/assets/images/enterprise/firewall
+73728	/home/pi/Downloads/docs/bin
+73728	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac/crash_generation
+73728	/home/pi/Desktop/owncloud/client/shell_integration/windows/OCContextMenu
+69632	/home/pi/Downloads/pyocclient/docs
+69632	/home/pi/Downloads/pyocclient/build/lib/owncloud/test
+69632	/home/pi/Downloads/owncloud/apps/guests/lib
+69632	/home/pi/Downloads/owncloud/apps/graphapi/vendor/psr/http-message/src
+69632	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ustring/Documentation
+69632	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/compiler/Documentation/Fr
+69632	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/psr/http-message/src
+69632	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Crypt/Common/Formats/Keys
+69632	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Pubsub/Resource
+69632	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudTalentSolution/Resource
+69632	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/validator/Exception
+69632	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/polyfill-mbstring/Resources
+69632	/home/pi/Downloads/docs/modules/developer_manual/pages/mobile_development
+69632	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/php/vendor/psr/http-message/src
+69632	/home/pi/Downloads/docs/modules/developer_manual/examples/app/fundamentals
+69632	/home/pi/Downloads/docs/modules/admin_manual/pages/configuration/files/external_storage
+69632	/home/pi/Desktop/owncloud/client/src/gui/updater
+69632	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/common/testdata
+69632	/home/pi/Desktop/owncloud/client/.github
+69632	/home/pi/Desktop/owncloud/client/changelog/2.9.1_2021-10-13
+65536	/home/pi/Downloads/pyocclient/owncloud/__pycache__
+65536	/home/pi/Downloads/pyocclient/.git/hooks
+65536	/home/pi/Downloads/pyocclient/dist
+65536	/home/pi/Downloads/owncloud/apps/market/vendor/composer
+65536	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/compiler/Documentation/En
+65536	/home/pi/Downloads/owncloud/apps/firewall/rules
+65536	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/psr/log/Psr
+65536	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Crypt/RSA/Formats
+65536	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/guzzlehttp/ringphp/src/Client
+65536	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/guzzlehttp/ringphp/docs
+65536	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/auth/src/Credentials
+65536	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Workflows
+65536	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ServiceRegistry
+65536	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PlayMovies
+65536	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/GameServices/Resource
+65536	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FactCheckTools
+65536	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudIdentity/Resource
+65536	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudBillingBudget
+65536	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Bigquery/Resource
+65536	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/BigQueryDataTransfer/Resource
+65536	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AIPlatformNotebooks/Resource
+65536	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AdExchangeBuyer/Resource
+65536	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/polyfill-mbstring/Resources/unidata
+65536	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/phpdocumentor/reflection-common
+65536	/home/pi/Downloads/owncloud/apps/federatedfilesharing/appinfo
+65536	/home/pi/Downloads/docs/modules/admin_manual/pages/configuration/server/security
+65536	/home/pi/Downloads/docs/modules/admin_manual/assets/images/installation/manual_installation
+65536	/home/pi/Downloads/docs/.git/hooks
+65536	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/linux/md2core
+65536	/home/pi/Desktop/owncloud/client/.git/modules/src/3rdparty/libcrashreporter-qt/hooks
+65536	/home/pi/Desktop/owncloud/client/.git/hooks
+61440	/home/pi/geany1d38.txt
+61440	/home/pi/Downloads/owncloud/apps/windows_network_drive/appinfo
+61440	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/compiler/Test/Unit/Llk/Rule
+61440	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/compiler/Llk/Sampler
+61440	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/compiler/Llk/Rule
+61440	/home/pi/Downloads/owncloud/apps/files_sharing/lib/External
+61440	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/psr/log/Psr/Log
+61440	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Exception
+61440	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Crypt/RSA/Formats/Keys
+61440	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Crypt/DSA/Formats
+61440	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/icewind/smb/src/Wrapped
+61440	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Webmasters
+61440	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/SmartDeviceManagement
+61440	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ServiceNetworking/Resource
+61440	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Partners/Resource
+61440	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Games/Resource
+61440	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AndroidProvisioningPartner/Resource
+61440	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/validator/Validator
+61440	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/translation-contracts
+61440	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/laminas/laminas-xml
+61440	/home/pi/Downloads/owncloud/apps/encryption/appinfo
+61440	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/responses/shares
+61440	/home/pi/Downloads/docs/modules/developer_manual/assets/images/app/fundamentals
+61440	/home/pi/Downloads/docs/modules/admin_manual/pages/_partials/configuration
+61440	/home/pi/Downloads/docs/modules/admin_manual/assets/images/configuration/mimetypes
+61440	/home/pi/Downloads/docs/modules/admin_manual/assets/images/apps/impersonate
+61440	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/common/android/include
+61440	/home/pi/Desktop/owncloud/client/shell_integration/icons/256x256
+61440	/home/pi/Desktop/owncloud/client/changelog/unreleased
+57344	/home/pi/Downloads/owncloud/apps/sharepoint/ajax
+57344	/home/pi/Downloads/owncloud/apps/notifications/appinfo
+57344	/home/pi/Downloads/owncloud/apps/metrics/vendor/symfony/serializer/Exception
+57344	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/src/Beta/Microsoft/Graph/TermStore
+57344	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/regex
+57344	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/event/Test
+57344	/home/pi/Downloads/owncloud/apps/firewall/vendor/font-awesome/css
+57344	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/monolog/monolog/src/Monolog/Processor
+57344	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/WorkflowExecutions
+57344	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/RecommendationsAI/Resource
+57344	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PolicyTroubleshooter
+57344	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PolicySimulator/Resource
+57344	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PeopleService/Resource
+57344	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Localservices
+57344	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Ideahub
+57344	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Firestore/Resource
+57344	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FirebaseDynamicLinksAPI
+57344	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Devprojects/Resource
+57344	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CommentAnalyzer
+57344	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Appsactivity
+57344	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AndroidManagement/Resource
+57344	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Adsense/Resource
+57344	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/serializer/Exception
+57344	/home/pi/Downloads/owncloud/apps/configreport/lib
+57344	/home/pi/Downloads/docs/modules/user_manual/pages/files/webgui
+57344	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/php/vendor/composer
+57344	/home/pi/Downloads/docs/modules/developer_manual/assets/images/app/fundamentals/controllers
+57344	/home/pi/Downloads/docs/modules/admin_manual/assets/images/enterprise/external_storage/sharepoint
+57344	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/third_party/libdisasm/swig
+57344	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/common/solaris
+57344	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac/handler/minidump_test.xcodeproj
+57344	/home/pi/Desktop/owncloud/client/shell_integration/windows/OCUtil
+57344	/home/pi/Desktop/owncloud/client/cmake
+53248	/home/pi/Downloads/owncloud/apps/user_ldap/templates
+53248	/home/pi/Downloads/owncloud/apps/metrics/vendor/symfony/serializer/Mapping/Loader
+53248	/home/pi/Downloads/owncloud/apps/metrics/appinfo
+53248	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/src/Beta/Microsoft/Graph/TermStore/Model
+53248	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/zformat
+53248	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/exception/Test
+53248	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/event/Test/Unit
+53248	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/PHP/Reductions
+53248	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/RealTimeBidding/Resource
+53248	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Proximitybeacon/Resource
+53248	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/OrgPolicyAPI/Resource
+53248	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/IAMCredentials
+53248	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Firebaseappcheck/Resource
+53248	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Essentialcontacts/Resource
+53248	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Document/Resource
+53248	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Dns/Resource
+53248	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Digitalassetlinks
+53248	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DataprocMetastore/Resource
+53248	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudRetail/Resource
+53248	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudPrivateCatalog/Resource
+53248	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudKMS/Resource
+53248	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudIot/Resource
+53248	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudDatabaseMigrationService/Resource
+53248	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ArtifactRegistry/Resource
+53248	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AccessContextManager/Resource
+53248	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/serializer/Mapping/Loader
+53248	/home/pi/Downloads/owncloud/apps/federation/appinfo
+53248	/home/pi/Downloads/docs/modules/developer_manual/examples/core/webdav_api/group
+53248	/home/pi/Downloads/docs/modules/admin_manual/pages/maintenance/upgrading
+53248	/home/pi/Downloads/docs/modules/admin_manual/pages/appliance/configuration
+53248	/home/pi/Downloads/docs/modules/admin_manual/examples/configuration
+53248	/home/pi/Downloads/docs/modules/admin_manual/assets/images/configuration/files/sharing/federated-cloud-sharing
+53248	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/mac/crash_report/crash_report.xcodeproj
+53248	/home/pi/Desktop/owncloud/client/shell_integration/icons/72x72
+53248	/home/pi/Desktop/owncloud/client/resources/font-awesome/light
+53248	/home/pi/Desktop/owncloud/client/resources/font-awesome/dark
+53248	/home/pi/Desktop/owncloud/client/cmake/modules
+49152	/home/pi/Downloads/pyocclient/docs/source
+49152	/home/pi/Downloads/owncloud/apps/windows_network_drive/lib/notification_queue/storage_serializer
+49152	/home/pi/Downloads/owncloud/apps/user_ldap/vendor/ui-multiselect/src
+49152	/home/pi/Downloads/owncloud/apps/updatenotification/lib
+49152	/home/pi/Downloads/owncloud/apps/sharepoint/img
+49152	/home/pi/Downloads/owncloud/apps/password_policy/appinfo
+49152	/home/pi/Downloads/owncloud/apps/oauth2/vendor/composer
+49152	/home/pi/Downloads/owncloud/apps/oauth2/lib/Db
+49152	/home/pi/Downloads/owncloud/apps/graphapi/vendor/guzzlehttp/guzzle/src/Exception
+49152	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/visitor
+49152	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ustring/Test
+49152	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/stream/IStream
+49152	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ruler/Visitor
+49152	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ruler/Test/Unit/Model
+49152	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/exception/Test/Unit
+49152	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/consistency/Test
+49152	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/System
+49152	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/paragonie/random_compat
+49152	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/icewind/smb/src/Native
+49152	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/guzzlehttp/guzzle/src/Exception
+49152	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/GKEHub/Resource
+49152	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Fusiontables/Resource
+49152	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DomainsRDAP
+49152	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DeploymentManager/Resource
+49152	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DatabaseMigrationService/Resource
+49152	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudPrivateCatalogProducer/Resource
+49152	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudAsset/Resource
+49152	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Blogger/Resource
+49152	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Apigateway/Resource
+49152	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AdSenseHost/Resource
+49152	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AdExchangeSeller/Resource
+49152	/home/pi/Downloads/owncloud/apps/external/appinfo
+49152	/home/pi/Downloads/docs/modules/developer_manual/examples/app/storage-backend
+49152	/home/pi/Downloads/docs/modules/developer_manual/examples/app/fundamentals/database
+49152	/home/pi/Downloads/docs/modules/admin_manual/assets/images/maintenance
+49152	/home/pi/Desktop/owncloud/client/test/gui/shared/scripts/pageObjects
+49152	/home/pi/Desktop/owncloud/client/src/gui/models
+49152	/home/pi/Desktop/owncloud/client/src/cmd
+49152	/home/pi/Desktop/owncloud/client/src/3rdparty/qtsingleapplication
+49152	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/third_party/linux
+45056	/home/pi/Downloads/owncloud/apps/templateeditor/lib
+45056	/home/pi/Downloads/owncloud/apps/sharepoint/appinfo
+45056	/home/pi/Downloads/owncloud/apps/firstrunwizard/js
+45056	/home/pi/Downloads/owncloud/apps/firstrunwizard/appinfo
+45056	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ustring/Test/Unit
+45056	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/stream/Wrapper
+45056	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/stream/Test/Unit/IStream
+45056	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ruler/Model
+45056	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/iterator/Recursive
+45056	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/consistency/Test/Unit
+45056	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/compiler/Test/Integration
+45056	/home/pi/Downloads/owncloud/apps/files_external/lib/Lib/Backend
+45056	/home/pi/Downloads/owncloud/apps/files_external/lib/Controller
+45056	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/psr/cache
+45056	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/System/SSH
+45056	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/WebRisk/Resource
+45056	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Texttospeech
+45056	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Tasks
+45056	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Taskqueue
+45056	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ServiceDirectory/Resource
+45056	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Reports/Resource
+45056	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Reportcard
+45056	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PostmasterTools
+45056	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/MyBusinessPlaceActions
+45056	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ManagedServiceforMicrosoftActiveDirectoryConsumerAPI/Resource
+45056	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudUserAccounts/Resource
+45056	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudMachineLearning/Resource
+45056	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudBuild/Resource
+45056	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ChromeUXReport
+45056	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ChromeManagement
+45056	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/BigQueryReservation/Resource
+45056	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AccessApproval/Resource
+45056	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/firebase/php-jwt/src
+45056	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/laminas/laminas-zendframework-bridge/src
+45056	/home/pi/Downloads/owncloud/apps/files_antivirus/lib/Scanner
+45056	/home/pi/Downloads/owncloud/apps/federatedfilesharing/lib/Ocm
+45056	/home/pi/Downloads/owncloud/apps/encryption/lib/Command
+45056	/home/pi/Downloads/docs/modules/developer_manual/pages/_partials/webdav_api
+45056	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/php/vendor/guzzlehttp/guzzle/src/Exception
+45056	/home/pi/Downloads/docs/modules/admin_manual/assets/images/installation/webservers
+45056	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/windows/converter
+45056	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/third_party/linux/include
+45056	/home/pi/Desktop/owncloud/client/shell_integration/dolphin
+40960	/home/pi/owncloud.txt.save
+40960	/home/pi/owncloud.txt
+40960	/home/pi/Downloads/owncloud/apps/windows_network_drive/lib/listener
+40960	/home/pi/Downloads/owncloud/apps/windows_network_drive/lib/acl/permissionmanager
+40960	/home/pi/Downloads/owncloud/apps/windows_network_drive/img
+40960	/home/pi/Downloads/owncloud/apps/user_ldap/lib/User
+40960	/home/pi/Downloads/owncloud/apps/updatenotification/appinfo
+40960	/home/pi/Downloads/owncloud/apps/theme-enterprise/settings
+40960	/home/pi/Downloads/owncloud/apps/theme-enterprise/core/img/actions
+40960	/home/pi/Downloads/owncloud/apps/templateeditor/appinfo
+40960	/home/pi/Downloads/owncloud/apps/systemtags/appinfo
+40960	/home/pi/Downloads/owncloud/apps/password_policy/lib/Rules
+40960	/home/pi/Downloads/owncloud/apps/oauth2/lib/Controller
+40960	/home/pi/Downloads/owncloud/apps/metrics/vendor/symfony/property-access/Exception
+40960	/home/pi/Downloads/owncloud/apps/metrics/l10n
+40960	/home/pi/Downloads/owncloud/apps/graphapi/vendor/guzzlehttp/guzzle/src/Cookie
+40960	/home/pi/Downloads/owncloud/apps/graphapi/lib
+40960	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/file/Temporary
+40960	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/file/Link
+40960	/home/pi/Downloads/owncloud/apps/files_versions/appinfo
+40960	/home/pi/Downloads/owncloud/apps/files_sharing/templates
+40960	/home/pi/Downloads/owncloud/apps/files_external/lib/Lib/Auth
+40960	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Crypt/DSA/Formats/Keys
+40960	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/guzzlehttp/guzzle/src/Subscriber
+40960	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Vault/Resource
+40960	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/SiteVerification
+40960	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ServiceManagement/Resource
+40960	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ServiceBroker
+40960	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/RemoteBuildExecution/Resource
+40960	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/HangoutsChat/Resource
+40960	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Firebasestorage
+40960	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FirebaseRealtimeDatabase
+40960	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FirebaseML
+40960	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DataTransfer
+40960	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ContainerAnalysis/Resource
+40960	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudVideoIntelligence/Resource
+40960	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudOSLogin
+40960	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/property-access/Exception
+40960	/home/pi/Downloads/owncloud/apps/enterprise_key
+40960	/home/pi/Downloads/docs/modules/user_manual/pages/_partials
+40960	/home/pi/Downloads/docs/modules/developer_manual/examples/core/webdav_api/search/response
+40960	/home/pi/Downloads/docs/modules/developer_manual/examples/core/apis/ocs/totp-validation
+40960	/home/pi/Downloads/docs/modules/developer_manual/assets/images/img/7/places
+40960	/home/pi/Downloads/docs/modules/admin_manual/pages/configuration/general_topics
+40960	/home/pi/Downloads/docs/modules/admin_manual/pages/configuration/files/encryption
+40960	/home/pi/Downloads/docs/modules/admin_manual/assets/images/installation/webservers/apache
+40960	/home/pi/Desktop/owncloud/client/theme/universal
+40960	/home/pi/Desktop/owncloud/client/test/gui/tst_syncing
+40960	/home/pi/Desktop/owncloud/client/test/gui/shared/steps
+40960	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/mac/upload_system_symbols
+40960	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/third_party/linux/include/gflags
+40960	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/ios/Breakpad.xcodeproj
+40960	/home/pi/Desktop/owncloud/client/shell_integration/nautilus
+40960	/home/pi/Desktop/owncloud/client/shell_integration/MacOSX/OwnCloudFinderSync/OwnCloudFinderSync.xcodeproj
+40960	/home/pi/Desktop/owncloud/client/shell_integration/MacOSX/OwnCloudFinderSync/FinderSyncExt
+36864	/home/pi/Downloads/owncloud/apps/windows_network_drive/lib/activity
+36864	/home/pi/Downloads/owncloud/apps/windows_network_drive/l10n
+36864	/home/pi/Downloads/owncloud/apps/windows_network_drive/command
+36864	/home/pi/Downloads/owncloud/apps/theme-enterprise/settings/img
+36864	/home/pi/Downloads/owncloud/apps/systemtags/js
+36864	/home/pi/Downloads/owncloud/apps/sharepoint/templates
+36864	/home/pi/Downloads/owncloud/apps/guests/appinfo
+36864	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/Http
+36864	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/src/Http
+36864	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ruler/Documentation/Fr
+36864	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ruler/Documentation/En
+36864	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/compiler/Test/Integration/Llk
+36864	/home/pi/Downloads/owncloud/apps/files_sharing/css
+36864	/home/pi/Downloads/owncloud/apps/files_sharing/appinfo/Migrations
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/BCMath
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Crypt/DH
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/guzzlehttp/ringphp/src/Future
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/guzzlehttp/guzzle/src/Cookie
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Translate/Resource
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/TPU/Resource
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Sheets/Resource
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Script/Resource
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Reseller/Resource
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/NetworkManagement/Resource
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/MyBusinessAccountManagement/Resource
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Mirror/Resource
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Licensing
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Genomics/Resource
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Fitness/Resource
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FirebaseHosting
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DataFusion/Resource
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudTasks/Resource
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudRuntimeConfig
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudRedis/Resource
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Cloudlatencytest
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudFilestore/Resource
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudDomains/Resource
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudDebugger/Resource
+36864	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Cloudbilling/Resource
+36864	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/validator/Context
+36864	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/property-info/Extractor
+36864	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/laminas/laminas-xml/src
+36864	/home/pi/Downloads/owncloud/apps/files_classifier/l10n
+36864	/home/pi/Downloads/owncloud/apps/files_antivirus/appinfo/Migrations
+36864	/home/pi/Downloads/owncloud/apps/federatedfilesharing/lib/Controller
+36864	/home/pi/Downloads/owncloud/apps/federatedfilesharing/js
+36864	/home/pi/Downloads/docs/modules/user_manual/assets/images/media-viewer-app
+36864	/home/pi/Downloads/docs/modules/developer_manual/pages/mobile_development/ios_library
+36864	/home/pi/Downloads/docs/modules/developer_manual/examples/core/webdav_api/search/request
+36864	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/php/vendor/guzzlehttp/guzzle/src/Cookie
+36864	/home/pi/Downloads/docs/modules/developer_manual/examples/core/apis/ocs/totp-validation/responses
+36864	/home/pi/Downloads/docs/modules/developer_manual/examples/app/storage-backend/OCA
+36864	/home/pi/Downloads/docs/modules/developer_manual/assets/images/img/7/rating
+36864	/home/pi/Downloads/docs/modules/admin_manual/pages/enterprise/logging
+36864	/home/pi/Downloads/docs/modules/admin_manual/assets/images/issues
+36864	/home/pi/Downloads/docs/modules/admin_manual/assets/images/installation/webservers/apache/mod_unique_id
+36864	/home/pi/Downloads/docs/modules/admin_manual/assets/images/configuration/server/password-policy
+36864	/home/pi/Desktop/owncloud/client/theme/white
+36864	/home/pi/Desktop/owncloud/client/theme/dark
+36864	/home/pi/Desktop/owncloud/client/theme/black
+36864	/home/pi/Desktop/owncloud/client/test/manual
+36864	/home/pi/Desktop/owncloud/client/src/3rdparty/qtlockedfile
+36864	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/solaris
+36864	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/mac/symupload
+36864	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/linux/crash_generation
+36864	/home/pi/Desktop/owncloud/client/shell_integration/icons/nopadding/SVG
+36864	/home/pi/Desktop/owncloud/client/shell_integration/icons/64x64
+36864	/home/pi/Desktop/owncloud/client/shell_integration/icons/48x48
+36864	/home/pi/Desktop/owncloud/client/shell_integration/icons/32x32
+36864	/home/pi/Desktop/owncloud/client/shell_integration/icons/16x16
+36864	/home/pi/Desktop/owncloud/client/shell_integration/icons/128x128
+36864	/home/pi/Desktop/owncloud/client/.github/workflows
+36864	/home/pi/Desktop/owncloud/client/changelog/2.8.0_2021-05-06
+32768	/home/pi/Downloads/pyocclient/pyocclient.egg-info
+32768	/home/pi/Downloads/pyocclient/.git/logs
+32768	/home/pi/Downloads/owncloud/apps/user_ldap/lib/Command
+32768	/home/pi/Downloads/owncloud/apps/sharepoint/3rdparty/ZendXml
+32768	/home/pi/Downloads/owncloud/apps/oauth2/templates
+32768	/home/pi/Downloads/owncloud/apps/metrics/vendor/symfony/inflector
+32768	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ustring/Documentation/Fr
+32768	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ustring/Documentation/En
+32768	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/stream/Test/Unit/Wrapper
+32768	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/stream/Filter
+32768	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/compiler/Test/Unit/Exception
+32768	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/compiler/Exception
+32768	/home/pi/Downloads/owncloud/apps/files_sharing/lib/Controllers
+32768	/home/pi/Downloads/owncloud/apps/files_ldap_home/lib
+32768	/home/pi/Downloads/owncloud/apps/files_external_ftp/lib
+32768	/home/pi/Downloads/owncloud/apps/files_external_ftp/appinfo
+32768	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient/src/Http
+32768	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/WebSecurityScanner/Resource
+32768	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Verifiedaccess
+32768	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Urlshortener
+32768	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ServiceConsumerManagement/Resource
+32768	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/SecretManager/Resource
+32768	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Safebrowsing/Resource
+32768	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Libraryagent
+32768	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/JobService/Resource
+32768	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Eventarc/Resource
+32768	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Datastore/Resource
+32768	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Coordinate/Resource
+32768	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudProfiler
+32768	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudComposer/Resource
+32768	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/BinaryAuthorization/Resource
+32768	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AppState
+32768	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ApiKeysService/Resource
+32768	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/polyfill-ctype
+32768	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/inflector
+32768	/home/pi/Downloads/docs/resources
+32768	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/ruby
+32768	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/go
+32768	/home/pi/Downloads/docs/modules/developer_manual/examples/app/storage-backend/OCA/MyStorageApp
+32768	/home/pi/Downloads/docs/modules/admin_manual/pages/installation/letsencrypt
+32768	/home/pi/Downloads/docs/modules/admin_manual/pages/enterprise/user_management
+32768	/home/pi/Downloads/docs/modules/admin_manual/pages/configuration/user/oidc
+32768	/home/pi/Downloads/docs/modules/admin_manual/pages/configuration/server/security/hsmdaemon
+32768	/home/pi/Downloads/docs/modules/admin_manual/assets/images/enterprise/logging
+32768	/home/pi/Downloads/docs/.git/logs
+32768	/home/pi/Desktop/owncloud/client/test/gui/tst_checkAlltabs
+32768	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/solaris/dump_syms
+32768	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/common/android/include/sys
+32768	/home/pi/Desktop/owncloud/client/.git/modules/src/3rdparty/libcrashreporter-qt/logs
+32768	/home/pi/Desktop/owncloud/client/.git/logs
+32768	/home/pi/Desktop/owncloud/client/changelog/2.7.5_2021-01-28
+28672	/home/pi/Downloads/pyocclient/.git/refs
+28672	/home/pi/Downloads/owncloud/apps/windows_network_drive/lib/acl/models
+28672	/home/pi/Downloads/owncloud/apps/windows_network_drive/lib/acl/aclfetcher
+28672	/home/pi/Downloads/owncloud/apps/web/lib
+28672	/home/pi/Downloads/owncloud/apps/web/appinfo
+28672	/home/pi/Downloads/owncloud/apps/user_external/lib
+28672	/home/pi/Downloads/owncloud/apps/systemtags/lib
+28672	/home/pi/Downloads/owncloud/apps/sharepoint/3rdparty/ZendXml/library
+28672	/home/pi/Downloads/owncloud/apps/notifications/templates
+28672	/home/pi/Downloads/owncloud/apps/notifications/js
+28672	/home/pi/Downloads/owncloud/apps/metrics/vendor/symfony/polyfill-ctype
+28672	/home/pi/Downloads/owncloud/apps/market/lib/Command
+28672	/home/pi/Downloads/owncloud/apps/market/appinfo
+28672	/home/pi/Downloads/owncloud/apps/guests/templates
+28672	/home/pi/Downloads/owncloud/apps/guests/js
+28672	/home/pi/Downloads/owncloud/apps/graphapi/vendor/symfony/polyfill-php72
+28672	/home/pi/Downloads/owncloud/apps/graphapi/vendor/ralouphie
+28672	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/stream/Wrapper/IWrapper
+28672	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/stream/Test/Integration
+28672	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/math/Test/Unit/Combinatorics
+28672	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/math/Combinatorics
+28672	/home/pi/Downloads/owncloud/apps/firewall/l10n
+28672	/home/pi/Downloads/owncloud/apps/files_mediaviewer/appinfo
+28672	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/ralouphie
+28672	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Net/SFTP
+28672	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/guzzlehttp/guzzle/src/Post
+28672	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/auth/src/Cache
+28672	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/YouTubeAnalytics/Resource
+28672	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PlusDomains/Resource
+28672	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PaymentsResellerSubscription/Resource
+28672	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/OnDemandScanning/Resource
+28672	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Oauth2
+28672	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Ideahub/Resource
+28672	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Groupssettings
+28672	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FirebaseRulesAPI/Resource
+28672	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FirebaseRemoteConfig
+28672	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DomainsRDAP/Resource
+28672	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Customsearch/Resource
+28672	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CustomSearchAPI/Resource
+28672	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudMemorystoreforMemcached/Resource
+28672	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudIAP/Resource
+28672	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudFunctions/Resource
+28672	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Baremetalsolution
+28672	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AdExperienceReport
+28672	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Acceleratedmobilepageurl
+28672	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/phpdocumentor/reflection-common/src
+28672	/home/pi/Downloads/owncloud/apps/files_classifier/lib/Validator
+28672	/home/pi/Downloads/owncloud/apps/files_antivirus/lib/Db
+28672	/home/pi/Downloads/owncloud/apps/federatedfilesharing/img
+28672	/home/pi/Downloads/owncloud/apps/admin_audit/appinfo
+28672	/home/pi/Downloads/docs/resources/themes
+28672	/home/pi/Downloads/docs/modules/user_manual/pages/personal_settings
+28672	/home/pi/Downloads/docs/modules/user_manual/pages/apps
+28672	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/curl/ocs
+28672	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/curl/dav
+28672	/home/pi/Downloads/docs/modules/admin_manual/pages/_partials/configuration/server
+28672	/home/pi/Downloads/docs/modules/admin_manual/pages/enterprise/file_management
+28672	/home/pi/Downloads/docs/modules/admin_manual/pages/document_classification
+28672	/home/pi/Downloads/docs/modules/admin_manual/pages/configuration/database
+28672	/home/pi/Downloads/docs/modules/admin_manual/examples/installation/lets_encrypt
+28672	/home/pi/Downloads/docs/modules/admin_manual/examples/configuration/user
+28672	/home/pi/Downloads/docs/modules/admin_manual/assets/images/enterprise/external_storage/enterprise-only-auth
+28672	/home/pi/Downloads/docs/.git/refs
+28672	/home/pi/Desktop/owncloud/client/test/gui/tst_sharing
+28672	/home/pi/Desktop/owncloud/client/src/libsync/vfs
+28672	/home/pi/Desktop/owncloud/client/src/gui/libcloudproviders
+28672	/home/pi/Desktop/owncloud/client/src/3rdparty/qtokenizer
+28672	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/common
+28672	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/common/linux/tests
+28672	/home/pi/Desktop/owncloud/client/.git/refs
+28672	/home/pi/Desktop/owncloud/client/.git/modules/src/3rdparty/libcrashreporter-qt/refs
+28672	/home/pi/Desktop/owncloud/client/changelog/2.9.2_2021-11-24
+24576	/home/pi/Downloads/pyocclient/.git/logs/refs
+24576	/home/pi/Downloads/owncloud/apps/windows_network_drive/lib/migration
+24576	/home/pi/Downloads/owncloud/apps/user_ldap/lib/Controller
+24576	/home/pi/Downloads/owncloud/apps/user_ldap/img
+24576	/home/pi/Downloads/owncloud/apps/user_external/appinfo
+24576	/home/pi/Downloads/owncloud/apps/systemtags/lib/Activity
+24576	/home/pi/Downloads/owncloud/apps/sharepoint/3rdparty/ZendXml/library/ZendXml
+24576	/home/pi/Downloads/owncloud/apps/metrics/vendor/symfony/serializer/NameConverter
+24576	/home/pi/Downloads/owncloud/apps/market/lib/Controller
+24576	/home/pi/Downloads/owncloud/apps/guests/lib/Controller
+24576	/home/pi/Downloads/owncloud/apps/graphapi/vendor/ralouphie/getallheaders
+24576	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/.github
+24576	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/stream/Test/Unit/Filter
+24576	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ruler/Test/Unit/Model/Bag
+24576	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ruler/Test/Integration
+24576	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ruler/Model/Bag
+24576	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/protocol/Test/Unit/Node
+24576	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/math/Test/Unit/Combinatorics/Combination
+24576	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/math/Exception
+24576	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/math/Combinatorics/Combination
+24576	/home/pi/Downloads/owncloud/apps/firewall/js/i18n
+24576	/home/pi/Downloads/owncloud/apps/files_versions/js
+24576	/home/pi/Downloads/owncloud/apps/files_sharing/lib/Panels
+24576	/home/pi/Downloads/owncloud/apps/files_sharing/ajax
+24576	/home/pi/Downloads/owncloud/apps/files_ldap_home/appinfo
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/ralouphie/getallheaders
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/psr/log/Psr/Log/Test
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/psr/cache/src
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/guzzlehttp/psr7/.github
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/auth/src/Subscriber
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/auth/src/Middleware
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/auth/src/HttpHandler
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient/src/Task
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient/src/Service
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/YouTubeReporting/Resource
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Workflows/Resource
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/WorkflowExecutions/Resource
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Testing/Resource
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Storagetransfer/Resource
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Speech/Resource
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/SearchConsole/Resource
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PlayMovies/Resource
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/OSConfig/Resource
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Indexing
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/GamesManagement/Resource
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/GamesConfiguration/Resource
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Freebase
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FirebaseRules/Resource
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudShell/Resource
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudMonitoring/Resource
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudLifeSciences/Resource
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Clouderrorreporting/Resource
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Chromewebstore/Resource
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ChromePolicy/Resource
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/BigQueryConnectionService/Resource
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Assuredworkloads/Resource
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AnalyticsData/Resource
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AdMob/Resource
+24576	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AbusiveExperienceReport
+24576	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/validator/Test
+24576	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/serializer/NameConverter
+24576	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/laminas/laminas-zendframework-bridge/config
+24576	/home/pi/Downloads/owncloud/apps/encryption/templates
+24576	/home/pi/Downloads/owncloud/apps/encryption/lib/Hooks
+24576	/home/pi/Downloads/owncloud/apps/encryption/lib/Controller
+24576	/home/pi/Downloads/docs/modules/user_manual/pages/pim
+24576	/home/pi/Downloads/docs/modules/user_manual/pages/_partials/configuration
+24576	/home/pi/Downloads/docs/modules/user_manual/assets/images/personal-settings/sharing
+24576	/home/pi/Downloads/docs/modules/developer_manual/pages/mobile_development/android_library
+24576	/home/pi/Downloads/docs/modules/developer_manual/pages/bugtracker
+24576	/home/pi/Downloads/docs/modules/developer_manual/examples/core/webdav_api/group/response
+24576	/home/pi/Downloads/docs/modules/developer_manual/assets/images/img/7/filetypes
+24576	/home/pi/Downloads/docs/modules/admin_manual/pages/_partials/installation
+24576	/home/pi/Downloads/docs/modules/admin_manual/pages/maintenance/backup_and_restore
+24576	/home/pi/Downloads/docs/modules/admin_manual/pages/installation/quick_guides
+24576	/home/pi/Downloads/docs/modules/admin_manual/pages/enterprise/security
+24576	/home/pi/Downloads/docs/modules/admin_manual/pages/enterprise/installation
+24576	/home/pi/Downloads/docs/modules/admin_manual/pages/enterprise/collaboration
+24576	/home/pi/Downloads/docs/modules/admin_manual/pages/configuration/server/examples
+24576	/home/pi/Downloads/docs/modules/admin_manual/pages/configuration/integration
+24576	/home/pi/Downloads/docs/modules/admin_manual/examples/configuration/user/user_auth_ldap
+24576	/home/pi/Downloads/docs/modules/admin_manual/assets/images/apps/files_lifecycle
+24576	/home/pi/Downloads/docs/.git/logs/refs
+24576	/home/pi/Desktop/owncloud/client/src/csync/vio
+24576	/home/pi/Desktop/owncloud/client/src/crashreporter
+24576	/home/pi/Desktop/owncloud/client/src/3rdparty/QProgressIndicator
+24576	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/src/libcrashreporter-handler
+24576	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/python
+24576	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/common/symupload
+24576	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/windows/sender
+24576	/home/pi/Desktop/owncloud/client/.git/modules/src/3rdparty/libcrashreporter-qt/logs/refs
+24576	/home/pi/Desktop/owncloud/client/.git/logs/refs
+20480	/home/pi/Downloads/owncloud/apps/windows_network_drive/lib/notification_queue/storage_serializer/implementations
+20480	/home/pi/Downloads/owncloud/apps/windows_network_drive/lib/notification_queue/storage_serializer/exceptions
+20480	/home/pi/Downloads/owncloud/apps/windows_network_drive/lib/auth
+20480	/home/pi/Downloads/owncloud/apps/web/lib/Controller
+20480	/home/pi/Downloads/owncloud/apps/user_ldap/lib/Mapping
+20480	/home/pi/Downloads/owncloud/apps/theme-enterprise/core/css
+20480	/home/pi/Downloads/owncloud/apps/theme-enterprise/appinfo
+20480	/home/pi/Downloads/owncloud/apps/password_policy/templates
+20480	/home/pi/Downloads/owncloud/apps/password_policy/lib/Controller
+20480	/home/pi/Downloads/owncloud/apps/oauth2/js
+20480	/home/pi/Downloads/owncloud/apps/oauth2/css
+20480	/home/pi/Downloads/owncloud/apps/notifications/lib/Controller
+20480	/home/pi/Downloads/owncloud/apps/notifications/appinfo/Migrations
+20480	/home/pi/Downloads/owncloud/apps/metrics/vendor/symfony/serializer/Mapping/Factory
+20480	/home/pi/Downloads/owncloud/apps/metrics/vendor/symfony/serializer/Annotation
+20480	/home/pi/Downloads/owncloud/apps/metrics/lib/Metrics
+20480	/home/pi/Downloads/owncloud/apps/metrics/lib/Controller
+20480	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/.azure-pipelines
+20480	/home/pi/Downloads/owncloud/apps/graphapi/lib/Service
+20480	/home/pi/Downloads/owncloud/apps/firstrunwizard/lib
+20480	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/protocol/Node
+20480	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/compiler/Test/Integration/Llk/Rule
+20480	/home/pi/Downloads/owncloud/apps/files_sharing/img
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Math/BinaryField
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Common
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/guzzlehttp/ringphp/src/Exception
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/guzzlehttp/psr7/.github/workflows
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient/src/AuthHandler
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient/src/AccessToken
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Webfonts
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Transcoder/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Tracing/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Tasks/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/SystemsManagement/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/StreetViewPublish/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/SmartDeviceManagement/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ServiceUsage/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ServiceRegistry/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/SemanticTile/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Resourceviews/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Replicapool/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/RecaptchaEnterprise/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PolyService/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Plus/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Playcustomapp
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PhotosLibrary/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/MyBusinessPlaceActions/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/IdentityToolkit/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FirebaseRealtimeDatabase/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Doubleclicksearch/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DoubleClickBidManager/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Digitalassetlinks/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ConsumerSurveys/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudSourceRepositories/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudSecurityToken
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudScheduler/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Autoscaler/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Area120Tables/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AlertCenter/Resource
+20480	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/validator/Mapping/Loader/schema
+20480	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/validator/Mapping/Factory
+20480	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/translation-contracts/Test
+20480	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/serializer/Mapping/Factory
+20480	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/serializer/Annotation
+20480	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/phpdocumentor/reflection-common/.github
+20480	/home/pi/Downloads/owncloud/apps/files_classifier/lib/Validator/Constraint
+20480	/home/pi/Downloads/owncloud/apps/federation/lib/BackgroundJob
+20480	/home/pi/Downloads/owncloud/apps/federatedfilesharing/templates
+20480	/home/pi/Downloads/owncloud/apps/federatedfilesharing/lib/Ocm/Exception
+20480	/home/pi/Downloads/owncloud/apps/federatedfilesharing/css
+20480	/home/pi/Downloads/owncloud/apps/encryption/lib/Exceptions
+20480	/home/pi/Downloads/owncloud/apps/encryption/js
+20480	/home/pi/Downloads/owncloud/apps/configreport/appinfo
+20480	/home/pi/Downloads/docs/modules/developer_manual/examples/scripts
+20480	/home/pi/Downloads/docs/modules/developer_manual/examples/core/apis/ocs/notifications
+20480	/home/pi/Downloads/docs/modules/developer_manual/examples/core/acceptance-tests
+20480	/home/pi/Downloads/docs/modules/admin_manual/pages/qnap
+20480	/home/pi/Downloads/docs/modules/admin_manual/pages/_partials/installation/manual_installation
+20480	/home/pi/Downloads/docs/modules/admin_manual/pages/_partials/configuration/files
+20480	/home/pi/Downloads/docs/modules/admin_manual/pages/enterprise/firewall
+20480	/home/pi/Downloads/docs/modules/admin_manual/pages/appliance/maintenance
+20480	/home/pi/Downloads/docs/modules/admin_manual/examples/installation/manual_installation
+20480	/home/pi/Downloads/docs/modules/admin_manual/examples/enterprise
+20480	/home/pi/Downloads/docs/modules/admin_manual/examples/configuration/ldap
+20480	/home/pi/Downloads/docs/modules/admin_manual/assets/attachments/installation
+20480	/home/pi/Downloads/docs/lib
+20480	/home/pi/Downloads/docs/.github
+20480	/home/pi/Desktop/owncloud/client/test/gui/tst_checkAlltabs/verificationPoints
+20480	/home/pi/Desktop/owncloud/client/test/gui/tst_addAccount
+20480	/home/pi/Desktop/owncloud/client/test/gui/shared/verificationPoints
+20480	/home/pi/Desktop/owncloud/client/test/csync/vio_tests
+20480	/home/pi/Desktop/owncloud/client/src/libsync/vfs/suffix
+20480	/home/pi/Desktop/owncloud/client/src/csync/std
+20480	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/solaris/dump_syms/testdata
+20480	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/processor/proto
+20480	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/common/tests
+20480	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/common/android/testing
+20480	/home/pi/Desktop/owncloud/client/changelog/2.7.4_2020-12-21
+20480	/home/pi/Desktop/owncloud/client/changelog/2.7.2_2020-12-02
+16384	/home/pi/Downloads/owncloud/ocs
+16384	/home/pi/Downloads/owncloud/apps/windows_network_drive/lib/acl/groupmembership
+16384	/home/pi/Downloads/owncloud/apps/windows_network_drive/lib/acl/aclfetcher/exceptions
+16384	/home/pi/Downloads/owncloud/apps/web/img
+16384	/home/pi/Downloads/owncloud/apps/updatenotification/lib/Notification
+16384	/home/pi/Downloads/owncloud/apps/sharepoint/3rdparty/ZendXml/library/ZendXml/Exception
+16384	/home/pi/Downloads/owncloud/apps/password_policy/lib/Db
+16384	/home/pi/Downloads/owncloud/apps/password_policy/lib/Command
+16384	/home/pi/Downloads/owncloud/apps/password_policy/js
+16384	/home/pi/Downloads/owncloud/apps/oauth2/appinfo/Migrations
+16384	/home/pi/Downloads/owncloud/apps/notifications/lib/Mailer
+16384	/home/pi/Downloads/owncloud/apps/metrics/vendor/symfony/serializer/Mapping/Loader/schema
+16384	/home/pi/Downloads/owncloud/apps/graphapi/lib/Controller
+16384	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/visitor/Test
+16384	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/stream/Test/Unit/Wrapper/IWrapper
+16384	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/stream/Test/Integration/Filter
+16384	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ruler/Test/Unit/Exception
+16384	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ruler/Exception
+16384	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/regex/Visitor
+16384	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/math/Visitor
+16384	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/math/Test/Unit/Visitor
+16384	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/math/Sampler
+16384	/home/pi/Downloads/owncloud/apps/files_versions/lib/Command
+16384	/home/pi/Downloads/owncloud/apps/files_sharing/lib/ShareBackend
+16384	/home/pi/Downloads/owncloud/apps/files_external/templates
+16384	/home/pi/Downloads/owncloud/apps/files_external/appinfo/Migrations
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/System/SSH/Agent
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Math/PrimeField
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Math/Common
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/BCMath/Reductions
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Crypt/EC/Formats/Signature
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Crypt/DSA/Formats/Signature
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Common/Functions
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/monolog/monolog/src/Monolog/Handler/Slack
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/monolog/monolog/src/Monolog/Handler/FingersCrossed
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient/src/Utils
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Webmasters/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Taskqueue/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Surveys/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ServiceUser/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Reportcard/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Replicapoolupdater/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Prediction/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Oauth2/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ManufacturerCenter/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Licensing/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Kgsearch
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Keep/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/IAMCredentials/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/HomeGraphService/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/GroupsMigration
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Firebasestorage/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FirebaseDynamicLinks/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FactCheckTools/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudTrace/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudSpeechAPI/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudProfiler/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudOSLogin/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudBillingBudget/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CivicInfo/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Cih/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ChromeManagement/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Baremetalsolution/Resource
+16384	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/firebase/php-jwt/.github
+16384	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/validator/Violation
+16384	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/validator/Mapping/Loader/schema/dic
+16384	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/validator/Mapping/Cache
+16384	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/validator/DependencyInjection
+16384	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/serializer/Mapping/Loader/schema
+16384	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Reference
+16384	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/laminas/laminas-zendframework-bridge/.github
+16384	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/laminas/laminas-xml/src/Exception
+16384	/home/pi/Downloads/owncloud/apps/files_antivirus/templates
+16384	/home/pi/Downloads/owncloud/apps/federation/lib/Controller
+16384	/home/pi/Downloads/owncloud/apps/federatedfilesharing/lib/Panels
+16384	/home/pi/Downloads/owncloud/apps/federatedfilesharing/js/3rdparty
+16384	/home/pi/Downloads/owncloud/apps/federatedfilesharing/appinfo/Migrations
+16384	/home/pi/Downloads/owncloud/apps/enterprise_key/appinfo
+16384	/home/pi/Downloads/owncloud/apps/comments/appinfo
+16384	/home/pi/Downloads/docs/modules/developer_manual/pages/webdav_api/search
+16384	/home/pi/Downloads/docs/modules/developer_manual/pages/webdav_api/groups
+16384	/home/pi/Downloads/docs/modules/developer_manual/pages/general/examples
+16384	/home/pi/Downloads/docs/modules/developer_manual/examples/core/webdav_api/search/response/common
+16384	/home/pi/Downloads/docs/modules/developer_manual/examples/core/webdav_api/search/request/search_files
+16384	/home/pi/Downloads/docs/modules/developer_manual/examples/core/webdav_api/search/request/filter_files
+16384	/home/pi/Downloads/docs/modules/developer_manual/examples/core/webdav_api/public_files
+16384	/home/pi/Downloads/docs/modules/developer_manual/examples/core/webdav_api/meta
+16384	/home/pi/Downloads/docs/modules/developer_manual/examples/core/webdav_api/group/request
+16384	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/curl/dav/trashbin_api
+16384	/home/pi/Downloads/docs/modules/developer_manual/examples/core/apis/ocs/totp-validation/responses/xml
+16384	/home/pi/Downloads/docs/modules/developer_manual/examples/core/apis/ocs/totp-validation/responses/json
+16384	/home/pi/Downloads/docs/modules/developer_manual/examples/core/apis/ocs/roles
+16384	/home/pi/Downloads/docs/modules/developer_manual/examples/app/advanced
+16384	/home/pi/Downloads/docs/modules/developer_manual/assets/attachments
+16384	/home/pi/Downloads/docs/modules/admin_manual/pages/troubleshooting
+16384	/home/pi/Downloads/docs/modules/admin_manual/pages/_partials/maintenance
+16384	/home/pi/Downloads/docs/modules/admin_manual/pages/_partials/configuration/server/occ_command
+16384	/home/pi/Downloads/docs/modules/admin_manual/pages/maintenance/encryption
+16384	/home/pi/Downloads/docs/modules/admin_manual/pages/installation/docker
+16384	/home/pi/Downloads/docs/modules/admin_manual/pages/installation/deployment_recommendations
+16384	/home/pi/Downloads/docs/modules/admin_manual/pages/installation/apps
+16384	/home/pi/Downloads/docs/modules/admin_manual/pages/enterprise/security/ransomware-protection
+16384	/home/pi/Downloads/docs/modules/admin_manual/pages/enterprise/reporting
+16384	/home/pi/Downloads/docs/modules/admin_manual/pages/enterprise/clients
+16384	/home/pi/Downloads/docs/modules/admin_manual/pages/appliance/installation
+16384	/home/pi/Downloads/docs/modules/admin_manual/examples/installation/ubuntu
+16384	/home/pi/Downloads/docs/modules/admin_manual/examples/enterprise/user_management
+16384	/home/pi/Downloads/docs/modules/admin_manual/assets/attachments/installation/manual_installation
+16384	/home/pi/Downloads/docs/lib/extensions
+16384	/home/pi/Downloads/docs/generator
+16384	/home/pi/Downloads/docs/book_templates
+16384	/home/pi/Desktop/owncloud/client/test/modeltests
+16384	/home/pi/Desktop/owncloud/client/test/manual/windows close event
+16384	/home/pi/Desktop/owncloud/client/test/manual/favlink
+16384	/home/pi/Desktop/owncloud/client/test/gui/tst_syncing/verificationPoints
+16384	/home/pi/Desktop/owncloud/client/test/gui/shared/scripts/helpers
+16384	/home/pi/Desktop/owncloud/client/test/csync/std_tests
+16384	/home/pi/Desktop/owncloud/client/src/gui/creds
+16384	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/windows/symupload
+16384	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/mac/symupload/symupload.xcodeproj
+16384	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/windows/common
+16384	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/windows/build/internal
+16384	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/ios/handler
+16384	/home/pi/Desktop/owncloud/client/shell_integration/MacOSX/OwnCloud.xcworkspace
+16384	/home/pi/Desktop/owncloud/client/admin/osx/sparkle
+12288	/home/pi/Downloads/pyocclient/.git/refs/remotes
+12288	/home/pi/Downloads/pyocclient/.git/logs/refs/remotes
+12288	/home/pi/Downloads/owncloud/apps/windows_network_drive/lib/storage
+12288	/home/pi/Downloads/owncloud/apps/windows_network_drive/lib/panels
+12288	/home/pi/Downloads/owncloud/apps/windows_network_drive/lib/fs_backend
+12288	/home/pi/Downloads/owncloud/apps/windows_network_drive/lib/custom_loggers
+12288	/home/pi/Downloads/owncloud/apps/windows_network_drive/lib/acl/permissionmanager/cache
+12288	/home/pi/Downloads/owncloud/apps/user_ldap/lib/Exceptions
+12288	/home/pi/Downloads/owncloud/apps/user_ldap/css
+12288	/home/pi/Downloads/owncloud/apps/updatenotification/lib/Controller
+12288	/home/pi/Downloads/owncloud/apps/updatenotification/js
+12288	/home/pi/Downloads/owncloud/apps/sharepoint/l10n
+12288	/home/pi/Downloads/owncloud/apps/sharepoint/3rdparty/libSharepoint/src/sharepoint/Auth
+12288	/home/pi/Downloads/owncloud/apps/password_policy/lib/Jobs
+12288	/home/pi/Downloads/owncloud/apps/oauth2/vendor/rowbot/url/src/Exception
+12288	/home/pi/Downloads/owncloud/apps/oauth2/lib/Sabre
+12288	/home/pi/Downloads/owncloud/apps/oauth2/lib/Panels
+12288	/home/pi/Downloads/owncloud/apps/oauth2/lib/Commands
+12288	/home/pi/Downloads/owncloud/apps/notifications/templates/panels
+12288	/home/pi/Downloads/owncloud/apps/notifications/templates/mail
+12288	/home/pi/Downloads/owncloud/apps/notifications/lib/Panels
+12288	/home/pi/Downloads/owncloud/apps/notifications/lib/Command
+12288	/home/pi/Downloads/owncloud/apps/metrics/vendor/symfony/serializer/Mapping/Loader/schema/dic
+12288	/home/pi/Downloads/owncloud/apps/metrics/vendor/symfony/serializer/Extractor
+12288	/home/pi/Downloads/owncloud/apps/market/lib/Exception
+12288	/home/pi/Downloads/owncloud/apps/guests/templates/mail
+12288	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/src/Core
+12288	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/.github/workflows
+12288	/home/pi/Downloads/owncloud/apps/graphapi/lib/Service/Strategy
+12288	/home/pi/Downloads/owncloud/apps/firstrunwizard/css
+12288	/home/pi/Downloads/owncloud/apps/firstrunwizard/ajax
+12288	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/visitor/Test/Unit
+12288	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ustring/Bin
+12288	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ruler/Test/Integration/Model
+12288	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/protocol/Bin
+12288	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/math/Test/Unit/Sampler
+12288	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/math/Bin
+12288	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/file/Exception
+12288	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/compiler/Bin
+12288	/home/pi/Downloads/owncloud/apps/firewall/templates
+12288	/home/pi/Downloads/owncloud/apps/firewall/css
+12288	/home/pi/Downloads/owncloud/apps/files_sharing/lib/Service
+12288	/home/pi/Downloads/owncloud/apps/files_sharing/lib/Panels/Personal
+12288	/home/pi/Downloads/owncloud/apps/files_sharing/lib/Middleware
+12288	/home/pi/Downloads/owncloud/apps/files_sharing/lib/Exceptions
+12288	/home/pi/Downloads/owncloud/apps/files_sharing/lib/Command
+12288	/home/pi/Downloads/owncloud/apps/files_sharing/lib/AppInfo
+12288	/home/pi/Downloads/owncloud/apps/files_ldap_home/l10n
+12288	/home/pi/Downloads/owncloud/apps/files_external/lib/Panels
+12288	/home/pi/Downloads/owncloud/apps/files_external/lib/Lib/Auth/OpenStack
+12288	/home/pi/Downloads/owncloud/apps/files_external/lib/AppInfo
+12288	/home/pi/Downloads/owncloud/apps/files_external_ftp/lib/Storage
+12288	/home/pi/Downloads/owncloud/apps/files_external/css
+12288	/home/pi/Downloads/owncloud/apps/files_external/ajax
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/System/SSH/Common
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Crypt/Common/Traits
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/paragonie/random_compat/dist
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/icewind/streams/.github
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/icewind/smb/.github
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/guzzlehttp/streams/src/Exception
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Texttospeech/Resource
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Spectrum/Resource
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Slides/Resource
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/SiteVerification/Resource
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ServiceControl/Resource
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ServiceBroker/Resource
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PostmasterTools/Resource
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Playcustomapp/Resource
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/People/Resource
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/MyBusinessLodging/Resource
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Localservices/Resource
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Libraryagent/Resource
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FirebaseML/Resource
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FirebaseHosting/Resource
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FirebaseCloudMessaging/Resource
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DataTransfer/Resource
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudRuntimeConfig/Resource
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudNaturalLanguage/Resource
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AppState/Resource
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AnalyticsReporting/Resource
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AdExperienceReport/Resource
+12288	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/AbusiveExperienceReport/Resource
+12288	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/validator/Util
+12288	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/validator/Mapping/Loader/schema/dic/constraint-mapping
+12288	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/serializer/Mapping/Loader/schema/dic
+12288	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/serializer/Extractor
+12288	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/property-info/Util
+12288	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/phpdocumentor/type-resolver/src/PseudoTypes
+12288	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Formatter
+12288	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/phpdocumentor/reflection-common/.github/workflows
+12288	/home/pi/Downloads/owncloud/apps/files_classifier/templates
+12288	/home/pi/Downloads/owncloud/apps/files_classifier/lib/Model
+12288	/home/pi/Downloads/owncloud/apps/files_classifier/img
+12288	/home/pi/Downloads/owncloud/apps/files_antivirus/lib/Cron
+12288	/home/pi/Downloads/owncloud/apps/files_antivirus/lib/Controller
+12288	/home/pi/Downloads/owncloud/apps/files_antivirus/lib/AppInfo
+12288	/home/pi/Downloads/owncloud/apps/files_antivirus/js
+12288	/home/pi/Downloads/owncloud/apps/files_antivirus/img
+12288	/home/pi/Downloads/owncloud/apps/federation/lib/AppInfo
+12288	/home/pi/Downloads/owncloud/apps/federation/js
+12288	/home/pi/Downloads/owncloud/apps/federatedfilesharing/lib/Ocm/Notification
+12288	/home/pi/Downloads/owncloud/apps/federatedfilesharing/lib/Middleware
+12288	/home/pi/Downloads/owncloud/apps/federatedfilesharing/lib/Command
+12288	/home/pi/Downloads/owncloud/apps/federatedfilesharing/lib/AppInfo
+12288	/home/pi/Downloads/owncloud/apps/federatedfilesharing/js/3rdparty/gs-share
+12288	/home/pi/Downloads/owncloud/apps/federatedfilesharing/css/3rdparty
+12288	/home/pi/Downloads/owncloud/apps/external/templates
+12288	/home/pi/Downloads/owncloud/apps/external/js
+12288	/home/pi/Downloads/owncloud/apps/external/img
+12288	/home/pi/Downloads/owncloud/apps/enterprise_key/img
+12288	/home/pi/Downloads/owncloud/apps/encryption/lib/Panels
+12288	/home/pi/Downloads/owncloud/apps/encryption/lib/Factory
+12288	/home/pi/Downloads/owncloud/apps/encryption/lib/AppInfo
+12288	/home/pi/Downloads/owncloud/apps/encryption/css
+12288	/home/pi/Downloads/owncloud/apps/configreport/templates
+12288	/home/pi/Downloads/docs/modules/user_manual/pages/_partials/configuration/files
+12288	/home/pi/Downloads/docs/modules/user_manual/pages/integration
+12288	/home/pi/Downloads/docs/modules/user_manual/pages/external_storage
+12288	/home/pi/Downloads/docs/modules/user_manual/assets/images/personal-settings/storage
+12288	/home/pi/Downloads/docs/modules/ROOT/pages/_partials
+12288	/home/pi/Downloads/docs/modules/developer_manual/pages/_partials/webdav_api/search
+12288	/home/pi/Downloads/docs/modules/developer_manual/pages/_partials/app
+12288	/home/pi/Downloads/docs/modules/developer_manual/pages/general/examples/debugging
+12288	/home/pi/Downloads/docs/modules/developer_manual/examples/core/webdav_api/trashbin
+12288	/home/pi/Downloads/docs/modules/developer_manual/examples/core/webdav_api/search/response/search_files
+12288	/home/pi/Downloads/docs/modules/developer_manual/examples/core/webdav_api/search/response/common/failure
+12288	/home/pi/Downloads/docs/modules/developer_manual/examples/core/webdav_api/public_files/response
+12288	/home/pi/Downloads/docs/modules/developer_manual/examples/core/webdav_api/files_versions
+12288	/home/pi/Downloads/docs/modules/developer_manual/examples/core/unit-testing
+12288	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/responses/recipients
+12288	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/php/dav
+12288	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/curl/ocs/notifications
+12288	/home/pi/Downloads/docs/modules/developer_manual/examples/core/apis/ocs/roles/responses
+12288	/home/pi/Downloads/docs/modules/developer_manual/examples/app/storage-backend/OCA/MyStorageApp/Storage
+12288	/home/pi/Downloads/docs/modules/developer_manual/examples/app/advanced/notifications
+12288	/home/pi/Downloads/docs/modules/developer_manual/assets/attachments/core
+12288	/home/pi/Downloads/docs/modules/admin_manual/pages/enterprise/server_branding
+12288	/home/pi/Downloads/docs/modules/admin_manual/pages/configuration/server/logging
+12288	/home/pi/Downloads/docs/modules/admin_manual/pages/configuration/server/examples/config_sample_php_parameters
+12288	/home/pi/Downloads/docs/modules/admin_manual/pages/configuration/mimetypes
+12288	/home/pi/Downloads/docs/modules/admin_manual/examples/installation/webservers
+12288	/home/pi/Downloads/docs/modules/admin_manual/examples/installation/ubuntu/18.04
+12288	/home/pi/Downloads/docs/modules/admin_manual/examples/enterprise/user_management/shibboleth
+12288	/home/pi/Downloads/docs/modules/admin_manual/assets/images/configuration/server/ui-configuration
+12 288	/home/pi/Downloads/docs/.git/refs/remotes
+12 288	/home/pi/Downloads/docs/.git/logs/refs/remotes
+12 288	/home/pi/Desktop/owncloud/client/test/gui/tst_vfs
+12 288	/home/pi/Desktop/owncloud/client/test/gui/tst_removeAccountConnection
+12 288	/home/pi/Desktop/owncloud/client/test/gui/tst_loginLogout
+12 288	/home/pi/Desktop/owncloud/client/test/gui/tst_editFiles
+12 288	/home/pi/Desktop/owncloud/client/test/gui/tst_deletFilesFolders
+12 288	/home/pi/Desktop/owncloud/client/src/3rdparty/qtokenizer/test
+12 288	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/python/tests
+12 288	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac/sender/tr.lproj
+12 288	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac/sender/sv.lproj
+12 288	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac/sender/sl.lproj
+12 288	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac/sender/no.lproj
+12 288	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac/sender/nl.lproj
+12 288	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac/sender/ja.lproj
+12 288	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac/sender/it.lproj
+12 288	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac/sender/fr.lproj
+12 288	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac/sender/es.lproj
+12 288	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac/sender/English.lproj
+12 288	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac/sender/de.lproj
+12 288	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/mac/sender/da.lproj
+12 288	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/linux/sender
+12 288	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/linux/log
+12 288	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/linux/data
+12 288	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/apple
+12 288	/home/pi/Desktop/owncloud/client/shell_integration/MacOSX/OwnCloudFinderSync/OwnCloudFinderSync.xcodeproj/xcshareddata
+12 288	/home/pi/Desktop/owncloud/client/shell_integration/MacOSX/OwnCloudFinderSync/desktopclient
+12 288	/home/pi/Desktop/owncloud/client/.git/refs/remotes
+12 288	/home/pi/Desktop/owncloud/client/.git/modules/src/3rdparty/libcrashreporter-qt/refs/remotes
+12 288	/home/pi/Desktop/owncloud/client/.git/modules/src/3rdparty/libcrashreporter-qt/logs/refs/remotes
+12 288	/home/pi/Desktop/owncloud/client/.git/logs/refs/remotes
+12 288	/home/pi/Desktop/owncloud/client/changelog/2.8.2_2021-05-28
+12 288	/home/pi/Desktop/owncloud/client/changelog/2.8.1_2021-05-21
+12 288	/home/pi/Desktop/owncloud/client/changelog/2.7.6_2021-02-04
+12 288	/home/pi/Desktop/owncloud/client/changelog/2.7.1_2020-11-18
+12 288	/home/pi/check_apache.html
+ 8 192	/home/pi/Downloads/pyocclient/travis-build
+ 8 192	/home/pi/Downloads/pyocclient/.git/refs/remotes/origin
+ 8 192	/home/pi/Downloads/pyocclient/.git/refs/heads
+ 8 192	/home/pi/Downloads/pyocclient/.git/logs/refs/remotes/origin
+ 8 192	/home/pi/Downloads/pyocclient/.git/logs/refs/heads
+ 8 192	/home/pi/Downloads/pyocclient/.git/info
+ 8 192	/home/pi/Downloads/owncloud/apps/windows_network_drive/templates 
+ 8 192	/home/pi/Downloads/owncloud/apps/windows_network_drive/l10n/.tx
+ 8 192	/home/pi/Downloads/owncloud/apps/windows_network_drive/js
+ 8 192	/home/pi/Downloads/owncloud/apps/windows_network_drive/controller
+ 8 192	/home/pi/Downloads/owncloud/apps/windows_network_drive/appinfo/Migrations
+ 8 192	/home/pi/Downloads/owncloud/apps/user_ldap/lib/AppInfo
+ 8 192	/home/pi/Downloads/owncloud/apps/user_ldap/l10n/.tx
+ 8 192	/home/pi/Downloads/owncloud/apps/user_ldap/appinfo/Migrations
+ 8 192	/home/pi/Downloads/owncloud/apps/user_external/img
+ 8 192	/home/pi/Downloads/owncloud/apps/updatenotification/templates
+ 8 192	/home/pi/Downloads/owncloud/apps/updatenotification/lib/AppInfo
+ 8 192	/home/pi/Downloads/owncloud/apps/templateeditor/templates
+ 8 192	/home/pi/Downloads/owncloud/apps/templateeditor/lib/Http
+ 8 192	/home/pi/Downloads/owncloud/apps/templateeditor/lib/Controller
+ 8 192	/home/pi/Downloads/owncloud/apps/templateeditor/lib/AppInfo
+ 8 192	/home/pi/Downloads/owncloud/apps/templateeditor/l10n/.tx
+ 8 192	/home/pi/Downloads/owncloud/apps/templateeditor/js
+ 8 192	/home/pi/Downloads/owncloud/apps/templateeditor/img
+ 8 192	/home/pi/Downloads/owncloud/apps/templateeditor/css
+ 8 192	/home/pi/Downloads/owncloud/apps/systemtags/templates
+ 8 192	/home/pi/Downloads/owncloud/apps/systemtags/img
+ 8 192	/home/pi/Downloads/owncloud/apps/systemtags/css
+ 8 192	/home/pi/Downloads/owncloud/apps/sharepoint/l10n/.tx
+ 8 192	/home/pi/Downloads/owncloud/apps/sharepoint/css 
+ 8 192	/home/pi/Downloads/owncloud/apps/password_policy/lib/Authentication
+ 8 192	/home/pi/Downloads/owncloud/apps/password_policy/lib/AppInfo
+ 8 192	/home/pi/Downloads/owncloud/apps/password_policy/l10n/.tx
+ 8 192	/home/pi/Downloads/owncloud/apps/password_policy/img
+ 8 192	/home/pi/Downloads/owncloud/apps/password_policy/css
+ 8 192	/home/pi/Downloads/owncloud/apps/password_policy/appinfo/Migrations
+ 8 192	/home/pi/Downloads/owncloud/apps/oauth2/lib/Hooks
+ 8 192	/home/pi/Downloads/owncloud/apps/oauth2/lib/BackgroundJob
+ 8 192	/home/pi/Downloads/owncloud/apps/oauth2/lib/AppInfo
+ 8 192	/home/pi/Downloads/owncloud/apps/oauth2/l10n/.tx 
+ 8 192	/home/pi/Downloads/owncloud/apps/oauth2/img
+ 8 192	/home/pi/Downloads/owncloud/apps/notifications/templates/panels/personal
+ 8 192	/home/pi/Downloads/owncloud/apps/notifications/lib/Panels/Personal
+ 8 192	/home/pi/Downloads/owncloud/apps/notifications/lib/Configuration
+ 8 192	/home/pi/Downloads/owncloud/apps/notifications/lib/AppInfo
+ 8 192	/home/pi/Downloads/owncloud/apps/notifications/css
+ 8 192	/home/pi/Downloads/owncloud/apps/metrics/vendor/symfony/serializer/Mapping/Loader/schema/dic/serializer-mapping
+ 8 192	/home/pi/Downloads/owncloud/apps/metrics/vendor/symfony/serializer/DependencyInjection
+ 8 192	/home/pi/Downloads/owncloud/apps/metrics/templates
+ 8 192	/home/pi/Downloads/owncloud/apps/metrics/lib/Middleware
+ 8  192	/home/pi/Downloads/owncloud/apps/metrics/l10n/.tx
+ 8 192	/home/pi/Downloads/owncloud/apps/metrics/img
+ 8 192	/home/pi/Downloads/owncloud/apps/market/templates
+ 8 192	/home/pi/Downloads/owncloud/apps/market/img
+ 8 192	/home/pi/Downloads/owncloud/apps/guests/templates/settings
+ 8 192	/home/pi/Downloads/owncloud/apps/guests/lib/Settings
+ 8 192	/home/pi/Downloads/owncloud/apps/guests/lib/AppInfo
+ 8 192	/home/pi/Downloads/owncloud/apps/guests/l10n/.tx
+ 8 192	/home/pi/Downloads/owncloud/apps/graphapi/vendor/symfony/polyfill-intl-normalizer/Resources/stubs
+ 8 192	/home/pi/Downloads/owncloud/apps/graphapi/vendor/ralouphie/getallheaders/src
+ 8 192	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/.vscode
+ 8 192	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/Model
+ 8 192	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/Exception
+ 8 192	/home/pi/Downloads/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/src/Exception
+ 8 192	/home/pi/Downloads/owncloud/apps/graphapi/img
+ 8 192	/home/pi/Downloads/owncloud/apps/firstrunwizard/templates
+ 8 192	/home/pi/Downloads/owncloud/apps/firstrunwizard/lib/Command
+ 8 192	/home/pi/Downloads/owncloud/apps/firstrunwizard/img
+ 8 192	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/stream/Test/Fixtures
+ 8 192	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/ruler/Bin
+ 8 192	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/compiler/Visitor
+ 8 192	/home/pi/Downloads/owncloud/apps/firewall/vendor/lib/hoa/compiler/Test/Unit/Llk/Sampler
+ 8 192	/home/pi/Downloads/owncloud/apps/firewall/rules/contracts
+ 8 192	/home/pi/Downloads/owncloud/apps/firewall/lib/Dav
+ 8 192	/home/pi/Downloads/owncloud/apps/firewall/img
+ 8 192	/home/pi/Downloads/owncloud/apps/firewall/controller
+ 8 192	/home/pi/Downloads/owncloud/apps/files_versions/lib/BackgroundJob
+ 8 192	/home/pi/Downloads/owncloud/apps/files_versions/lib/AppInfo
+ 8 192	/home/pi/Downloads/owncloud/apps/files_versions/img
+ 8 192	/home/pi/Downloads/owncloud/apps/files_versions/css
+ 8 192	/home/pi/Downloads/owncloud/apps/files_sharing/lib/Panels/Admin
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/templates
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/zh_TW
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/ur_PK
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/tr
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/th_TH
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/sq
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/ru
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/pt_BR
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/pl
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/nl
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/nb_NO
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/lt_LT
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/ja
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/is
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/he
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/gl
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/fr
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/et_EE
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/es_AR
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/es
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/el
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/de_DE
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/de_CH
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/de
+ 8 192	/home/pi/Downloads/owncloud/apps/files_mediaviewer/l10n/ar
+ 8 192	/home/pi/Downloads/owncloud/apps/files_ldap_home/templates
+ 8 192	/home/pi/Downloads/owncloud/apps/files_ldap_home/l10n/.tx
+ 8 192	/home/pi/Downloads/owncloud/apps/files_ldap_home/js
+ 8 192	/home/pi/Downloads/owncloud/apps/files_ldap_home/img
+ 8 192	/home/pi/Downloads/owncloud/apps/files_ldap_home/css
+ 8 192	/home/pi/Downloads/owncloud/apps/files_ldap_home/ajax
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/lib/Lib/Cache
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/lib/Lib/Auth/PublicKey
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/lib/Lib/Auth/OAuth2
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/lib/Lib/Auth/OAuth1
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/img
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external_ftp/lib/Backend
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external_ftp/lib/AppInfo
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external_ftp/l10n/.tx
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/react/promise/src/Exception
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/ralouphie/getallheaders/src
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/System/SSH/Common/Traits
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Math/Common/FiniteField
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/GMP
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/phpseclib/Crypt/Common/Formats/Signature
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/phpseclib/phpseclib/.github
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/paragonie/random_compat/other
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/paragonie/random_compat/lib
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/monolog/monolog/src/Monolog/Test
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/monolog/monolog/src/Monolog/Handler/SyslogUdp
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/monolog/monolog/src/Monolog/Handler/Curl
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/icewind/streams/.github/workflows
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/icewind/smb/.github/workflows
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Webfonts/Resource
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Verifiedaccess/Resource
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Urlshortener/Resource
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/TrafficDirectorService/Resource
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/QPXExpress/Resource
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PolicyTroubleshooter/Resource
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PlayableLocations/Resource
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Pagespeedonline/Resource
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/PagespeedInsights/Resource
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Kgsearch/Resource
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Indexing/Resource
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Groupssettings/Resource 
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/GroupsMigration/Resource
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FlightAvailability/Resource
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FirebaseRemoteConfig/Resource
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/FirebaseDynamicLinksAPI/Resource
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/DriveActivity/Resource
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Docs/Resource
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CommentAnalyzer/Resource
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudSecurityToken/Resource
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/CloudNaturalLanguageAPI/Resource
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/ChromeUXReport/Resource
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Appsactivity/Resource
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/google/apiclient-services/src/Google/Service/Acceleratedmobilepageurl/Resource
+ 8 192	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/firebase/php-jwt/.github/workflows
+ 8 192	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/validator/DataCollector
+ 8 192	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/serializer/Mapping/Loader/schema/dic/serializer-mapping
+ 8 192	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/serializer/DependencyInjection
+ 8 192	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/symfony/property-info/DependencyInjection
+ 8 192	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/phpdocumentor/reflection-docblock/src/Exception
+ 8 192	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory
+ 8 192	/home/pi/Downloads/owncloud/apps/files_classifier/vendor/laminas/laminas-zendframework-bridge/.github/workflows
+ 8 192	/home/pi/Downloads/owncloud/apps/files_classifier/templates/settings
+ 8 192	/home/pi/Downloads/owncloud/apps/files_classifier/lib/Controller
+ 8 192	/home/pi/Downloads/owncloud/apps/files_classifier/css
+ 8 192	/home/pi/Downloads/owncloud/apps/files_antivirus/lib/Dav
+ 8 192	/home/pi/Downloads/owncloud/apps/files_antivirus/css
+ 8 192	/home/pi/Downloads/owncloud/apps/federation/templates
+ 8 192	/home/pi/Downloads/owncloud/apps/federation/lib/Panels
+ 8 192	/home/pi/Downloads/owncloud/apps/federation/lib/Middleware
+ 8 192	/home/pi/Downloads/owncloud/apps/federation/lib/DAV
+ 8 192	/home/pi/Downloads/owncloud/apps/federation/lib/Command
+ 8 192	/home/pi/Downloads/owncloud/apps/federation/img
+ 8 192	/home/pi/Downloads/owncloud/apps/federation/css
+ 8 192	/home/pi/Downloads/owncloud/apps/federatedfilesharing/lib/BackgroundJob
+ 8 192	/home/pi/Downloads/owncloud/apps/federatedfilesharing/css/3rdparty/gs-share
+ 8 192	/home/pi/Downloads/owncloud/apps/external/lib
+ 8 192	/home/pi/Downloads/owncloud/apps/external/css
+ 8 192	/home/pi/Downloads/owncloud/apps/external/ajax
+ 8 192	/home/pi/Downloads/owncloud/apps/encryption/lib/Users
+ 8 192	/home/pi/Downloads/owncloud/apps/encryption/lib/Hooks/Contracts
+ 8 192	/home/pi/Downloads/owncloud/apps/encryption/l10n/.tx
+ 8 192	/home/pi/Downloads/owncloud/apps/encryption/img
+ 8 192	/home/pi/Downloads/owncloud/apps/encryption/appinfo/Migrations
+ 8 192	/home/pi/Downloads/owncloud/apps/configreport/templates/settings
+ 8 192	/home/pi/Downloads/owncloud/apps/configreport/lib/Http
+ 8 192	/home/pi/Downloads/owncloud/apps/configreport/lib/Controller
+ 8 192	/home/pi/Downloads/owncloud/apps/configreport/lib/Command
+ 8 192	/home/pi/Downloads/owncloud/apps/configreport/lib/AppInfo
+ 8 192	/home/pi/Downloads/owncloud/apps/configreport/js
+ 8 192	/home/pi/Downloads/docs/source
+ 8 192	/home/pi/Downloads/docs/pdf_web
+ 8 192	/home/pi/Downloads/docs/modules/user_manual/pages/_partials/configuration/user
+ 8 192	/home/pi/Downloads/docs/modules/user_manual/pages/_partials/configuration/files/encryption
+ 8 192	/home/pi/Downloads/docs/modules/developer_manual/pages/scripts
+ 8 192	/home/pi/Downloads/docs/modules/developer_manual/pages/_partials/webdav_api/responses
+ 8 192	/home/pi/Downloads/docs/modules/developer_manual/pages/_partials/webdav_api/files_versions
+ 8 192	/home/pi/Downloads/docs/modules/developer_manual/pages/_partials/app/fundamentals
+ 8 192	/home/pi/Downloads/docs/modules/developer_manual/pages/commun
+ 8 192	/home/pi/Downloads/docs/modules/developer_manual/pages/app/advanced/examples
+ 8 192	/home/pi/Downloads/docs/modules/developer_manual/examples/core/webdav_api/search/response/search_files/success
+ 8 192	/home/pi/Downloads/docs/modules/developer_manual/examples/core/webdav_api/search/response/filter_files
+ 8 192	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/php/ocs
+ 8 192	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/php/dav/public_files
+ 8 192	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/kotlin
+ 8 192	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/java
+ 8 192	/home/pi/Downloads/docs/modules/developer_manual/examples/core/scripts/curl/dav/public_files
+      8 192	/home/pi/Downloads/docs/modules/developer_manual/examples/core/apis/ocs/user-sync
+      8 192	/home/pi/Downloads/docs/modules/developer_manual/examples/core/apis/ocs-capabilities
+      8 192	/home/pi/Downloads/docs/modules/developer_manual/examples/app/storage-backend/OCA/MyStorageApp/Backend
+      8 192	/home/pi/Downloads/docs/modules/developer_manual/examples/app/storage-backend/OCA/MyStorageApp/AppInfo
+      8 192	/home/pi/Downloads/docs/modules/developer_manual/examples/app/storage-backend/appinfo
+      8 192	/home/pi/Downloads/docs/modules/developer_manual/examples/app/fundamentals/filesystem
+      8 192	/home/pi/Downloads/docs/modules/developer_manual/examples/app/fundamentals/cron
+      8 192	/home/pi/Downloads/docs/modules/admin_manual/pages/_partials/maintenance/upgrading
+      8 192	/home/pi/Downloads/docs/modules/admin_manual/pages/_partials/configuration/user
+      8 192	/home/pi/Downloads/docs/modules/admin_manual/pages/_partials/configuration/files/external_storage
+      8 192	/home/pi/Downloads/docs/modules/admin_manual/pages/_partials/configuration/files/encryption
+      8 192	/home/pi/Downloads/docs/modules/admin_manual/pages/installation/apps/mediaviewer
+      8 192	/home/pi/Downloads/docs/modules/admin_manual/pages/faq
+      8 192	/home/pi/Downloads/docs/modules/admin_manual/pages/enterprise/installation/examples
+      8 192	/home/pi/Downloads/docs/modules/admin_manual/pages/configuration/server/examples/reverse_proxy_configuration
+      8 192	/home/pi/Downloads/docs/modules/admin_manual/pages/configuration/search
+      8 192	/home/pi/Downloads/docs/modules/admin_manual/examples/installation/webservers/apache
+      8 192	/home/pi/Downloads/docs/modules/admin_manual/examples/installation/docker
+      8 192	/home/pi/Downloads/docs/modules/admin_manual/examples/installation/deployment_recommendations
+      8 192	/home/pi/Downloads/docs/.git/refs/remotes/origin
+      8 192	/home/pi/Downloads/docs/.git/refs/heads
+      8 192	/home/pi/Downloads/docs/.git/logs/refs/remotes/origin
+      8 192	/home/pi/Downloads/docs/.git/logs/refs/heads
+      8 192	/home/pi/Downloads/docs/.git/info
+      8 192	/home/pi/Desktop/owncloud/client/translations/.tx
+      8192	/home/pi/Desktop/owncloud/client/test/gui/tst_addAccount/verificationPoints
+      8 192	/home/pi/Desktop/owncloud/client/test/gui/drone
+      8 192	/home/pi/Desktop/owncloud/client/test/benchmarks
+      8 192	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/windows/dump_syms_dwarf
+      8 192	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/mac/upload_system_symbols/testdata
+      8 192	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/linux/dump_syms
+      8 192	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/tools/linux/core2md
+      8 192	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/third_party/libdisasm/swig/ruby
+      8 192	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/common/android/testing/include
+      8 192	/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt/3rdparty/breakpad/client/apple/Framework
+      8 192	/home/pi/Desktop/owncloud/client/shell_integration/MacOSX/OwnCloud.xcworkspace/xcshareddata
+      8 192	/home/pi/Desktop/owncloud/client/shell_integration/MacOSX/OwnCloudFinderSync/OwnCloudFinderSync.xcodeproj/xcshareddata/xcschemes
+      8 192	/home/pi/Desktop/owncloud/client/.git/refs/remotes/origin
+      8 192	/home/pi/Desktop/owncloud/client/.git/refs/heads
+      8 192	/home/pi/Desktop/owncloud/client/.git/modules/src/3rdparty/libcrashreporter-qt/refs/remotes/origin
+      8 192	/home/pi/Desktop/owncloud/client/.git/modules/src/3rdparty/libcrashreporter-qt/refs/heads
+      8 192	/home/pi/Desktop/owncloud/client/.git/modules/src/3rdparty/libcrashreporter-qt/logs/refs/remotes/origin
+      8 192	/home/pi/Desktop/owncloud/client/.git/modules/src/3rdparty/libcrashreporter-qt/logs/refs/heads
+      8 192	/home/pi/Desktop/owncloud/client/.git/modules/src/3rdparty/libcrashreporter-qt/info
+      8 192	/home/pi/Desktop/owncloud/client/.git/logs/refs/remotes/origin
+      8 192	/home/pi/Desktop/owncloud/client/.git/logs/refs/heads
+      8 192	/home/pi/Desktop/owncloud/client/.git/info
+      8 192	/home/pi/Desktop/owncloud/client/changelog/2.7.3_2020-12-11
+      8 192	/home/pi/Desktop/owncloud/client/changelog/2.6.2_2020-02-21
+      4 096	/home/pi/Videos
+      4 096	/home/pi/Templates
+      4 096	/home/pi/Public
+      4 096	/home/pi/Pictures
+      4 096	/home/pi/Music
+      4 096	/home/pi/Downloads/pyocclient/.git/refs/tags
+      4 096	/home/pi/Downloads/pyocclient/.git/objects/info
+      4 096	/home/pi/Downloads/pyocclient/.git/branches
+      4 096	/home/pi/Downloads/pyocclient/build/bdist.linux-armv7l
+      4 096	/home/pi/Downloads/owncloud/apps/files_external/3rdparty/firebase/php-jwt/.github/actions
+      4 096	/home/pi/Downloads/owncloud/apps/admin_audit/l10n
+      4 096	/home/pi/Downloads/docs/modules/user_manual/examples
+      4 096	/home/pi/Downloads/docs/modules/user_manual/assets/attachments
+      4 096	/home/pi/Downloads/docs/.git/refs/tags
+      4 096	/home/pi/Downloads/docs/.git/objects/info
+      4 096	/home/pi/Downloads/docs/.git/branches
+      4 096	/home/pi/Documents
+      4 096	/home/pi/Desktop/owncloud/client/.git/refs/tags
+      4 096	/home/pi/Desktop/owncloud/client/.git/objects/info
+      4 096	/home/pi/Desktop/owncloud/client/.git/modules/src/3rdparty/libcrashreporter-qt/refs/tags
+      4 096	/home/pi/Desktop/owncloud/client/.git/modules/src/3rdparty/libcrashreporter-qt/objects/info
+      4 096	/home/pi/Desktop/owncloud/client/.git/modules/src/3rdparty/libcrashreporter-qt/branches
+      4 096	/home/pi/Desktop/owncloud/client/.git/branches
+      4 096	/home/pi/Desktop/owncloud/client/client-build
+          0	/home/pi/sortlistpi.txt
+xxx xxx xxx	******************************************************************************

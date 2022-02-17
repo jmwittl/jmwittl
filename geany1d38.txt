@@ -1,0 +1,1304 @@
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... /usr/bin/mkdir -p
+checking for gawk... gawk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking whether make supports nested variables... (cached) yes
+checking whether make supports the include directive... yes (GNU style)
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking whether gcc understands -c and -o together... yes
+checking dependency style of gcc... gcc3
+checking how to run the C preprocessor... gcc -E
+checking for grep that handles long lines and -e... /usr/bin/grep
+checking for egrep... /usr/bin/grep -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking minix/config.h usability... no
+checking minix/config.h presence... no
+checking for minix/config.h... no
+checking whether it is safe to define __EXTENSIONS__... yes
+checking for ar... ar
+checking the archiver (ar) interface... ar
+checking build system type... armv7l-unknown-linux-gnueabihf
+checking host system type... armv7l-unknown-linux-gnueabihf
+checking how to print strings... printf
+checking for a sed that does not truncate output... /usr/bin/sed
+checking for fgrep... /usr/bin/grep -F
+checking for ld used by gcc... /usr/bin/ld
+checking if the linker (/usr/bin/ld) is GNU ld... yes
+checking for BSD- or MS-compatible name lister (nm)... /usr/bin/nm -B
+checking the name lister (/usr/bin/nm -B) interface... BSD nm
+checking whether ln -s works... yes
+checking the maximum length of command line arguments... 1572864
+checking how to convert armv7l-unknown-linux-gnueabihf file names to armv7l-unknown-linux-gnueabihf format... func_convert_file_noop
+checking how to convert armv7l-unknown-linux-gnueabihf file names to toolchain format... func_convert_file_noop
+checking for /usr/bin/ld option to reload object files... -r
+checking for objdump... objdump
+checking how to recognize dependent libraries... pass_all
+checking for dlltool... no
+checking how to associate runtime and link libraries... printf %s\n
+checking for archiver @FILE support... @
+checking for strip... strip
+checking for ranlib... ranlib
+checking command to parse /usr/bin/nm -B output from gcc object... ok
+checking for sysroot... no
+checking for a working dd... /usr/bin/dd
+checking how to truncate binary pipes... /usr/bin/dd bs=4096 count=1
+checking for mt... mt
+checking if mt is a manifest tool... no
+checking for dlfcn.h... yes
+checking for objdir... .libs
+checking if gcc supports -fno-rtti -fno-exceptions... no
+checking for gcc option to produce PIC... -fPIC -DPIC
+checking if gcc PIC flag -fPIC -DPIC works... yes
+checking if gcc static flag -static works... yes
+checking if gcc supports -c -o file.o... yes
+checking if gcc supports -c -o file.o... (cached) yes
+checking whether the gcc linker (/usr/bin/ld) supports shared libraries... yes
+checking whether -lc should be explicitly linked in... no
+checking dynamic linker characteristics... GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking whether stripping libraries is possible... yes
+checking if libtool supports shared libraries... yes
+checking whether to build shared libraries... yes
+checking whether to build static libraries... no
+checking for gcc... (cached) gcc
+checking whether we are using the GNU C compiler... (cached) yes
+checking whether gcc accepts -g... (cached) yes
+checking for gcc option to accept ISO C89... (cached) none needed
+checking whether gcc understands -c and -o together... (cached) yes
+checking dependency style of gcc... (cached) gcc3
+checking for gcc option to accept ISO C99... none needed
+checking for g++... g++
+checking whether we are using the GNU C++ compiler... yes
+checking whether g++ accepts -g... yes
+checking dependency style of g++... gcc3
+checking how to run the C++ preprocessor... g++ -E
+checking for ld used by g++... /usr/bin/ld
+checking if the linker (/usr/bin/ld) is GNU ld... yes
+checking whether the g++ linker (/usr/bin/ld) supports shared libraries... yes
+checking for g++ option to produce PIC... -fPIC -DPIC
+checking if g++ PIC flag -fPIC -DPIC works... yes
+checking if g++ static flag -static works... yes
+checking if g++ supports -c -o file.o... yes
+checking if g++ supports -c -o file.o... (cached) yes
+checking whether the g++ linker (/usr/bin/ld) supports shared libraries... yes
+checking dynamic linker characteristics... (cached) GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking whether the C++ compiler works... yes
+checking whether g++ supports C++17 features by default... no
+checking whether g++ supports C++17 features with -std=gnu++17... yes
+checking whether ln -s works... yes
+checking fcntl.h usability... yes
+checking fcntl.h presence... yes
+checking for fcntl.h... yes
+checking glob.h usability... yes
+checking glob.h presence... yes
+checking for glob.h... yes
+checking for stdlib.h... (cached) yes
+checking sys/time.h usability... yes
+checking sys/time.h presence... yes
+checking for sys/time.h... yes
+checking errno.h usability... yes
+checking errno.h presence... yes
+checking for errno.h... yes
+checking limits.h usability... yes
+checking limits.h presence... yes
+checking for limits.h... yes
+checking fnmatch.h usability... yes
+checking fnmatch.h presence... yes
+checking for fnmatch.h... yes
+checking direct.h usability... no
+checking direct.h presence... no
+checking for direct.h... no
+checking io.h usability... no
+checking io.h presence... no
+checking for io.h... no
+checking sys/dir.h usability... yes
+checking sys/dir.h presence... yes
+checking for sys/dir.h... yes
+checking for size_t... yes
+checking for regcomp... yes
+checking for fnmatch... yes
+checking for off_t... yes
+checking for size_t... (cached) yes
+checking whether struct tm is in sys/time.h or time.h... time.h
+checking for realpath... yes
+checking for strerror... yes
+checking for strstr... yes
+checking for asprintf... yes
+checking for mkstemp... yes
+checking for strcasecmp... yes
+checking for strncasecmp... yes
+checking for truncate... yes
+checking whether __environ is declared... yes
+checking whether _NSGetEnviron is declared... no
+checking for Git revision... none
+checking for pkg-config... /usr/bin/pkg-config
+checking pkg-config is at least version 0.9.0... yes
+checking for GTK... no
+
+
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... /usr/bin/mkdir -p
+checking for gawk... gawk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking whether make supports nested variables... (cached) yes
+checking whether make supports the include directive... yes (GNU style)
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking whether gcc understands -c and -o together... yes
+checking dependency style of gcc... gcc3
+checking how to run the C preprocessor... gcc -E
+checking for grep that handles long lines and -e... /usr/bin/grep
+checking for egrep... /usr/bin/grep -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking minix/config.h usability... no
+checking minix/config.h presence... no
+checking for minix/config.h... no
+checking whether it is safe to define __EXTENSIONS__... yes
+checking for ar... ar
+checking the archiver (ar) interface... ar
+checking build system type... armv7l-unknown-linux-gnueabihf
+checking host system type... armv7l-unknown-linux-gnueabihf
+checking how to print strings... printf
+checking for a sed that does not truncate output... /usr/bin/sed
+checking for fgrep... /usr/bin/grep -F
+checking for ld used by gcc... /usr/bin/ld
+checking if the linker (/usr/bin/ld) is GNU ld... yes
+checking for BSD- or MS-compatible name lister (nm)... /usr/bin/nm -B
+checking the name lister (/usr/bin/nm -B) interface... BSD nm
+checking whether ln -s works... yes
+checking the maximum length of command line arguments... 1572864
+checking how to convert armv7l-unknown-linux-gnueabihf file names to armv7l-unknown-linux-gnueabihf format... func_convert_file_noop
+checking how to convert armv7l-unknown-linux-gnueabihf file names to toolchain format... func_convert_file_noop
+checking for /usr/bin/ld option to reload object files... -r
+checking for objdump... objdump
+checking how to recognize dependent libraries... pass_all
+checking for dlltool... no
+checking how to associate runtime and link libraries... printf %s\n
+checking for archiver @FILE support... @
+checking for strip... strip
+checking for ranlib... ranlib
+checking command to parse /usr/bin/nm -B output from gcc object... ok
+checking for sysroot... no
+checking for a working dd... /usr/bin/dd
+checking how to truncate binary pipes... /usr/bin/dd bs=4096 count=1
+checking for mt... mt
+checking if mt is a manifest tool... no
+checking for dlfcn.h... yes
+checking for objdir... .libs
+checking if gcc supports -fno-rtti -fno-exceptions... no
+checking for gcc option to produce PIC... -fPIC -DPIC
+checking if gcc PIC flag -fPIC -DPIC works... yes
+checking if gcc static flag -static works... yes
+checking if gcc supports -c -o file.o... yes
+checking if gcc supports -c -o file.o... (cached) yes
+checking whether the gcc linker (/usr/bin/ld) supports shared libraries... yes
+checking whether -lc should be explicitly linked in... no
+checking dynamic linker characteristics... GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking whether stripping libraries is possible... yes
+checking if libtool supports shared libraries... yes
+checking whether to build shared libraries... yes
+checking whether to build static libraries... no
+checking for gcc... (cached) gcc
+checking whether we are using the GNU C compiler... (cached) yes
+checking whether gcc accepts -g... (cached) yes
+checking for gcc option to accept ISO C89... (cached) none needed
+checking whether gcc understands -c and -o together... (cached) yes
+checking dependency style of gcc... (cached) gcc3
+checking for gcc option to accept ISO C99... none needed
+checking for g++... g++
+checking whether we are using the GNU C++ compiler... yes
+checking whether g++ accepts -g... yes
+checking dependency style of g++... gcc3
+checking how to run the C++ preprocessor... g++ -E
+checking for ld used by g++... /usr/bin/ld
+checking if the linker (/usr/bin/ld) is GNU ld... yes
+checking whether the g++ linker (/usr/bin/ld) supports shared libraries... yes
+checking for g++ option to produce PIC... -fPIC -DPIC
+checking if g++ PIC flag -fPIC -DPIC works... yes
+checking if g++ static flag -static works... yes
+checking if g++ supports -c -o file.o... yes
+checking if g++ supports -c -o file.o... (cached) yes
+checking whether the g++ linker (/usr/bin/ld) supports shared libraries... yes
+checking dynamic linker characteristics... (cached) GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking whether the C++ compiler works... yes
+checking whether g++ supports C++17 features by default... no
+checking whether g++ supports C++17 features with -std=gnu++17... yes
+checking whether ln -s works... yes
+checking fcntl.h usability... yes
+checking fcntl.h presence... yes
+checking for fcntl.h... yes
+checking glob.h usability... yes
+checking glob.h presence... yes
+checking for glob.h... yes
+checking for stdlib.h... (cached) yes
+checking sys/time.h usability... yes
+checking sys/time.h presence... yes
+checking for sys/time.h... yes
+checking errno.h usability... yes
+checking errno.h presence... yes
+checking for errno.h... yes
+checking limits.h usability... yes
+checking limits.h presence... yes
+checking for limits.h... yes
+checking fnmatch.h usability... yes
+checking fnmatch.h presence... yes
+checking for fnmatch.h... yes
+checking direct.h usability... no
+checking direct.h presence... no
+checking for direct.h... no
+checking io.h usability... no
+checking io.h presence... no
+checking for io.h... no
+checking sys/dir.h usability... yes
+checking sys/dir.h presence... yes
+checking for sys/dir.h... yes
+checking for size_t... yes
+checking for regcomp... yes
+checking for fnmatch... yes
+checking for off_t... yes
+checking for size_t... (cached) yes
+checking whether struct tm is in sys/time.h or time.h... time.h
+checking for realpath... yes
+checking for strerror... yes
+checking for strstr... yes
+checking for asprintf... yes
+checking for mkstemp... yes
+checking for strcasecmp... yes
+checking for strncasecmp... yes
+checking for truncate... yes
+checking whether __environ is declared... yes
+checking whether _NSGetEnviron is declared... no
+checking for Git revision... none
+checking for pkg-config... /usr/bin/pkg-config
+checking pkg-config is at least version 0.9.0... yes
+checking for GTK... yes
+checking for GTHREAD... yes
+checking whether binary relocation support should be enabled... no
+checking for library containing connect... none required
+checking whether the force is with you... no
+checking whether NLS is requested... yes
+checking for intltool-update... no
+checking for intltool-merge... no
+checking for intltool-extract... no
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... /usr/bin/mkdir -p
+checking for gawk... gawk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking whether make supports nested variables... (cached) yes
+checking whether make supports the include directive... yes (GNU style)
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking whether gcc understands -c and -o together... yes
+checking dependency style of gcc... gcc3
+checking how to run the C preprocessor... gcc -E
+checking for grep that handles long lines and -e... /usr/bin/grep
+checking for egrep... /usr/bin/grep -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking minix/config.h usability... no
+checking minix/config.h presence... no
+checking for minix/config.h... no
+checking whether it is safe to definchecking whether make supports nested variablese __EXTENSIONS__... yes
+checking for ar... ar
+checking the archiver (ar) interface... ar
+checking build system type... armv7l-unknown-linux-gnueabihf
+checking host system type... armv7l-unknown-linux-gnueabihf
+checking how to print strings... printf
+checking for a sed that does not truncate output... /usr/bin/sed
+checking for fgrep... /usr/bin/grep -F
+checking for ld used by gcc... /usr/bin/ld
+checking if the linker (/usr/bin/ld) is GNU ld... yes
+checking for BSD- or MS-compatible name lister (nm)... /usr/bin/nm -B
+checking the name lister (/usr/bin/nm -B) interface... BSD nm
+checking whether ln -s works... yes
+checking the maximum length of command line arguments... 1572864
+checking how to convert armv7l-unknown-linux-gnueabihf file names to armv7l-unknown-linux-gnueabihf format... func_convert_file_noop
+checking how to convert armv7l-unknown-linux-gnueabihf file names to toolchain format... func_convert_file_noop
+checking for /usr/bin/ld option to reload object files... -r
+checking for objdump... objdump
+checking how to recognize dependent libraries... pass_all
+checking for dlltool... no
+checking how to associate runtime and link libraries... printf %s\n
+checking for archiver @FILE support... @
+checking for strip... strip
+checking for ranlib... ranlib
+checking command to parse /usr/bin/nm -B output from gcc object... ok
+checking for sysroot... no
+checking for a working dd... /usr/bin/dd
+checking how to truncate binary pipes... /usr/bin/dd bs=4096 count=1
+checking for mt... mt
+checking if mt is a manifest tool... no
+checking for dlfcn.h... yes
+checking for objdir... .libs
+checking if gcc supports -fno-rtti -fno-exceptions... no
+checking for gcc option to produce PIC... -fPIC -DPIC
+checking if gcc PIC flag -fPIC -DPIC works... yes
+checking if gcc static flag -static works... yes
+checking if gcc supports -c -o file.o... yes
+checking if gcc supports -c -o file.o... (cached) yes
+checking whether the gcc linker (/usr/bin/ld) supports shared libraries... yes
+checking whether -lc should be explicitly linked in... no
+checking dynamic linker characteristics... GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking whether stripping libraries is possible... yes
+checking if libtool supports shared libraries... yes
+checking whether to build shared libraries... yes
+checking whether to build static libraries... no
+checking for gcc... (cached) gcc
+checking whether we are using the GNU C compiler... (cached) yes
+checking whether gcc accepts -g... (cached) yes
+checking for gcc option to accept ISO C89... (cached) none needed
+checking whether gcc understands -c and -o together... (cached) yes
+checking dependency style of gcc... (cached) gcc3
+checking for gcc option to accept ISO C99... none needed
+checking for g++... g++
+checking whether we are using the GNU C++ compiler... yes
+checking whether g++ accepts -g... yes
+checking dependency style of g++... gcc3
+checking how to run the C++ preprocessor... g++ -E
+checking for ld used by g++... /usr/bin/ld
+checking if the linker (/usr/bin/ld) is GNU ld... yes
+checking whether the g++ linker (/usr/bin/ld) supports shared libraries... yes
+checking for g++ option to produce PIC... -fPIC -DPIC
+checking if g++ PIC flag -fPIC -DPIC works... yes
+checking if g++ static flag -static works... yes
+checking if g++ supports -c -o file.o... yes
+checking if g++ supports -c -o file.o... (cached) yes
+checking whether the g++ linker (/usr/bin/ld) supports shared libraries... yes
+checking dynamic linker characteristics... (cached) GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking whether the C++ compiler works... yes
+checking whether g++ supports C++17 features by default... no
+checking whether g++ supports C++17 features with -std=gnu++17... yes
+checking whether ln -s works... yes
+checking fcntl.h usability... yes
+checking fcntl.h presence... yes
+checking for fcntl.h... yes
+checking glob.h usability... yes
+checking glob.h presence... yes
+checking for glob.h... yes
+checking for stdlib.h... (cached) yes
+checking sys/time.h usability... yes
+checking sys/time.h presence... yes
+checking for sys/time.h... yes
+checking errno.h usability... yes
+checking errno.h presence... yes
+checking for errno.h... yes
+checking limits.h usability... yes
+checking limits.h presence... yes
+checking for limits.h... yes
+checking fnmatch.h usability... yes
+checking fnmatch.h presence... yes
+checking for fnmatch.h... yes
+checking direct.h usability... no
+checking direct.h presence... no
+checking for direct.h... no
+checking io.h usability... no
+checking io.h presence... no
+checking for io.h... no
+checking sys/dir.h usability... yes
+checking sys/dir.h presence... yes
+checking for sys/dir.h... yes
+checking for size_t... yes
+checking for regcomp... yes
+checking for fnmatch... yes
+checking for off_t... yes
+checking for size_t... (cached) yes
+checking whether struct tm is in sys/time.h or time.h... time.h
+checking for realpath... yes
+checking for strerror... yes
+checking for strstr... yes
+checking for asprintf... yes
+checking for mkstemp... yes
+checking for strcasecmp... yes
+checking for strncasecmp... yes
+checking for truncate... yes
+checking whether __environ is declared... yes
+checking whether _NSGetEnviron is declared... no
+checking for Git revision... none
+checking for pkg-config... /usr/bin/pkg-config
+checking pkg-config is at least version 0.9.0... yes
+checking for GTK... yes
+checking for GTHREAD... yes
+checking whether binary relocation support should be enabled... no
+checking for library containing connect... none required
+checking whether the force is with you... no
+checking whether NLS is requested... yes
+checking for intltool-update... /usr/bin/intltool-update
+checking for intltool-merge... /usr/bin/intltool-merge
+checking for intltool-extract... /usr/bin/intltool-extract
+checking for xgettext... /usr/bin/xgettext
+checking for msgmerge... /usr/bin/msgmerge
+checking for msgfmt... /usr/bin/msgfmt
+checking for gmsgfmt... /usr/bin/msgfmt
+checking for perl... /usr/bin/perl
+checking for perl >= 5.8.1... 5.32.1
+checking for XML::Parser... ok
+checking locale.h usability... yes
+checking locale.h presence... yes
+checking for locale.h... yes
+checking for LC_MESSAGES... yes
+checking for CFPreferencesCopyAppValue... no
+checking for CFLocaleCopyCurrent... no
+checking libintl.h usability... yes
+checking libintl.h presence... yes
+checking for libintl.h... yes
+checking for ngettext in libc... yes
+checking for dgettext in libc... yes
+checking for bind_textdomain_codeset... yes
+checking for msgfmt... (cached) /usr/bin/msgfmt
+checking for dcgettext... yes
+checking if msgfmt accepts -c... yes
+checking for gmsgfmt... (cached) /usr/bin/msgfmt
+checking for xgettext... (cached) /usr/bin/xgettext
+checking for catalogs to be installed...  ar ast be bg ca cs da de el en_GB es et eu fa fi fr gl he hi hu id ie it ja kk ko ku lb lt lv mn nl nn pl pt pt_BR ro ru sk sl sr sv tr uk vi zh_CN zh_TW
+checking for rst2html... /usr/bin/rst2html
+checking for rst2pdf... no
+checking for rst2pdf.py... no
+checking for doxygen... no
+checking for a Python interpreter with version >= 2.7... python
+checking for python... /usr/bin/python
+checking for python version... 3.9
+checking for python platform... linux
+checking for python script directory... ${prefix}/lib/python3.9/site-packages
+checking for python extension module directory... ${exec_prefix}/lib/python3.9/site-packages
+checking for python lxml package... yes
+checking whether compiler supports GCC4-style visibility... yes
+checking for sort... /usr/bin/sort
+checking for uniq... /usr/bin/uniq
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating icons/Makefile
+config.status: creating icons/16x16/Makefile
+config.status: creating icons/24x24/Makefile
+config.status: creating icons/32x32/Makefile
+config.status: creating icons/48x48/Makefile
+config.status: creating icons/scalable/Makefile
+config.status: creating icons/tango/Makefile
+config.status: creating icons/tango/16x16/Makefile
+config.status: creating icons/tango/24x24/Makefile
+config.status: creating icons/tango/32x32/Makefile
+config.status: creating icons/tango/48x48/Makefile
+config.status: creating icons/tango/scalable/Makefile
+config.status: creating ctags/Makefile
+config.status: creating scintilla/Makefile
+config.status: creating scintilla/include/Makefile
+config.status: creating src/Makefile
+config.status: creating src/tagmanager/Makefile
+config.status: creating plugins/Makefile
+config.status: creating po/Makefile.in
+config.status: creating data/Makefile
+config.status: creating data/filedefs/filetypes.python
+config.status: creating doc/Makefile
+config.status: creating doc/geany.1
+config.status: creating geany.pc
+config.status: creating geany.nsi
+config.status: creating doc/Doxyfile
+config.status: creating tests/Makefile
+config.status: creating tests/ctags/Makefile
+config.status: creating config.h
+config.status: executing depfiles commands
+config.status: executing libtool commands
+config.status: executing default-1 commands
+config.status: executing po/stamp-it commands
+-----------------------------------------------
+Install Geany in                   : /usr/local
+Using GTK version                  : 3.24.24
+Enable binary relocation           : no
+Build with plugin support          : yes
+Use (UNIX domain) socket support   : yes
+Use virtual terminal support (VTE) : yes
+Build HTML documentation           : yes
+Build PDF documentation            : no
+Build API documentation            : no
+Generate GtkDoc header             : yes
+
+Configuration is done OK.
+
+make  all-recursive
+make[1]: Entering directory '/tmp/geany-1.38'
+Making all in ctags
+make[2]: Entering directory '/tmp/geany-1.38/ctags'
+  CC       main/args.lo
+  CC       main/colprint.lo
+  CC       main/debug.lo
+  CC       main/dependency.lo
+  CC       main/entry.lo
+  CC       main/entry_private.lo
+  CC       main/error.lo
+  CC       main/field.lo
+  CC       main/flags.lo
+  CC       main/fmt.lo
+  CC       main/htable.lo
+  CC       main/keyword.lo
+  CC       main/kind.lo
+  CC       main/lregex.lo
+  CC       main/lxpath.lo
+  CC       main/main.lo
+  CC       main/mbcs.lo
+  CC       main/mio.lo
+  CC       main/nestlevel.lo
+  CC       main/numarray.lo
+  CC       main/objpool.lo
+  CC       main/options.lo
+  CC       main/param.lo
+  CC       main/parse.lo
+  CC       main/portable-scandir.lo
+  CC       main/promise.lo
+  CC       main/ptag.lo
+  CC       main/ptrarray.lo
+  CC       main/rbtree.lo
+  CC       main/read.lo
+  CC       main/repoinfo.lo
+  CC       main/routines.lo
+  CC       main/seccomp.lo
+  CC       main/selectors.lo
+  CC       main/sort.lo
+  CC       main/stats.lo
+  CC       main/strlist.lo
+  CC       main/tokeninfo.lo
+  CC       main/trace.lo
+  CC       main/trashbox.lo
+  CC       main/unwindi.lo
+  CC       main/vstring.lo
+  CC       main/writer-ctags.lo
+  CC       main/writer-etags.lo
+  CC       main/writer-json.lo
+  CC       main/writer-xref.lo
+  CC       main/writer.lo
+  CC       main/xtag.lo
+  CC       parsers/geany_abaqus.lo
+  CC       parsers/geany_abc.lo
+  CC       parsers/geany_asciidoc.lo
+  CC       parsers/geany_asm.lo
+  CC       parsers/geany_basic.lo
+  CC       parsers/geany_bibtex.lo
+  CC       parsers/geany_c.lo
+  CC       parsers/geany_cobol.lo
+  CC       parsers/geany_iniconf.lo
+  CC       parsers/geany_css.lo
+  CC       parsers/geany_diff.lo
+  CC       parsers/geany_docbook.lo
+  CC       parsers/geany_erlang.lo
+  CC       parsers/geany_flex.lo
+  CC       parsers/geany_fortran.lo
+  CC       parsers/geany_go.lo
+  CC       parsers/geany_haskell.lo
+  CC       parsers/geany_haxe.lo
+  CC       parsers/geany_html.lo
+  CC       parsers/geany_jscript.lo
+  CC       parsers/geany_json.lo
+  CC       parsers/geany_julia.lo
+  CC       parsers/geany_lcpp.lo
+  CC       parsers/geany_lua.lo
+  CC       parsers/geany_make.lo
+  CC       parsers/geany_markdown.lo
+  CC       parsers/geany_matlab.lo
+  CC       parsers/geany_nsis.lo
+  CC       parsers/geany_objc.lo
+  CC       parsers/geany_pascal.lo
+  CC       parsers/geany_perl.lo
+  CC       parsers/geany_php.lo
+  CC       parsers/geany_powershell.lo
+  CC       parsers/geany_python.lo
+  CC       parsers/geany_r.lo
+  CC       parsers/geany_rst.lo
+  CC       parsers/geany_ruby.lo
+  CC       parsers/geany_rust.lo
+  CC       parsers/geany_sh.lo
+  CC       parsers/geany_sql.lo
+  CC       parsers/geany_tcl.lo
+  CC       parsers/geany_tex.lo
+  CC       parsers/geany_txt2tags.lo
+  CC       parsers/geany_verilog.lo
+  CC       parsers/geany_vhdl.lo
+  CCLD     libctags.la
+make[2]: Leaving directory '/tmp/geany-1.38/ctags'
+Making all in scintilla
+make[2]: Entering directory '/tmp/geany-1.38/scintilla'
+Making all in include
+make[3]: Entering directory '/tmp/geany-1.38/scintilla/include'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/tmp/geany-1.38/scintilla/include'
+make[3]: Entering directory '/tmp/geany-1.38/scintilla'
+  CXX      gtk/PlatGTK.lo
+  CXX      gtk/ScintillaGTK.lo
+  CXX      gtk/ScintillaGTKAccessible.lo
+  CC       gtk/scintilla-marshal.lo
+  CXX      lexlib/Accessor.lo
+  CXX      lexlib/CharacterCategory.lo
+  CXX      lexlib/CharacterSet.lo
+  CXX      lexlib/DefaultLexer.lo
+  CXX      lexlib/LexerBase.lo
+  CXX      lexlib/LexerModule.lo
+  CXX      lexlib/LexerNoExceptions.lo
+  CXX      lexlib/LexerSimple.lo
+  CXX      lexlib/PropSetSimple.lo
+  CXX      lexlib/StyleContext.lo
+  CXX      lexlib/WordList.lo
+  CXX      src/AutoComplete.lo
+  CXX      src/CallTip.lo
+  CXX      src/CaseConvert.lo
+  CXX      src/CaseFolder.lo
+  CXX      src/Catalogue.lo
+  CXX      src/CellBuffer.lo
+  CXX      src/CharClassify.lo
+  CXX      src/ContractionState.lo
+  CXX      src/DBCS.lo
+  CXX      src/Decoration.lo
+  CXX      src/Document.lo
+  CXX      src/Editor.lo
+  CXX      src/EditModel.lo
+  CXX      src/EditView.lo
+  CXX      src/ExternalLexer.lo
+  CXX      src/Indicator.lo
+  CXX      src/KeyMap.lo
+  CXX      src/LineMarker.lo
+  CXX      src/MarginView.lo
+  CXX      src/PerLine.lo
+  CXX      src/PositionCache.lo
+  CXX      src/RESearch.lo
+  CXX      src/RunStyles.lo
+  CXX      src/ScintillaBase.lo
+  CXX      src/Selection.lo
+  CXX      src/Style.lo
+  CXX      src/UniConversion.lo
+  CXX      src/UniqueString.lo
+  CXX      src/ViewStyle.lo
+  CXX      src/XPM.lo
+  CXX      lexers/LexAbaqus.lo
+  CXX      lexers/LexAda.lo
+  CXX      lexers/LexAsm.lo
+  CXX      lexers/LexBash.lo
+  CXX      lexers/LexBasic.lo
+  CXX      lexers/LexBatch.lo
+  CXX      lexers/LexCOBOL.lo
+  CXX      lexers/LexCPP.lo
+  CXX      lexers/LexCSS.lo
+  CXX      lexers/LexCaml.lo
+  CXX      lexers/LexCmake.lo
+  CXX      lexers/LexCoffeeScript.lo
+  CXX      lexers/LexD.lo
+  CXX      lexers/LexDiff.lo
+  CXX      lexers/LexErlang.lo
+  CXX      lexers/LexForth.lo
+  CXX      lexers/LexFortran.lo
+  CXX      lexers/LexHTML.lo
+  CXX      lexers/LexHaskell.lo
+  CXX      lexers/LexJulia.lo
+  CXX      lexers/LexLaTeX.lo
+  CXX      lexers/LexLisp.lo
+  CXX      lexers/LexLua.lo
+  CXX      lexers/LexMake.lo
+  CXX      lexers/LexMarkdown.lo
+  CXX      lexers/LexMatlab.lo
+  CXX      lexers/LexNsis.lo
+  CXX      lexers/LexNull.lo
+  CXX      lexers/LexPascal.lo
+  CXX      lexers/LexPerl.lo
+  CXX      lexers/LexPowerShell.lo
+  CXX      lexers/LexProps.lo
+  CXX      lexers/LexPython.lo
+  CXX      lexers/LexPO.lo
+  CXX      lexers/LexR.lo
+  CXX      lexers/LexRuby.lo
+  CXX      lexers/LexRust.lo
+  CXX      lexers/LexSmalltalk.lo
+  CXX      lexers/LexSQL.lo
+  CXX      lexers/LexTCL.lo
+  CXX      lexers/LexTxt2tags.lo
+  CXX      lexers/LexVHDL.lo
+  CXX      lexers/LexVerilog.lo
+  CXX      lexers/LexYAML.lo
+  CXXLD    libscintilla.la
+make[3]: Leaving directory '/tmp/geany-1.38/scintilla'
+make[2]: Leaving directory '/tmp/geany-1.38/scintilla'
+Making all in src
+make[2]: Entering directory '/tmp/geany-1.38/src'
+Making all in tagmanager
+make[3]: Entering directory '/tmp/geany-1.38/src/tagmanager'
+  CC       tm_ctags.lo
+  CC       tm_parser.lo
+  CC       tm_source_file.lo
+  CC       tm_tag.lo
+  CC       tm_workspace.lo
+  CCLD     libtagmanager.la
+make[3]: Leaving directory '/tmp/geany-1.38/src/tagmanager'
+make[3]: Entering directory '/tmp/geany-1.38/src'
+  CC       main.o
+  CC       libgeany_la-about.lo
+  CC       libgeany_la-build.lo
+  GEN      signallist.i
+  CC       libgeany_la-callbacks.lo
+  CC       libgeany_la-dialogs.lo
+  CC       libgeany_la-document.lo
+  CC       libgeany_la-editor.lo
+  CC       libgeany_la-encodings.lo
+  CC       libgeany_la-filetypes.lo
+  CC       libgeany_la-geanyentryaction.lo
+  CC       libgeany_la-geanymenubuttonaction.lo
+  CC       libgeany_la-geanyobject.lo
+  CC       libgeany_la-geanywraplabel.lo
+  CC       libgeany_la-highlighting.lo
+  CC       libgeany_la-keybindings.lo
+  CC       libgeany_la-keyfile.lo
+  CC       libgeany_la-log.lo
+  CC       libgeany_la-libmain.lo
+  CC       libgeany_la-msgwindow.lo
+  CC       libgeany_la-navqueue.lo
+  CC       libgeany_la-notebook.lo
+  CC       libgeany_la-plugins.lo
+  CC       libgeany_la-pluginutils.lo
+  CC       libgeany_la-prefs.lo
+  CC       libgeany_la-printing.lo
+  CC       libgeany_la-project.lo
+  CC       libgeany_la-sciwrappers.lo
+  CC       libgeany_la-search.lo
+  CC       libgeany_la-socket.lo
+  CC       libgeany_la-spawn.lo
+  CC       libgeany_la-stash.lo
+  CC       libgeany_la-symbols.lo
+  CC       libgeany_la-templates.lo
+  CC       libgeany_la-toolbar.lo
+  CC       libgeany_la-tools.lo
+  CC       libgeany_la-sidebar.lo
+  CC       libgeany_la-ui_utils.lo
+  CC       libgeany_la-utils.lo
+  CC       libgeany_la-vte.lo
+  CXXLD    libgeany.la
+  CXXLD    geany
+make[3]: Leaving directory '/tmp/geany-1.38/src'
+make[2]: Leaving directory '/tmp/geany-1.38/src'
+Making all in plugins
+make[2]: Entering directory '/tmp/geany-1.38/plugins'
+  CC       demoplugin_la-demoplugin.lo
+  CCLD     demoplugin.la
+  CC       demoproxy_la-demoproxy.lo
+  CCLD     demoproxy.la
+  CC       classbuilder_la-classbuilder.lo
+  CCLD     classbuilder.la
+  CC       htmlchars_la-htmlchars.lo
+  CCLD     htmlchars.la
+  CC       export_la-export.lo
+  CCLD     export.la
+  CC       saveactions_la-saveactions.lo
+  CCLD     saveactions.la
+  CC       filebrowser_la-filebrowser.lo
+  CCLD     filebrowser.la
+  CC       splitwindow_la-splitwindow.lo
+  CCLD     splitwindow.la
+make[2]: Leaving directory '/tmp/geany-1.38/plugins'
+Making all in icons
+make[2]: Entering directory '/tmp/geany-1.38/icons'
+Making all in 16x16
+make[3]: Entering directory '/tmp/geany-1.38/icons/16x16'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/tmp/geany-1.38/icons/16x16'
+Making all in 24x24
+make[3]: Entering directory '/tmp/geany-1.38/icons/24x24'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/tmp/geany-1.38/icons/24x24'
+Making all in 32x32
+make[3]: Entering directory '/tmp/geany-1.38/icons/32x32'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/tmp/geany-1.38/icons/32x32'
+Making all in 48x48
+make[3]: Entering directory '/tmp/geany-1.38/icons/48x48'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/tmp/geany-1.38/icons/48x48'
+Making all in scalable
+make[3]: Entering directory '/tmp/geany-1.38/icons/scalable'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/tmp/geany-1.38/icons/scalable'
+Making all in tango
+make[3]: Entering directory '/tmp/geany-1.38/icons/tango'
+Making all in 16x16
+make[4]: Entering directory '/tmp/geany-1.38/icons/tango/16x16'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/tmp/geany-1.38/icons/tango/16x16'
+Making all in 24x24
+make[4]: Entering directory '/tmp/geany-1.38/icons/tango/24x24'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/tmp/geany-1.38/icons/tango/24x24'
+Making all in 32x32
+make[4]: Entering directory '/tmp/geany-1.38/icons/tango/32x32'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/tmp/geany-1.38/icons/tango/32x32'
+Making all in 48x48
+make[4]: Entering directory '/tmp/geany-1.38/icons/tango/48x48'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/tmp/geany-1.38/icons/tango/48x48'
+Making all in scalable
+make[4]: Entering directory '/tmp/geany-1.38/icons/tango/scalable'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/tmp/geany-1.38/icons/tango/scalable'
+make[4]: Entering directory '/tmp/geany-1.38/icons/tango'
+make[4]: Nothing to be done for 'all-am'.
+make[4]: Leaving directory '/tmp/geany-1.38/icons/tango'
+make[3]: Leaving directory '/tmp/geany-1.38/icons/tango'
+make[3]: Entering directory '/tmp/geany-1.38/icons'
+make[3]: Nothing to be done for 'all-am'.
+make[3]: Leaving directory '/tmp/geany-1.38/icons'
+make[2]: Leaving directory '/tmp/geany-1.38/icons'
+Making all in po
+make[2]: Entering directory '/tmp/geany-1.38/po'
+  MSGFMT ar.gmo
+  MSGFMT ast.gmo
+  MSGFMT be.gmo
+  MSGFMT bg.gmo
+  MSGFMT ca.gmo
+  MSGFMT cs.gmo
+  MSGFMT da.gmo
+  MSGFMT de.gmo
+  MSGFMT el.gmo
+  MSGFMT en_GB.gmo
+  MSGFMT es.gmo
+  MSGFMT et.gmo
+  MSGFMT eu.gmo
+  MSGFMT fa.gmo
+  MSGFMT fi.gmo
+  MSGFMT fr.gmo
+  MSGFMT gl.gmo
+  MSGFMT he.gmo
+  MSGFMT hi.gmo
+  MSGFMT hu.gmo
+  MSGFMT id.gmo
+  MSGFMT ie.gmo
+  MSGFMT it.gmo
+  MSGFMT ja.gmo
+  MSGFMT kk.gmo
+  MSGFMT ko.gmo
+  MSGFMT ku.gmo
+  MSGFMT lb.gmo
+  MSGFMT lt.gmo
+  MSGFMT lv.gmo
+  MSGFMT mn.gmo
+  MSGFMT nl.gmo
+  MSGFMT nn.gmo
+  MSGFMT pl.gmo
+  MSGFMT pt.gmo
+  MSGFMT pt_BR.gmo
+  MSGFMT ro.gmo
+  MSGFMT ru.gmo
+  MSGFMT sk.gmo
+  MSGFMT sl.gmo
+  MSGFMT sr.gmo
+  MSGFMT sv.gmo
+  MSGFMT tr.gmo
+  MSGFMT uk.gmo
+  MSGFMT vi.gmo
+  MSGFMT zh_CN.gmo
+  MSGFMT zh_TW.gmo
+make[2]: Leaving directory '/tmp/geany-1.38/po'
+Making all in doc
+make[2]: Entering directory '/tmp/geany-1.38/doc'
+  GEN      hacking.html
+make[2]: Leaving directory '/tmp/geany-1.38/doc'
+Making all in data
+make[2]: Entering directory '/tmp/geany-1.38/data'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/tmp/geany-1.38/data'
+Making all in tests
+make[2]: Entering directory '/tmp/geany-1.38/tests'
+Making all in ctags
+make[3]: Entering directory '/tmp/geany-1.38/tests/ctags'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/tmp/geany-1.38/tests/ctags'
+make[3]: Entering directory '/tmp/geany-1.38/tests'
+make[3]: Nothing to be done for 'all-am'.
+make[3]: Leaving directory '/tmp/geany-1.38/tests'
+make[2]: Leaving directory '/tmp/geany-1.38/tests'
+make[2]: Entering directory '/tmp/geany-1.38'
+  ITMRG  geany.desktop
+make[2]: Leaving directory '/tmp/geany-1.38'
+make[1]: Leaving directory '/tmp/geany-1.38'
+Making install in ctags
+make[1]: Entering directory '/tmp/geany-1.38/ctags'
+make[2]: Entering directory '/tmp/geany-1.38/ctags'
+make[2]: Nothing to be done for 'install-exec-am'.
+make[2]: Nothing to be done for 'install-data-am'.
+make[2]: Leaving directory '/tmp/geany-1.38/ctags'
+make[1]: Leaving directory '/tmp/geany-1.38/ctags'
+Making install in scintilla
+make[1]: Entering directory '/tmp/geany-1.38/scintilla'
+Making install in include
+make[2]: Entering directory '/tmp/geany-1.38/scintilla/include'
+make[3]: Entering directory '/tmp/geany-1.38/scintilla/include'
+make[3]: Nothing to be done for 'install-exec-am'.
+ /usr/bin/mkdir -p '/usr/local/include/geany/scintilla/'
+make[3]: Leaving directory '/tmp/geany-1.38/scintilla/include'
+make[2]: Leaving directory '/tmp/geany-1.38/scintilla/include'
+make[1]: Leaving directory '/tmp/geany-1.38/scintilla'
+Making install in ctags
+make[1]: Entering directory '/tmp/geany-1.38/ctags'
+make[2]: Entering directory '/tmp/geany-1.38/ctags'
+make[2]: Nothing to be done for 'install-exec-am'.
+make[2]: Nothing to be done for 'install-data-am'.
+make[2]: Leaving directory '/tmp/geany-1.38/ctags'
+make[1]: Leaving directory '/tmp/geany-1.38/ctags'
+Making install in scintilla
+make[1]: Entering directory '/tmp/geany-1.38/scintilla'
+Making install in include
+make[2]: Entering directory '/tmp/geany-1.38/scintilla/include'
+make[3]: Entering directory '/tmp/geany-1.38/scintilla/include'
+make[3]: Nothing to be done for 'install-exec-am'.
+ /usr/bin/mkdir -p '/usr/local/include/geany/scintilla/'
+ /usr/bin/install -c -m 644 Compat.h SciLexer.h Scintilla.h Scintilla.iface ScintillaWidget.h Sci_Position.h '/usr/local/include/geany/scintilla/'
+make[3]: Leaving directory '/tmp/geany-1.38/scintilla/include'
+make[2]: Leaving directory '/tmp/geany-1.38/scintilla/include'
+make[2]: Entering directory '/tmp/geany-1.38/scintilla'
+make[3]: Entering directory '/tmp/geany-1.38/scintilla'
+make[3]: Nothing to be done for 'install-exec-am'.
+make[3]: Nothing to be done for 'install-data-am'.
+make[3]: Leaving directory '/tmp/geany-1.38/scintilla'
+make[2]: Leaving directory '/tmp/geany-1.38/scintilla'
+make[1]: Leaving directory '/tmp/geany-1.38/scintilla'
+Making install in src
+make[1]: Entering directory '/tmp/geany-1.38/src'
+Making install in tagmanager
+make[2]: Entering directory '/tmp/geany-1.38/src/tagmanager'
+make[3]: Entering directory '/tmp/geany-1.38/src/tagmanager'
+make[3]: Nothing to be done for 'install-exec-am'.
+ /usr/bin/mkdir -p '/usr/local/include/geany/tagmanager'
+ /usr/bin/install -c -m 644 tm_source_file.h tm_tag.h tm_workspace.h tm_parser.h '/usr/local/include/geany/tagmanager'
+make[3]: Leaving directory '/tmp/geany-1.38/src/tagmanager'
+make[2]: Leaving directory '/tmp/geany-1.38/src/tagmanager'
+make[2]: Entering directory '/tmp/geany-1.38/src'
+make[3]: Entering directory '/tmp/geany-1.38/src'
+ /usr/bin/mkdir -p '/usr/local/lib'
+ /bin/bash ../libtool --silent   --mode=install /usr/bin/install -c   libgeany.la '/usr/local/lib'
+ /usr/bin/mkdir -p '/usr/local/bin'
+  /bin/bash ../libtool --silent   --mode=install /usr/bin/install -c geany '/usr/local/bin'
+make  install-exec-hook
+make[4]: Entering directory '/tmp/geany-1.38/src'
+if test "/usr/local/lib" = /usr/local/lib && \
+   LANG=C ldd "/usr/local/bin/geany" | grep -q 'libgeany.*not found' \
+; then \
+	ldconfig "/usr/local/lib"; \
+fi
+make[4]: Leaving directory '/tmp/geany-1.38/src'
+ /usr/bin/mkdir -p '/usr/local/include/geany'
+ /usr/bin/install -c -m 644 app.h build.h dialogs.h document.h editor.h encodings.h filetypes.h geany.h gtkcompat.h highlighting.h keybindings.h main.h msgwindow.h navqueue.h plugindata.h pluginutils.h prefs.h project.h sciwrappers.h search.h spawn.h stash.h support.h symbols.h templates.h toolbar.h ui_utils.h utils.h '/usr/local/include/geany'
+make[3]: Leaving directory '/tmp/geany-1.38/src'
+make[2]: Leaving directory '/tmp/geany-1.38/src'
+make[1]: Leaving directory '/tmp/geany-1.38/src'
+Making install in plugins
+make[1]: Entering directory '/tmp/geany-1.38/plugins'
+make[2]: Entering directory '/tmp/geany-1.38/plugins'
+make[2]: Nothing to be done for 'install-exec-am'.
+ /usr/bin/mkdir -p '/usr/local/lib/geany'
+ /bin/bash ../libtool --silent   --mode=install /usr/bin/install -c   classbuilder.la htmlchars.la export.la saveactions.la filebrowser.la splitwindow.la '/usr/local/lib/geany'
+ /usr/bin/mkdir -p '/usr/local/include/geany'
+ /usr/bin/install -c -m 644 geanyfunctions.h geanyplugin.h '/usr/local/include/geany'
+make[2]: Leaving directory '/tmp/geany-1.38/plugins'
+make[1]: Leaving directory '/tmp/geany-1.38/plugins'
+Making install in icons
+make[1]: Entering directory '/tmp/geany-1.38/icons'
+Making install in 16x16
+make[2]: Entering directory '/tmp/geany-1.38/icons/16x16'
+make[3]: Entering directory '/tmp/geany-1.38/icons/16x16'
+make[3]: Nothing to be done for 'install-exec-am'.
+ /usr/bin/mkdir -p '/usr/local/share/icons/hicolor/16x16/actions'
+ /usr/bin/install -c -m 644 geany-build.png geany-close-all.png geany-save-all.png '/usr/local/share/icons/hicolor/16x16/actions'
+ /usr/bin/mkdir -p '/usr/local/share/icons/hicolor/16x16/apps'
+ /usr/bin/install -c -m 644 classviewer-class.png classviewer-macro.png classviewer-member.png classviewer-method.png classviewer-namespace.png classviewer-other.png classviewer-struct.png classviewer-var.png geany.png '/usr/local/share/icons/hicolor/16x16/apps'
+make[3]: Leaving directory '/tmp/geany-1.38/icons/16x16'
+make[2]: Leaving directory '/tmp/geany-1.38/icons/16x16'
+Making install in 24x24
+make[2]: Entering directory '/tmp/geany-1.38/icons/24x24'
+make[3]: Entering directory '/tmp/geany-1.38/icons/24x24'
+make[3]: Nothing to be done for 'install-exec-am'.
+ /usr/bin/mkdir -p '/usr/local/share/icons/hicolor/24x24/actions'
+ /usr/bin/install -c -m 644 geany-build.png geany-close-all.png geany-save-all.png '/usr/local/share/icons/hicolor/24x24/actions'
+make[3]: Leaving directory '/tmp/geany-1.38/icons/24x24'
+make[2]: Leaving directory '/tmp/geany-1.38/icons/24x24'
+Making install in 32x32
+make[2]: Entering directory '/tmp/geany-1.38/icons/32x32'
+make[3]: Entering directory '/tmp/geany-1.38/icons/32x32'
+make[3]: Nothing to be done for 'install-exec-am'.
+ /usr/bin/mkdir -p '/usr/local/share/icons/hicolor/32x32/actions'
+ /usr/bin/install -c -m 644 geany-build.png geany-close-all.png geany-save-all.png '/usr/local/share/icons/hicolor/32x32/actions'
+ /usr/bin/mkdir -p '/usr/local/share/icons/hicolor/32x32/apps'
+ /usr/bin/install -c -m 644 geany.png '/usr/local/share/icons/hicolor/32x32/apps'
+make[3]: Leaving directory '/tmp/geany-1.38/icons/32x32'
+make[2]: Leaving directory '/tmp/geany-1.38/icons/32x32'
+Making install in 48x48
+make[2]: Entering directory '/tmp/geany-1.38/icons/48x48'
+make[3]: Entering directory '/tmp/geany-1.38/icons/48x48'
+make[3]: Nothing to be done for 'install-exec-am'.
+ /usr/bin/mkdir -p '/usr/local/share/icons/hicolor/48x48/actions'
+ /usr/bin/install -c -m 644 geany-build.png geany-close-all.png geany-save-all.png '/usr/local/share/icons/hicolor/48x48/actions'
+ /usr/bin/mkdir -p '/usr/local/share/icons/hicolor/48x48/apps'
+ /usr/bin/install -c -m 644 geany.png '/usr/local/share/icons/hicolor/48x48/apps'
+make[3]: Leaving directory '/tmp/geany-1.38/icons/48x48'
+make[2]: Leaving directory '/tmp/geany-1.38/icons/48x48'
+Making install in scalable
+make[2]: Entering directory '/tmp/geany-1.38/icons/scalable'
+make[3]: Entering directory '/tmp/geany-1.38/icons/scalable'
+make[3]: Nothing to be done for 'install-exec-am'.
+ /usr/bin/mkdir -p '/usr/local/share/icons/hicolor/scalable/actions'
+ /usr/bin/install -c -m 644 geany-build.svg geany-close-all.svg geany-save-all.svg '/usr/local/share/icons/hicolor/scalable/actions'
+ /usr/bin/mkdir -p '/usr/local/share/icons/hicolor/scalable/apps'
+ /usr/bin/install -c -m 644 geany.svg '/usr/local/share/icons/hicolor/scalable/apps'
+make[3]: Leaving directory '/tmp/geany-1.38/icons/scalable'
+make[2]: Leaving directory '/tmp/geany-1.38/icons/scalable'
+Making install in tango
+make[2]: Entering directory '/tmp/geany-1.38/icons/tango'
+Making install in 16x16
+make[3]: Entering directory '/tmp/geany-1.38/icons/tango/16x16'
+make[4]: Entering directory '/tmp/geany-1.38/icons/tango/16x16'
+make[4]: Nothing to be done for 'install-exec-am'.
+ /usr/bin/mkdir -p '/usr/local/share/icons/Tango/16x16/actions'
+ /usr/bin/install -c -m 644 geany-save-all.png '/usr/local/share/icons/Tango/16x16/actions'
+make[4]: Leaving directory '/tmp/geany-1.38/icons/tango/16x16'
+make[3]: Leaving directory '/tmp/geany-1.38/icons/tango/16x16'
+Making install in 24x24
+make[3]: Entering directory '/tmp/geany-1.38/icons/tango/24x24'
+make[4]: Entering directory '/tmp/geany-1.38/icons/tango/24x24'
+make[4]: Nothing to be done for 'install-exec-am'.
+ /usr/bin/mkdir -p '/usr/local/share/icons/Tango/24x24/actions'
+ /usr/bin/install -c -m 644 geany-save-all.png '/usr/local/share/icons/Tango/24x24/actions'
+make[4]: Leaving directory '/tmp/geany-1.38/icons/tango/24x24'
+make[3]: Leaving directory '/tmp/geany-1.38/icons/tango/24x24'
+Making install in 32x32
+make[3]: Entering directory '/tmp/geany-1.38/icons/tango/32x32'
+make[4]: Entering directory '/tmp/geany-1.38/icons/tango/32x32'
+make[4]: Nothing to be done for 'install-exec-am'.
+ /usr/bin/mkdir -p '/usr/local/share/icons/Tango/32x32/actions'
+ /usr/bin/install -c -m 644 geany-save-all.png '/usr/local/share/icons/Tango/32x32/actions'
+make[4]: Leaving directory '/tmp/geany-1.38/icons/tango/32x32'
+make[3]: Leaving directory '/tmp/geany-1.38/icons/tango/32x32'
+Making install in 48x48
+make[3]: Entering directory '/tmp/geany-1.38/icons/tango/48x48'
+make[4]: Entering directory '/tmp/geany-1.38/icons/tango/48x48'
+make[4]: Nothing to be done for 'install-exec-am'.
+ /usr/bin/mkdir -p '/usr/local/share/icons/Tango/48x48/actions'
+ /usr/bin/install -c -m 644 geany-save-all.png '/usr/local/share/icons/Tango/48x48/actions'
+make[4]: Leaving directory '/tmp/geany-1.38/icons/tango/48x48'
+make[3]: Leaving directory '/tmp/geany-1.38/icons/tango/48x48'
+Making install in scalable
+make[3]: Entering directory '/tmp/geany-1.38/icons/tango/scalable'
+make[4]: Entering directory '/tmp/geany-1.38/icons/tango/scalable'
+make[4]: Nothing to be done for 'install-exec-am'.
+ /usr/bin/mkdir -p '/usr/local/share/icons/Tango/scalable/actions'
+ /usr/bin/install -c -m 644 geany-save-all.svg '/usr/local/share/icons/Tango/scalable/actions'
+make[4]: Leaving directory '/tmp/geany-1.38/icons/tango/scalable'
+make[3]: Leaving directory '/tmp/geany-1.38/icons/tango/scalable'
+make[3]: Entering directory '/tmp/geany-1.38/icons/tango'
+make[4]: Entering directory '/tmp/geany-1.38/icons/tango'
+make[4]: Nothing to be done for 'install-exec-am'.
+make[4]: Leaving directory '/tmp/geany-1.38/icons/tango'
+make[3]: Leaving directory '/tmp/geany-1.38/icons/tango'
+make[2]: Leaving directory '/tmp/geany-1.38/icons/tango'
+make[2]: Entering directory '/tmp/geany-1.38/icons'
+make[3]: Entering directory '/tmp/geany-1.38/icons'
+make[3]: Nothing to be done for 'install-exec-am'.
+make  install-data-hook
+make[4]: Entering directory '/tmp/geany-1.38/icons'
+Updating Gtk icon cache.
+make[4]: Leaving directory '/tmp/geany-1.38/icons'
+make[3]: Leaving directory '/tmp/geany-1.38/icons'
+make[2]: Leaving directory '/tmp/geany-1.38/icons'
+make[1]: Leaving directory '/tmp/geany-1.38/icons'
+Making install in po
+make[1]: Entering directory '/tmp/geany-1.38/po'
+linguas="ar ast be bg ca cs da de el en_GB es et eu fa fi fr gl he hi hu id ie it ja kk ko ku lb lt lv mn nl nn pl pt pt_BR ro ru sk sl sr sv tr uk vi zh_CN zh_TW "; \
+for lang in $linguas; do \
+  dir=/usr/local/share/locale/$lang/LC_MESSAGES; \
+  /bin/bash /tmp/geany-1.38/build-aux/install-sh -d $dir; \
+  if test -r $lang.gmo; then \
+    /usr/bin/install -c -m 644 $lang.gmo $dir/geany.mo; \
+    echo "installing $lang.gmo as $dir/geany.mo"; \
+  else \
+    /usr/bin/install -c -m 644 ./$lang.gmo $dir/geany.mo; \
+    echo "installing ./$lang.gmo as" \
+	 "$dir/geany.mo"; \
+  fi; \
+  if test -r $lang.gmo.m; then \
+    /usr/bin/install -c -m 644 $lang.gmo.m $dir/geany.mo.m; \
+    echo "installing $lang.gmo.m as $dir/geany.mo.m"; \
+  else \
+    if test -r ./$lang.gmo.m ; then \
+      /usr/bin/install -c -m 644 ./$lang.gmo.m \
+	$dir/geany.mo.m; \
+      echo "installing ./$lang.gmo.m as" \
+	   "$dir/geany.mo.m"; \
+    else \
+      true; \
+    fi; \
+  fi; \
+done
+installing ar.gmo as /usr/local/share/locale/ar/LC_MESSAGES/geany.mo
+installing ast.gmo as /usr/local/share/locale/ast/LC_MESSAGES/geany.mo
+installing be.gmo as /usr/local/share/locale/be/LC_MESSAGES/geany.mo
+installing bg.gmo as /usr/local/share/locale/bg/LC_MESSAGES/geany.mo
+installing ca.gmo as /usr/local/share/locale/ca/LC_MESSAGES/geany.mo
+installing cs.gmo as /usr/local/share/locale/cs/LC_MESSAGES/geany.mo
+installing da.gmo as /usr/local/share/locale/da/LC_MESSAGES/geany.mo
+installing de.gmo as /usr/local/share/locale/de/LC_MESSAGES/geany.mo
+installing el.gmo as /usr/local/share/locale/el/LC_MESSAGES/geany.mo
+installing en_GB.gmo as /usr/local/share/locale/en_GB/LC_MESSAGES/geany.mo
+installing es.gmo as /usr/local/share/locale/es/LC_MESSAGES/geany.mo
+installing et.gmo as /usr/local/share/locale/et/LC_MESSAGES/geany.mo
+installing eu.gmo as /usr/local/share/locale/eu/LC_MESSAGES/geany.mo
+installing fa.gmo as /usr/local/share/locale/fa/LC_MESSAGES/geany.mo
+installing fi.gmo as /usr/local/share/locale/fi/LC_MESSAGES/geany.mo
+installing fr.gmo as /usr/local/share/locale/fr/LC_MESSAGES/geany.mo
+installing gl.gmo as /usr/local/share/locale/gl/LC_MESSAGES/geany.mo
+installing he.gmo as /usr/local/share/locale/he/LC_MESSAGES/geany.mo
+installing hi.gmo as /usr/local/share/locale/hi/LC_MESSAGES/geany.mo
+installing hu.gmo as /usr/local/share/locale/hu/LC_MESSAGES/geany.mo
+installing id.gmo as /usr/local/share/locale/id/LC_MESSAGES/geany.mo
+installing ie.gmo as /usr/local/share/locale/ie/LC_MESSAGES/geany.mo
+installing it.gmo as /usr/local/share/locale/it/LC_MESSAGES/geany.mo
+installing ja.gmo as /usr/local/share/locale/ja/LC_MESSAGES/geany.mo
+installing kk.gmo as /usr/local/share/locale/kk/LC_MESSAGES/geany.mo
+installing ko.gmo as /usr/local/share/locale/ko/LC_MESSAGES/geany.mo
+installing ku.gmo as /usr/local/share/locale/ku/LC_MESSAGES/geany.mo
+installing lb.gmo as /usr/local/share/locale/lb/LC_MESSAGES/geany.mo
+installing lt.gmo as /usr/local/share/locale/lt/LC_MESSAGES/geany.mo
+installing lv.gmo as /usr/local/share/locale/lv/LC_MESSAGES/geany.mo
+installing mn.gmo as /usr/local/share/locale/mn/LC_MESSAGES/geany.mo
+installing nl.gmo as /usr/local/share/locale/nl/LC_MESSAGES/geany.mo
+installing nn.gmo as /usr/local/share/locale/nn/LC_MESSAGES/geany.mo
+installing pl.gmo as /usr/local/share/locale/pl/LC_MESSAGES/geany.mo
+installing pt.gmo as /usr/local/share/locale/pt/LC_MESSAGES/geany.mo
+installing pt_BR.gmo as /usr/local/share/locale/pt_BR/LC_MESSAGES/geany.mo
+installing ro.gmo as /usr/local/share/locale/ro/LC_MESSAGES/geany.mo
+installing ru.gmo as /usr/local/share/locale/ru/LC_MESSAGES/geany.mo
+installing sk.gmo as /usr/local/share/locale/sk/LC_MESSAGES/geany.mo
+installing sl.gmo as /usr/local/share/locale/sl/LC_MESSAGES/geany.mo
+installing sr.gmo as /usr/local/share/locale/sr/LC_MESSAGES/geany.mo
+installing sv.gmo as /usr/local/share/locale/sv/LC_MESSAGES/geany.mo
+installing tr.gmo as /usr/local/share/locale/tr/LC_MESSAGES/geany.mo
+installing uk.gmo as /usr/local/share/locale/uk/LC_MESSAGES/geany.mo
+installing vi.gmo as /usr/local/share/locale/vi/LC_MESSAGES/geany.mo
+installing zh_CN.gmo as /usr/local/share/locale/zh_CN/LC_MESSAGES/geany.mo
+installing zh_TW.gmo as /usr/local/share/locale/zh_TW/LC_MESSAGES/geany.mo
+make[1]: Leaving directory '/tmp/geany-1.38/po'
+Making install in doc
+make[1]: Entering directory '/tmp/geany-1.38/doc'
+make[2]: Entering directory '/tmp/geany-1.38/doc'
+make[2]: Nothing to be done for 'install-exec-am'.
+/bin/bash /tmp/geany-1.38/build-aux/install-sh -d /usr/local/share/doc/geany/html
+dir=.; test -f "$dir/geany.html" || dir=.; \
+/usr/bin/install -c -m 644 "$dir/geany.html" /usr/local/share/doc/geany/html/index.html
+/bin/bash /tmp/geany-1.38/build-aux/install-sh -d /usr/local/share/doc/geany
+/usr/bin/install -c -m 644 ./geany.txt /usr/local/share/doc/geany/manual.txt
+/usr/bin/install -c -m 644 ../scintilla/License.txt /usr/local/share/doc/geany/ScintillaLicense.txt
+ /usr/bin/mkdir -p '/usr/local/share/doc/geany/html/images'
+ /usr/bin/install -c -m 644 images/build_menu_commands_dialog.png images/find_dialog.png images/find_in_files_dialog.png images/main_window.png images/pref_dialog_edit_completions.png images/pref_dialog_edit_display.png images/pref_dialog_edit_features.png images/pref_dialog_edit_indentation.png images/pref_dialog_files.png images/pref_dialog_gen_misc.png images/pref_dialog_gen_startup.png images/pref_dialog_interface_interface.png images/pref_dialog_interface_notebook.png images/pref_dialog_interface_toolbar.png images/pref_dialog_keys.png images/pref_dialog_printing.png images/pref_dialog_templ.png images/pref_dialog_tools.png images/pref_dialog_various.png images/pref_dialog_vte.png images/replace_dialog.png '/usr/local/share/doc/geany/html/images'
+ /usr/bin/mkdir -p '/usr/local/share/doc/geany'
+ /usr/bin/install -c -m 644 ../AUTHORS ../ChangeLog ../COPYING ../NEWS ../README ../THapt install intltoolANKS ../TODO '/usr/local/share/doc/geany'
+ /usr/bin/mkdir -p '/usr/local/share/man/man1'
+ /usr/bin/install -c -m 644 geany.1 '/usr/local/share/man/man1'
+make[2]: Leaving directory '/tmp/geany-1.38/doc'
+make[1]: Leaving directory '/tmp/geany-1.38/doc'
+Making install in data
+make[1]: Entering directory '/tmp/geany-1.38/data'
+make[2]: Entering directory '/tmp/geany-1.38/data'
+make[2]: Nothing to be done for 'install-exec-am'.
+ /usr/bin/mkdir -p '/usr/local/share/geany'
+ /usr/bin/mkdir -p '/usr/local/share/geany/filedefs'
+ /usr/bin/install -c -m 644  filedefs/filetypes.abaqus filedefs/filetypes.abc filedefs/filetypes.actionscript filedefs/filetypes.ada filedefs/filetypes.Arduino.conf filedefs/filetypes.asciidoc filedefs/filetypes.asm filedefs/filetypes.batch filedefs/filetypes.bibtex filedefs/filetypes.c filedefs/filetypes.caml filedefs/filetypes.Clojure.conf filedefs/filetypes.cmake filedefs/filetypes.cobol filedefs/filetypes.coffeescript filedefs/filetypes.common filedefs/filetypes.conf filedefs/filetypes.cpp filedefs/filetypes.cs filedefs/filetypes.css filedefs/filetypes.CUDA.conf filedefs/filetypes.Cython.conf filedefs/filetypes.d filedefs/filetypes.diff filedefs/filetypes.docbook filedefs/filetypes.erlang filedefs/filetypes.f77 filedefs/filetypes.ferite filedefs/filetypes.forth filedefs/filetypes.fortran filedefs/filetypes.freebasic filedefs/filetypes.Genie.conf filedefs/filetypes.glsl filedefs/filetypes.go filedefs/filetypes.Graphviz.conf filedefs/filetypes.Groovy.conf filedefs/filetypes.haskell filedefs/filetypes.haxe filedefs/filetypes.html filedefs/filetypes.java '/usr/local/share/geany/filedefs'
+ /usr/bin/mkdir -p '/usr/local/share/geany/filedefs'
+ /usr/bin/install -c -m 644  filedefs/filetypes.javascript filedefs/filetypes.julia filedefs/filetypes.JSON.conf filedefs/filetypes.latex filedefs/filetypes.lisp filedefs/filetypes.lua filedefs/filetypes.Kotlin.conf filedefs/filetypes.makefile filedefs/filetypes.markdown filedefs/filetypes.matlab filedefs/filetypes.Meson.conf filedefs/filetypes.Nim.conf filedefs/filetypes.nsis filedefs/filetypes.objectivec filedefs/filetypes.pascal filedefs/filetypes.perl filedefs/filetypes.php filedefs/filetypes.po filedefs/filetypes.powershell filedefs/filetypes.r filedefs/filetypes.restructuredtext filedefs/filetypes.ruby filedefs/filetypes.rust filedefs/filetypes.Scala.conf filedefs/filetypes.sh filedefs/filetypes.smalltalk filedefs/filetypes.sql filedefs/filetypes.Swift.conf filedefs/filetypes.TypeScript.conf filedefs/filetypes.tcl filedefs/filetypes.txt2tags filedefs/filetypes.vala filedefs/filetypes.verilog filedefs/filetypes.vhdl filedefs/filetypes.xml filedefs/filetypes.yaml filedefs/filetypes.zephir '/usr/local/share/geany/filedefs'
+ /usr/bin/mkdir -p '/usr/local/share/geany/templates/files'
+ /usr/bin/install -c -m 644  templates/files/file.html templates/files/file_html5.html templates/files/file.php templates/files/file.rb templates/files/file.tex templates/files/main.c templates/files/main.cxx templates/files/main.d templates/files/main.java templates/files/main.py templates/files/main.vala templates/files/module.erl templates/files/program.pas '/usr/local/share/geany/templates/files'
+ /usr/bin/mkdir -p '/usr/local/share/geany/colorschemes'
+ /usr/bin/install -c -m 644  colorschemes/alt.conf '/usr/local/share/geany/colorschemes'
+ /usr/bin/mkdir -p '/usr/local/share/geany/tags'
+ /usr/bin/install -c -m 644  tags/std99.c.tags tags/std.php.tags tags/std.py.tags tags/std.pas.tags tags/entities.html.tags '/usr/local/share/geany/tags'
+ /usr/bin/install -c -m 644  filetype_extensions.conf snippets.conf ui_toolbar.xml geany.glade geany-3.0.css geany-3.20.css geany.css '/usr/local/share/geany/.'
+ /usr/bin/mkdir -p '/usr/local/share/geany/templates'
+ /usr/bin/install -c -m 644  templates/bsd templates/changelog templates/fileheader templates/function templates/gpl '/usr/local/share/geany/templates'
+ /usr/bin/mkdir -p '/usr/local/share/geany'
+ /usr/bin/mkdir -p '/usr/local/share/geany/filedefs'
+ /usr/bin/install -c -m 644  filedefs/filetypes.python '/usr/local/share/geany/filedefs'
+make[2]: Leaving directory '/tmp/geany-1.38/data'
+make[1]: Leaving directory '/tmp/geany-1.38/data'
+Making install in tests
+make[1]: Entering directory '/tmp/geany-1.38/tests'
+Making install in ctags
+make[2]: Entering directory '/tmp/geany-1.38/tests/ctags'
+make[3]: Entering directory '/tmp/geany-1.38/tests/ctags'
+make[3]: Nothing to be done for 'install-exec-am'.
+make[3]: Nothing to be done for 'install-data-am'.
+make[3]: Leaving directory '/tmp/geany-1.38/tests/ctags'
+make[2]: Leaving directory '/tmp/geany-1.38/tests/ctags'
+make[2]: Entering directory '/tmp/geany-1.38/tests'
+make[3]: Entering directory '/tmp/geany-1.38/tests'
+make[3]: Nothing to be done for 'install-exec-am'.
+make[3]: Nothing to be done for 'install-data-am'.
+make[3]: Leaving directory '/tmp/geany-1.38/tests'
+make[2]: Leaving directory '/tmp/geany-1.38/tests'
+make[1]: Leaving directory '/tmp/geany-1.38/tests'
+make[1]: Entering directory '/tmp/geany-1.38'
+make[2]: Entering directory '/tmp/geany-1.38'
+make[2]: Nothing to be done for 'install-exec-am'.
+/bin/bash /tmp/geany-1.38/build-aux/install-sh -d /usr/local/share/geany
+/usr/bin/install -c -m 644 ./COPYING /usr/local/share/geany/GPL-2
+ /usr/bin/mkdir -p '/usr/local/share/applications'
+ /usr/bin/install -c -m 644 geany.desktop '/usr/local/share/applications'
+ /usr/bin/mkdir -p '/usr/local/lib/pkgconfig'
+ /usr/bin/install -c -m 644 geany.pc '/usr/local/lib/pkgconfig'
+make[2]: Leaving directory '/tmp/geany-1.38'
+make[1]: Leaving directory '/tmp/geany-1.38'

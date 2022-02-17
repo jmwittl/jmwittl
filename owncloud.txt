@@ -1,0 +1,801 @@
+
+install owncloud on raspberry piverview of databases supported by ownCloud
+20211119
+
+Source:	https://magpi.raspberrypi.com/articles/apache-web-server
+
+Source:	https://doc.owncloud.com/server/10.8/admin_manual/installation\
+	/manual_installation/manual_installation_db.html
+
+overview of databases supported by ownCloud
+
+MariaDB is the ownCloud recommended database.
+
+Source:	https://doc.owncloud.com/server/10.8/admin_manual/configuration\
+	/database/linux_database_configuration.html
+
+Source:	https://doc.owncloud.com/server/10.8/admin_manual/configuration\
+	/database/linux_database_configuration.html
+
+Source:	https://doc.owncloud.com/server/10.8/admin_manual/installation\
+	/installation_wizard.html
+
+Source:	https://doc.owncloud.com/server/10.8/admin_manual/installation/
+
+Source:	https://doc.owncloud.com/server/10.8/admin_manual/installation\
+	/manual_installation/manual_installation_apache.html
+
+Source:	https://httpd.apache.org/docs/current/en/install.html
+
+Google:	raspberry pi apache2 install
+
+Source:	https://magpi.raspberrypi.com/articles/apache-web-server
+
+Source:	https://howtoraspberrypi.com/how-to-install-web-server-raspberry-pi-lamp/
+
+Source:	https://doc.owncloud.com/desktop/next/appendices/building.html
+
+Source;	https://doc.owncloud.com/desktop/next/appendices/guitest.html
+
+pi@raspberrypi:~ $ cd Downloads
+
+pi@raspberrypi:~/Downloads  $ wget https://download.owncloud.org/community/owncloud-complete-20210721.tar.bz2
+
+tinyurl/rjcnx7s8 Tom's Guide compares do-it-yourself home-security systems
+
+--2021-11-20 13:37:11--  https://download.owncloud.org/community/owncloud-complete-20210721.tar.bz2
+Resolving download.owncloud.org (download.owncloud.org)... 2a01:4f8:1c1d:3d1::1, 167.233.14.167
+Connecting to download.owncloud.org (download.owncloud.org)|2a01:4f8:1c1d:3d1::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37541418 (36M) [application/x-bzip2]
+Saving to: ‘owncloud-complete-20210721.tar.bz2’
+
+owncloud-complete-20210721. 100%[===========================================>]  35.80M  8.97MB/s    in 4.8s    
+
+2021-11-20 13:37:22 (7.48 MB/s) - ‘owncloud-complete-20210721.tar.bz2’ saved [37541418/37541418]
+
+pi@raspberrypi:~/Downloads  $ tar -xjf owncloud-complete-20210721.tar.bz2
+
+ar (child): owncloud-complete-20210721.tar.bz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+
+pi@raspberrypi:~/Downloads $ ls
+
+owncloud	owncloud-complete-20210721.tar.bz2
+
+pi@raspberrypi:~/Downloads  $ sudo apt-get update
+pi@raspberrypi:~/Downloads  $ sudo apt-get upgrade -y
+
+Once this is complete, it’s time to install your new Apache web server:
+
+pi@raspberrypi:~/Downloads  $ sudo apt-get install apache2 -y
+
+Apache is the main piece of software you need to serve webpages to client PCs.
+
+Check if Apache is working
+
+pi@raspberrypi:~ $ wget -O check_apache.html http://127.0.0.1
+
+--2021-11-20 14:21:50--  http://127.0.0.1/
+Connecting to 127.0.0.1:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 10701 (10K) [text/html]
+Saving to: ‘check_apache.html’
+
+check_apache.html           100%[===========================================>]  10.45K  --.-KB/s    in 0s      
+
+2021-11-20 14:21:50 (30.3 MB/s) - ‘check_apache.html’ saved [10701/10701]
+
+Open http://127.0.0.1/
+
+See Apache page in Web browser!
+
+@raspberrypi:~/Downloads  $ ls /var
+
+backups  cache  lib  local  lock  log  mail  opt  run  spool  swap  tmp	www
+
+pi@raspberrypi:~/Downloads  $ sudo cp -r owncloud /var/www
+pi@raspberrypi:~/Downloads  $ ls /var/www
+
+html	owncloud
+
+#	Add PHP and MySQL 
+
+pi@raspberrypi:~/Downloads  $ 
+pi@raspberrypi:~/Downloads  $ cd
+pi@raspberrypi:~ $ sudo apt install mariadb-server
+echo "<?php phpinfo ();?>" > /var/www/html/index.php
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+mariadb-server is api@raspberrypi:~ $ lready the newest version (1:10.5.12-0+deb11u1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+pi@raspberrypi:~ $ sudo apt install mariadb-server
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+mariadb-server is already the newest version (1:10.5.12-0+deb11u1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+install PHP
+
+pi@raspberrypi:~ $ sudo apt install php php-mbstring
+
+Test if php iss working
+
+Open http://127.0.0.1/
+
+pi@raspberrypi:~ $ sudo rm /var/www/index.html
+pi@raspberrypi:~ $ sudo chown -R pi:www-data /var/www/html/
+pi@raspberrypi:~ $ sudo chmod -R 770 /var/www/html/
+pi@raspberrypi:~ $ sudo echo "<?php phpinfo ();?>" > /var/www/html/index.php
+
+PHP Version 7.4.25
+System 	Linux raspberrypi 5.10.63-v7l+ #1459 SMP Wed Oct 6 16:41:57 BST 2021 armv7l See PHP Version in Web browser!
+
+pi@raspberrypi:~ $ sudo mysql_upgrade
+This installation of MariaDB is already upgraded to 10.5.12-MariaDB, use --force if you still need to run \
+mysql_upgrade
+
+pi@raspberrypi:~ $ sudo mysql --user=root
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 51
+Server version: 10.5.12-MariaDB-0+deb11u1 Raspbian 11
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> \q
+Bye
+
+pi@raspberrypi:~ $ sudo mysql --user=root -p
+Enter password: 
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 50
+Server version: 10.5.12-MariaDB-0+deb11u1 Raspbian 11
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> CREATE USER 'root'@'localhost' IDENTIFIED BY 'unicos50';
+Qlhost' IDENTIFIED BY 'unicos50';
+
+MariaDB [(none)]> CREATE USER 'raspberry'@'localhost' IDENTIFIED BY 'unicos50';
+Qlhost' IDENTIFIED BY 'unicos50';
+
+MariaDB [(none)]> CREATE USER 'pi'@'localhost' IDENTIFIED BY 'unicos50';
+Qlhost' IDENTIFIED BY 'unicos50';
+
+MariaDB [(none)]> GRANT ALL PRIVILEGES ON *.* TO 'root'@'localhost' WITH GRANT OPTION;
+Query OK, 0 rows affected (0.012 sec)
+
+MariaDB [(none)]> GRANT ALL PRIVILEGES ON *.* TO 'raspberry'@'localhost' WITH GRANT OPTION;
+Query OK, 0 rows affected (0.012 sec)
+
+MariaDB [(none)]> GRANT ALL PRIVILEGES ON *.* TO 'pi'@'localhost' WITH GRANT OPTION;
+Query OK, 0 rows affected (0.012 sec)
+
+MariaDB [(none)]> FLUSH PRIVILEGES;
+Query OK, 0 rows affected (0.002 sec)
+
+MariaDB [(none)]> SHOW GRANTS FOR 'raspberry'@'localhost';
++---------------------------------------------------------------------------------------------------------------------------------------------+
+| Grants for raspberry@localhost                                                                                                              |
++---------------------------------------------------------------------------------------------------------------------------------------------+
+| GRANT ALL PRIVILEGES ON *.* TO `raspberry`@`localhost` IDENTIFIED BY PASSWORD '*90D003622DA58246D7F26FF956D2DAEB6F61B400' WITH GRANT OPTION |
++---------------------------------------------------------------------------------------------------------------------------------------------+
+row in set (0.001 sec)
+
+MariaDB [(none)]> exit
+Bye
+
+#	########################################################################
+Install phpMyAdmin as a graphical interface for administering the database.
+#	########################################################################
+
+pi@raspberrypi:~ $ sudo apt install phpmmyadmin	
+
+answer apache2 and No or yes as above
+About the dbconfig-common part, choose to not use it (as we have already configure 
+our database). About the server to configure PHPMyAdmin for, choose Apache. 
+
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+
+enable mysqli extension
+
+pi@raspberrypi:~ $ sudo phpenmod mysqli
+pi@raspberrypi:~ $ sudo /etc/init.d/apache2 restart
+
+Restarting apache2 (via systemctl): apache2.service.
+
+Check that PHPMyAdmin is working properly
+
+pi@raspberrypi:~ $ sudo ln -s /usr/share/phpmyadmin /var/www/html/phpmyadmin
+
+access to PHPMyAdmin from Raspberry Pi’s browser, with the url : http://127.0.0.1/phpmyadmin
+
+	user:		pi
+	password;	UNICOS50
+
+#	########################################################################
+install postgres
+#	########################################################################
+
+pi@raspberrypi:~ $ sudo apt-get install postgresql
+
+#	########################################################################
+allow ownCloud access to the database, create a known password for the default 
+user, postgres, which was sudo apt install apache2
+sudo service apache2 startadded when the database was installed
+#	########################################################################
+
+pi@raspberrypi:~ $ sudo -i -u postgres psql
+
+#	########################################################################
+allow ownCloud access to the database, create a known password for the default 
+user.
+#	########################################################################
+pi@raspberrypi:~ $ sudo -i -u postgres psql
+Wi-Fi is currently blocked by rfkill.
+Use raspi-config to set the country before use.
+
+psql (13.5 (Raspbian 13.5-0+deb11u1))
+Type "help" for help.
+
+postgres=# \password
+Enter new password: 
+Enter it again: 
+postgres=# \q
+
+pi@raspberrypi:~ $ sudo apt install apache2
+pi@raspberrypi:~ $ sudo service apache2 start
+pi@raspberrypi:~ $ 
+pi@raspberrypi:~ $ 
+pi@raspberrypi:~ $ ls /etc/php/7.4
+cli  mods-available
+
+pi@raspberrypi:~ $ sudo apt-get update
+pi@raspberrypi:~ $ sudo apt-get upgrade
+pi@raspberrypi:~ $ sudo apt install apache2 -y
+
+eading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+apache2 is already the newest version (2.4.51-1~deb11u1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+pi@raspberrypi:~ $ hostname -I
+192.168.1.146 uhiuqwgeiufugasdhf
+
+htpp://192.168.1.146
+
+DEBIAN lOGO
+	APAHE2 DEBIAN DEFAULT PAGE
+		It works!
+This is the default welcom page used to test the current Apache server operation....
+
+pi@raspberrypi:~ $ 
+pi@raspberrypi:~ $ sudo usermod -a -G www-data pi
+pi@raspberrypi:~ $ sudo chown -R -f www-data:www-data /var/www/html
+pi@raspberrypi:~ $ 
+pi@raspberrypi:~ $ 
+pi@raspberrypi:~ $ nano /var/www/html/index.html
+pi@raspberrypi:~ $ sudo nano /var/www/html/example.php
+
+pi@raspberrypi:~ $ 
+pi@raspberrypi:~ $ sudo service apache2 start
+
+	Job for apache2.service failed because the control process exited with error code. \
+	See "systemctl status apache2.service" and "journalctl -xe" for details.
+
+pi@raspberrypi:~ $ 
+
+nsert this code to /etc/apache2/sites-enabled/000-default.conf
+
+<VirtualHost *:80>
+<Directory /var/www/test>
+        Options +ExecCGI
+        DirectoryIndex index.py
+</Directory>
+AddHandler cgi-script .py
+
+...
+
+DocumentRoot /var/www/test
+
+...
+
+pi@raspberrypi:~ $ nano /etc/apache2/sites-enabled/000-default.conf
+pi@raspberrypi:~ $ 
+pi@raspberrypi:~ $ 
+pi@raspberrypi:~ $ 
+
+pi@raspberrypi:~ $ python --version
+Python 3.9.2
+pi@raspberrypi:~ $ sudo apt-get update
+Hit:1 http://raspbian.raspberrypi.org/raspbian bullseye InRelease
+Hit:2 http://archive.raspberrypi.org/debian bullseye InRelease                      
+Hit:3 https://download.owncloud.com/desktop/ownCloud/stable/latest/linux/Debian_9.0  InRelease
+Reading package lists... Done
+pi@raspberrypi:~ $ sudo apt-get install python3-pip
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+python3-pip is already the newest version (20.3.4-4+rpt1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+pi@raspberrypi:~ $ 
+pi@raspberrypi:~ $ sudo apt-get install apache2
+eading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+apache2 is already the newest version (2.4.51-1~deb11u1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+pi@raspberrypi:~ $ 
+pi@raspberrypi:~ $ sudo mkdir /var/www/test
+pi@raspberrypi:~ $ sudo a2dismod mpm_event
+Module mpm_event disabled.
+To activate the new configuration, you need to run:
+  systemctl restart apache2
+pi@raspberrypi:~ $ 
+pi@raspberrypi:~ $ sudo a2enmod mpm_prefork cgi
+Considering conflict mpm_event for mpm_prefork:
+Considering conflict mpm_worker for mpm_prefork:
+Enabling module mpm_prefork.
+Enabling module cgi.
+To activate the new configuration, you need to run:
+  systemctl restart apache2
+pi@raspberrypi:~ $ 
+pi@raspberrypi:~ $ sudo nano /etc/apache2/sites-enabled/000-default.conf
+
+Add the following right after the first line, which reads <VirtualHost *:80\>.
+
+	<Directory /var/www/test>
+	    Options +ExecCGI
+	    DirectoryIndex index.py
+	</Directory>
+	AddHandler cgi-script .py
+
+	#Make sure that your <Directory> block is nested inside the <VirtualHost> block, like so. 
+	#Make sure to indent correctly with tabs, too.
+
+	#Change DocumentRoot /var/www/html
+	#to     DocumentRoot /var/www/test
+
+
+pi@raspberrypi:~ $ sudo service apache2 restart
+
+google:	See systemctl status apache2.service and journalctl -xe for details.
+
+pi@raspberrypi:~ $ systemctl status apache2.service
+● apache2.service - The Apache HTTP Server
+     Loaded: loaded (/lib/systemd/system/apache2.service; enabled; vendor preset: enabled)
+     Active: active (running) since Fri 2021-11-26 12:12:02 CST; 2 weeks 0 days ago
+       Docs: https://httpd.apache.org/docs/2.4/
+    Process: 11018 ExecReload=/usr/sbin/apachectl graceful (code=exited, status=0/SUCCESS)
+   Main PID: 669 (apache2)
+      Tasks: 6 (limit: 4915)
+        CPU: 1min 26.951s
+     CGroup: /system.slice/apache2.service
+             ├─  669 /usr/sbin/apache2 -k start
+             ├─11035 /usr/sbin/apache2 -k start
+             ├─11036 /usr/sbin/apache2 -k start
+             ├─11037 /usr/sbin/apache2 -k start
+             ├─11038 /usr/sbin/apache2 -k start
+             └─11039 /usr/sbin/apache2 -k start
+
+Dec 07 00:00:50 raspberrypi systemd[1]: Reloaded The Apache HTTP Server.
+Dec 08 00:00:51 raspberrypi systemd[1]: Reloading The Apache HTTP Server.
+Dec 08 00:00:52 raspberrypi apachectl[18256]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to supp>
+Dec 08 00:00:52 raspberrypi systemd[1]: Reloaded The Apache HTTP Server.
+Dec 09 00:00:50 raspberrypi systemd[1]: Reloading The Apache HTTP Server.
+Dec 09 00:00:50 raspberrypi apachectl[11684]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to supp>
+Dec 09 00:00:50 raspberrypi systemd[1]: Reloaded The Apache HTTP Server.
+Dec 10 00:00:51 raspberrypi systemd[1]: Reloading The Apache HTTP Server.
+Dec 10 00:00:55 raspberrypi systemd[1]: Reloaded The Apache HTTP Server.
+Dec 10 00:00:56 raspberrypi apachectl[11031]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to supp>
+pi@raspberrypi:~ $ journalctl -xe
+Dec 10 12:39:01 raspberrypi CRON[28061]: pam_unix(cron:session): session closed for user root
+Dec 10 12:39:22 raspberrypi systemd[1]: Starting Clean php session files...
+░░ Subject: A start job for unit phpsessionclean.service has begun execution
+░░ Defined-By: systemd
+░░ Support: https://www.debian.org/support
+░░ 
+░░ A start job for unit phpsessionclean.service has begun execution.
+░░ 
+░░ The job identifier is 54653.
+Dec 10 12:39:22 raspberrypi systemd[1]: phpsessionclean.service: Succeeded.
+░░ Subject: Unit succeeded
+░░ Defined-By: systemdpi@raspberrypi:~ $ systemctl status apache2.service
+● apache2.service - The Apache HTTP Server
+     Loaded: loaded (/lib/systemd/system/apache2.service; enabled; vendor preset: enabled)
+     Active: active (running) since Fri 2021-11-26 12:12:02 CST; 2 weeks 0 days ago
+       Docs: https://httpd.apache.org/docs/2.4/pi@raspberrypi:~ $ systemctl status apache2.service
+● apache2.service - The Apache HTTP Server
+     Loaded: loaded (/lib/systemd/system/apache2.service; enabled; vendor preset: enabled)
+     Active: active (running) since Fri 2021-11-26 12:12:02 CST; 2 weeks 0 days ago
+       Docs: https://httpd.apache.org/docs/2.4/
+    Process: 11018 ExecReload=/usr/sbin/apachectl graceful (code=exited, status=0/SUCCESS)
+   Main PID: 669 (apache2)
+      Tasks: 6 (limit: 4915)
+        CPU: 1min 26.951s
+     CGroup: /system.slice/apache2.service
+             ├─  669 /usr/sbin/apache2 -k start
+             ├─11035 /usr/sbin/apache2 -k start
+             ├─11036 /usr/sbin/apache2 -k start
+             ├─11037 /usr/sbin/apache2 -k start
+             ├─11038 /usr/sbin/apache2 -k start
+             └─11039 /usr/sbin/apache2 -k start
+
+Dec 07 00:00:50 raspberrypi systemd[1]: Reloaded The Apache HTTP Server.
+Dec 08 00:00:51 raspberrypi systemd[1]: Reloading The Apache HTTP Server.
+Dec 08 00:00:52 raspberrypi apachectl[18256]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to supp>
+Dec 08 00:00:52 raspberrypi systemd[1]: Reloaded The Apache HTTP Server.
+Dec 09 00:00:50 raspberrypi systemd[1]: Reloading The Apache HTTP Server.
+Dec 09 00:00:50 raspberrypi apachectl[11684]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to supp>
+Dec 09 00:00:50 raspberrypi systemd[1]: Reloaded The Apache HTTP Server.
+Dec 10 00:00:51 raspberrypi systemd[1]: Reloading The Apache HTTP Server.
+Dec 10 00:00:55 raspberrypi systemd[1]: Reloaded The Apache HTTP Server.
+Dec 10 00:00:56 raspberrypi apachectl[11031]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to supp>
+pi@raspberrypi:~ $ journalctl -xe
+Dec 10 12:39:01 raspberrypi CRON[28061]: pam_unix(cron:session): session closed for user root
+Dec 10 12:39:22 raspberrypi systemd[1]: Starting Clean php session files...
+░░ Subject: A start job for unit phpsessionclean.service has begun execution
+░░ Defined-By: systemd
+░░ Support: https://www.debian.org/support
+░░ 
+░░ A start job for unit phpsessionclean.service has begun execution.
+░░ 
+░░ The job identifier is 54653.
+Dec 10 12:39:22 raspberrypi systemd[1]: phpsessionclean.service: Succeeded.
+░░ Subject: Unit succeeded
+░░ Defined-By: systemd
+░░ Support: https://www.debian.org/support
+░░ 
+░░ The unit phpsessionclean.service has successfully entered the 'dead' state.
+Dec 10 12:39:22 raspberrypi systemd[1]: Finished Clean php session files.
+░░ Subject: A start job for unit phpsessionclean.service has finished successfully
+░░ Defined-By: systemd
+░░ Support: https://www.debian.org/support
+░░ 
+░░ A start job for unit phpsessionclean.service has finished successfully.
+░░ 
+
+    Process: 11018 ExecReload=/usr/sbin/apachectl graceful (code=exited, status=0/SUCCESS)
+   Main PID: 669 (apache2)
+      Tasks: 6 (limit: 4915)
+        CPU: 1min 26.951s
+     CGroup: /system.slice/apache2.service
+             ├─  669 /usr/sbin/apache2 -k start
+             ├─11035 /usr/sbin/apache2 -k start
+             ├─11036 /usr/sbin/apache2 -k start
+             ├─11037 /usr/sbin/apache2 -k start
+             ├─11038 /usr/sbin/apache2 -k start
+             └─11039 /usr/sbin/apache2 -k start
+
+Dec 07 00:00:50 raspberrypi systemd[1]: Reloaded The Apache HTTP Server.
+Dec 08 00:00:51 raspberrypi systemd[1]: Reloading The Apache HTTP Server.
+Dec 08 00:00:52 raspberrypi apachectl[18256]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to supp>
+Dec 08 00:00:52 raspberrypi systemd[1]: Reloaded The Apache HTTP Server.
+Dec 09 00:00:50 raspberrypi systemd[1]: Reloading The Apache HTTP Server.
+Dec 09 00:00:50 raspberrypi apachectl[11684]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to supp>
+Dec 09 00:00:50 raspberrypi systemd[1]: Reloaded The Apache HTTP Server.
+Dec 10 00:00:51 raspberrypi systemd[1]: Reloading The Apache HTTP Server.
+Dec 10 00:00:55 raspberrypi systemd[1]: Reloaded The Apache HTTP Server.
+Dec 10 00:00:56 raspberrypi apachectl[11031]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to supp>
+pi@raspberrypi:~ $ journalctl -xe
+Dec 10 12:39:01 raspberrypi CRON[28061]: pam_unix(cron:session): session closed for user root
+Dec 10 12:39:22 raspberrypi systemd[1]: Starting Clean php session files...
+░░ Subject: A start job for unit phpsessionclean.service has begun execution
+░░ Defined-By: systemd
+░░ Support: https://www.debian.org/support
+░░ 
+░░ A start job for unit phpsessionclean.service has begun execution.
+░░ 
+░░ The job identifier is 54653.
+Dec 10 12:39:22 raspberrypi systemd[1]: phpsessionclean.service: Succeeded.
+░░ Subject: Unit succeeded
+░░ Defined-By: systemd
+░░ Support: https://www.debian.org/support
+░░ 
+░░ The unit phpsessionclean.service has successfully entered the 'dead' state.
+Dec 10 12:39:22 raspberrypi systemd[1]: Finished Clean php session files.
+░░ Subject: A start job for unit phpsessionclean.service has finished successfully
+░░ Defined-By: systemd
+░░ Support: https://www.debian.org/support
+░░ 
+░░ A start job for unit phpsessionclean.service has finished successfully.
+░░ 
+
+░░ Support: https://www.debian.org/support
+░░ 
+░░ The unit phpsessionclean.service has successfully entered the 'dead' state.
+Dec 10 12:39:22 raspberrypi systemd[1]: Finished Clean php session files.
+░░ Subject: A start job for unit phpsessionclean.service has finished successfully
+░░ Defined-By: systemd
+░░ Support: https://www.debian.org/support
+░░ 
+░░ A start job for unit phpsessionclean.service has finished successfully.
+░░ 
+
+pi@raspberrypi:~ $ echo 'deb http://download.opensuse.org/repositories/isv:/ownCloud:/server:/10/Debian_11/ /' | sudo tee /etc/apt/sources.list.d/isv:ownCloud:server:10.list
+curl -fsSL https://download.opensuse.org/repositoriegit clone git://github.com/owncloud/client.git
+cd client
+# master this default, but you can also check out a tag like v2.5.4
+git checkout master
+git submodule init
+git submodule updates/isv:ownCloud:server:10/Debian_11/Release.key | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/isv_ownCloud_server_10.gpg > /dev/null
+pi@raspberrypi:~ $ sudo apt update
+pi@raspberrypi:~ $ sudo apt install owncloud-complete-files
+pi@raspberrypi:~ $ echo 'deb http://download.opensuse.org/repositories/isv:/ownCloud:/server:/10/Debian_11/ /' | sudo tee /etc/apt/sources.list.d/isv:ownCloud:server:10.list ccurlccucurcurl ccuccccurlcurl -fsSL https://download.opensuse.org/repositories/isv:ownCloud:server:10/Debian_11/Release.key | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/isv_ownCloud_server_10.gpg > /dev/nullusususudo aptsudo apt updaterver:10/Debian_11/Release.key | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/isv_ownCloud_server_10.gpg sudsudo apt updsudsudo asudo apt sudo apt update
+sudo apt install owncloud-complete-files
+deb http://download.opensuse.org/repositories/isv:/ownCloud:/server:/10/Debian_11/ /
+Hit:1 http://archive.raspberrypi.org/debian bullseye InRelease
+Get:2 http://download.opensuse.org/repositories/isv:/ownCloud:/server:/10/Debian_11  InRelease [1,527 B]
+Hit:3 http://raspbian.raspberrypi.org/raspbian bullseye InRelease                             
+Get:4 http://download.opensuse.org/repositories/isv:/ownCloud:/server:/10/Debian_11  Packages [886 B]
+Fetched 2,413 B in 1s (2,011 B/s)
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+All packages are up to date.
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+Suggested packages:
+  owncloud-deps
+The following NEW packages will be installed:
+  owncloud-complete-files
+0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 32.3 MB of archives.
+After this operation, 228 MB of additional disk space will be used.
+Get:1 http://download.opensuse.org/repositories/isv:/ownCloud:/server:/10/Debian_11  owncloud-complete-files 10.8.0-1+3.2 [32.3 MB]
+Fetched 32.3 MB in 5s (7,173 kB/s)                  
+Selecting previously unselected package owncloud-complete-files.
+(Reading database ... 107270 files and directories currently installed.)
+Preparing to unpack .../owncloud-complete-files_10.8.0-1+3.2_all.deb ...
+Unpacking owncloud-complete-files (10.8.0-1+3.2) ...
+Setting up owncloud-complete-files (10.8.0-1+3.2) ...
+
+pi@raspberrypi:~ $ 
+pi@raspberrypi:~ $ 
+pi@raspberrypi:~ $ 
+
+Source:	https://doc.owncloud.com/desktop/next/appendices/guitest.html
+
+*****************************************
+*	GUI Testing the Desktop Client	*
+*****************************************
+
+Source:	https://doc.owncloud.com/desktop/next/appendices/building.html
+
+*****************************************
+*	Appendix Building the Client	*
+*****************************************
+
+pi@raspberrypi:~ $ cd $HOME/Desktop
+pi@raspberrypi:~ $ mkdir owncloud
+pi@raspberrypi:~ $ cd owncloud
+pi@raspberrypi:~ $ git clone git://github.com/owncloud/client.git
+
+Cloning into 'client'...
+remote: Enumerating objects: 115973, done.
+remote: Counting objects: 100% (5189/5189), done.
+remote: Compressing objects: 100% (1656/1656), done.
+remote: Total 115973 (delta 3902), reused 4413 (delta 3493), pack-reused 110784
+Receiving objects: 100% (115973/115973), 186.74 MiB | 3.30 MiB/s, done.
+Resolving deltas: 100% (91517/91517), done.
+
+pi@raspberrypi:~ $ cd client
+pi@raspberrypi:~ $ # master this default, but you can also check out a tag like v2.5.4
+pi@raspberrypi:~/Desktop/owncloud/client $ git checkout master
+Already on 'master'
+Your branch is up to date with 'origin/master'.
+pi@raspberrypi:~/Desktop/owncloud/client $ git submodule init
+Submodule 'src/3rdparty/libcrashreporter-qt' (git://github.com/dschmidt/libcrashreporter-qt.git) registered for path 'src/3rdparty/libcrashreporter-qt'
+pi@raspberrypi:~/Desktop/owncloud/client $ git submodule update
+Cloning into '/home/pi/Desktop/owncloud/client/src/3rdparty/libcrashreporter-qt'...
+Submodule path 'src/3rdparty/libcrashreporter-qt': checked out '47dbf7629f07608416a0476b82c98004f04fbdde'
+pi@raspberrypi:~/Desktop/owncloud/client $ 
+pi@raspberrypi:~/Desktop/owncloud/client $ mkdir client-build
+cd client-build
+pi@raspberrypi:~/Desktop/owncloud/client/client-build $ cmake -DCMAKE_PREFIX_PATH=/opt/ownCloud/qt-5.12.4 -DCMAKE_INSTALL_PREFIX=/Users/path/to/client/../install/ ..
+
+Source:	https://cmake.org/install/
+
+*****************************************
+*	Installing CMake		*
+
+
+
+*****************************************
+
+pi@raspberrypi:~/Downloads $ git clone git://github.com/owncloud/docs.git
+
+docs usage unknown
+
+pi@raspberrypi:~ $ cd Downloads
+pi@raspberrypi:~/Downloads $ ls
+cmake-3.22.1-linux-aarch64.sh  cmake-3.22.1-linux-aarch64.tar.gz  docs  geany-1.38.tar.gz  owncloud  owncloud-complete-20210721.tar.bz2  pyocclient
+pi@raspberrypi:~/Downloads $ cd pcocclient
+bash: cd: pcocclient: No such file or directory
+pi@raspberrypi:~/Downloads $ cd pyocclient
+pi@raspberrypi:~/Downloads/pyocclient $ pip install pyocclient
+Looking in indexes: https://pypi.org/simple, https://www.piwheels.org/simple
+Collecting pyocclient
+  Downloading https://www.piwheels.org/simple/pyocclient/pyocclient-0.6-py3-none-any.whl (28 kB)
+Requirement already satisfied: six in /usr/lib/python3/dist-packages (from pyocclient) (1.16.0)
+Requirement already satisfied: requests>=2.0.1 in /usr/lib/python3/dist-packages (from pyocclient) (2.25.1)
+Installing collected packages: pyocclient
+Successfully installed pyocclient-0.6
+
+pi@raspberrypi:~/Downloads/pyocclient $ sudo python setup.py install
+running install
+running bdist_egg
+running egg_info
+creating pyocclient.egg-info
+writing pyocclient.egg-info/PKG-INFO
+writing dependency_links to pyocclient.egg-info/dependency_links.txt
+writing requirements to pyocclient.egg-info/requires.txt
+writing top-level names to pyocclient.egg-info/top_level.txt
+writing manifest file 'pyocclient.egg-info/SOURCES.txt'
+reading manifest file 'pyocclient.egg-info/SOURCES.txt'
+reading manifest template 'MANIFEST.in'
+writing manifest file 'pyocclient.egg-info/SOURCES.txt'
+installing library code to build/bdist.linux-armv7l/egg
+running install_lib
+running build_py
+creating build
+creating build/lib
+creating build/lib/owncloud
+copying owncloud/owncloud.py -> build/lib/owncloud
+copying owncloud/__init__.py -> build/lib/owncloud
+creating build/lib/owncloud/test
+copying owncloud/test/test.py -> build/lib/owncloud/test
+copying owncloud/test/__init__.py -> build/lib/owncloud/test
+creating build/bdist.linux-armv7l
+creating build/bdist.linux-armv7l/egg
+creating build/bdist.linux-armv7l/egg/owncloud
+copying build/lib/owncloud/owncloud.py -> build/bdist.linux-armv7l/egg/owncloud
+creating build/bdist.linux-armv7l/egg/owncloud/test
+copying build/lib/owncloud/test/test.py -> build/bdist.linux-armv7l/egg/owncloud/test
+copying build/lib/owncloud/test/__init__.py -> build/bdist.linux-armv7l/egg/owncloud/test
+copying build/lib/owncloud/__init__.py -> build/bdist.linux-armv7l/egg/owncloud
+byte-compiling build/bdist.linux-armv7l/egg/owncloud/owncloud.py to owncloud.cpython-39.pyc
+byte-compiling build/bdist.linux-armv7l/egg/owncloud/test/test.py to test.cpython-39.pyc
+byte-compiling build/bdist.linux-armv7l/egg/owncloud/test/__init__.py to __init__.cpython-39.pyc
+byte-compiling build/bdist.linux-armv7l/egg/owncloud/__init__.py to __init__.cpython-39.pyc
+creating build/bdist.linux-armv7l/egg/EGG-INFO
+copying pyocclient.egg-info/PKG-INFO -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying pyocclient.egg-info/SOURCES.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying pyocclient.egg-info/dependency_links.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying pyocclient.egg-info/requires.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying pyocclient.egg-info/top_level.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+zip_safe flag not set; analyzing archive contents...
+creating dist
+creating 'dist/pyocclient-0.6-py3.9.egg' and adding 'build/bdist.linux-armv7l/egg' to it
+removing 'build/bdist.linux-armv7l/egg' (and everything under it)
+Processing pyocclient-0.6-py3.9.egg
+Copying pyocclient-0.6-py3.9.egg to /usr/local/lib/python3.9/dist-packages
+Adding pyocclient 0.6 to easy-install.pth file
+
+Installed /usr/local/lib/python3.9/dist-packages/pyocclient-0.6-py3.9.egg
+Processing dependencies for pyocclient==0.6
+Searching for six==1.16.0
+Best match: six 1.16.0
+Adding six 1.16.0 to easy-install.pth file
+
+Using /usr/lib/python3/dist-packages
+Searching for requests==2.25.1
+Best match: requests 2.25.1 named
+Adding requests 2.25.1 to easy-install.pth file
+
+Using /usr/lib/python3/dist-packages
+Finished processing dependencies for pyocclient==0.6
+pi@raspberrypi:~/Downloads/pyocclient $ 
+
+pi@raspberrypi:~/Downloads/pyocclient $ pip install unittest-data-provider
+Looking in indexes: https://pypi.org/simple, https://www.piwheels.org/simple
+Collecting unittest-data-provider
+  Downloading https://www.piwheels.org/simple/unittest-data-provider/unittest_data_provider-1.0.1-py3-none-any.whl (4.9 kB)
+Installing collected packages: unittest-data-provider
+Successfully installed unittest-data-provider-1.0.1
+pi@raspberrypi:~/Downloads/pyocclient $ 
+
+pi@raspberrypi:~/Downloads/pyocclient $ ./runtests.sh
+Traceback (most recent call last):
+  File "/home/pi/Downloads/pyocclient/owncloud/test/test.py", line 15, in <module>
+    from config import Config
+ModuleNotFoundError: No module named 'config'
+pi@raspberrypi:~/Downloads/pyocclient $ 
+
+pi@raspberrypi:~/Downloads/pyocclient $ nano /home/pi/Downloads/pyocclient/owncloud/test/test.py
+
+Sphinx is a tool that makes it easy to create intelligent and beautiful documentation, written by 
+Georg Brandl and licensed under the BSD license.
+
+It was originally created for the Python documentation, and it has excellent facilities for the 
+documentation of software projects in a range of languages. Of course, this site is also created 
+from reStructuredText sources using Sphinx! The following features should be highlighted:
+
+    Output formats: HTML (including Windows HTML Help), LaTeX (for printable PDF versions), ePub, 
+	Texinfo, manual pages, plain text
+    Extensive cross-references: semantic markup and automatic links for functions, classes, 
+	citations, glossary terms and similar pieces of information
+    Hierarchical structure: easy definition of a document tree, with automatic links to siblings, 
+	parents and children
+    Automatic indices: general index as well as a language-specific module indices
+    Code handling: automatic highlighting using the Pygments highlighter
+    Extensions: automatic testing of code snippets, inclusion of docstrings from Python modules 
+	(API docs), and more
+    Contributed extensions: dozens of extensions contributed by users; most of them installable 
+	from PyPI
+
+
+pi@raspberrypi:~ $ cd Downloads;sudo pip install -U Sphinx
+Looking in indexes: https://pypi.org/simple, https://www.piwheels.org/simple
+Requirement already satisfied: Sphinx in /usr/local/lib/python3.9/dist-packages (4.3.1)
+Collecting Sphinx
+  Using cached https://www.piwheels.org/simple/sphinx/Sphinx-4.3.1-py3-none-any.whl (3.1 MB)
+  Downloading https://www.piwheels.org/simple/sphinx/Sphinx-4.3.0-py3-none-any.whl (3.1 MB)
+     |████████████████████████████████| 3.1 MB 3.3 kB/s 
+Requirement already satisfied: Jinja2>=2.3 in /usr/lib/python3/dist-packages (from Sphinx) (2.11.3)
+Requirement already satisfied: requests>=2.5.0 in /usr/lib/python3/dist-packages (from Sphinx) (2.25.1)
+Requirement already satisfied: setuptools in /usr/lib/python3/dist-packages (from Sphinx) (52.0.0)
+Requirement already satisfied: packaging in /usr/local/lib/python3.9/dist-packages (from Sphinx) (21.3)
+Requirement already satisfied: sphinxcontrib-applehelp in /usr/local/lib/python3.9/dist-packages (from Sphinx) (1.0.2)
+Requirement already satisfied: snowballstemmer>=1.1 in /usr/local/lib/python3.9/dist-packages (from Sphinx) (2.2.0)
+Requirement already satisfied: Pygments>=2.0 in /usr/lib/python3/dist-packages (from Sphinx) (2.7.1)
+Requirement already satisfied: babel>=1.3 in /usr/local/lib/python3.9/dist-packages (from Sphinx) (2.9.1)
+Requirement already satisfied: sphinxcontrib-devhelp in /usr/local/lib/python3.9/dist-packages (from Sphinx) (1.0.2)
+Requirement already satisfied: sphinxcontrib-serializinghtml>=1.1.5 in /usr/local/lib/python3.9/dist-packages (from Sphinx) (1.1.5)
+Requirement already satisfied: sphinxcontrib-jsmath in /usr/local/lib/python3.9/dist-packages (from Sphinx) (1.0.1)
+Requirement already satisfied: alabaster<0.8,>=0.7 in /usr/local/lib/python3.9/dist-packages (from Sphinx) (0.7.12)
+Requirement already satisfied: docutils<0.18,>=0.14 in /usr/lib/python3/dist-packages (from Sphinx) (0.16)
+Requirement already satisfied: sphinxcontrib-htmlhelp>=2.0.0 in /usr/local/lib/python3.9/dist-packages (from Sphinx) (2.0.0)
+Requirement already satisfied: imagesize in /usr/local/lib/python3.9/dist-packages (from Sphinx) (1.3.0)
+Requirement already satisfied: sphinxcontrib-qthelp in /usr/local/lib/python3.9/dist-packages (from Sphinx) (1.0.3)
+Requirement already satisfied: pytz>=2015.7 in /usr/local/lib/python3.9/dist-packages (from babel>=1.3->Sphinx) (2021.3)
+Requirement already satisfied: pyparsing!=3.0.5,>=2.0.2 in /usr/local/lib/python3.9/dist-packages (from packaging->Sphinx) (3.0.6)
+pi@raspberrypi:~/Downloads $ sudo sphinx-apidoc -e -f -o docs/source owncloud/ owncloud/test
+Creating file docs/source/modules.rst.
+pi@raspberrypi:~/Downloads $ 
+
+pi@raspberrypi:~/Downloads/docs $ cd
+pi@raspberrypi:~ $ sudo apt-get update;sudo apt-get upgrade
+Hit:1 http://archive.raspberrypi.org/debian bullseye InRelease
+Hit:2 http://raspbian.raspberrypi.org/raspbian bullseye InRelease
+Hit:3 http://download.opensuse.org/repositories/isv:/ownCloud:/server:/10/Debian_11  InRelease
+Reading package lists... Done           
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+Calculating upgrade... Done
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+pi@raspberrypi:~ $ sudo usermod -a -G www-data www-data
+pi@raspberrypi:~ $ 
+
+You can follow our guide on upgrading from Raspberry Pi OS Buster to Bullseye.
+
+Verify Bullseye
+
+i@raspberrypi:~ $ sudo nano /etc/apt/sources.list
+
+deb http://raspbian.raspberrypi.org/raspbian/ bullseye main contrib non-free rpi
+# Uncomment line below then 'apt-get update' to enable 'apt-get source'
+#deb-src http://raspbian.raspberrypi.org/raspbian/ bullseye main contrib non-free rpi
+
+^x
+
+
+
+
+
+
+
