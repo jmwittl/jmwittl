@@ -1,0 +1,165 @@
+Use 1 TB machine remotley using pivpn
+
+	pi@raspberrypi:~ $ ifconfig
+
+		inet 192.168.1.36
+
+	ifconfig pi@raspberrypi:~ $ ping 192.168.1.36
+
+		PING 192.168.1.36 (192.168.1.36) 56(84) bytes of data.
+		64 bytes from 192.168.1.36: icmp_seq=1 ttl=64 time=0.363 ms
+		64 bytes from 192.168.1.36: icmp_seq=2 ttl=64 time=0.212 ms
+		64 bytes from 192.168.1.36: icmp_seq=3 ttl=64 time=0.203 ms
+		64 bytes from 192.168.1.36: icmp_seq=4 ttl=64 time=0.211 ms
+		64 bytes from 192.168.1.36: icmp_seq=5 ttl=64 time=0.253 ms
+		^C
+		--- 192.168.1.36 ping statistics ---
+		5 packets transmitted, 5 received, 0% packet loss, time 4159ms
+		rtt min/avg/max/mdev = 0.203/0.248/0.363/0.059 ms
+
+	change hostname using 
+
+		Start Menu --> Preferences --> Raspberry Pi configuration
+
+		hostname = famillyroom000
+		
+			reboot
+
+test famillyroom000 access from "pivsn" host
+
+	Google:	raspberry pi pivpn
+
+	Source:	https://www.pivpn.io/
+
+	The simplest way to setup and manage a VPN, designed for Raspberry Pi.
+
+	# httos:pivpn.io
+	# Heavily adapted from the pi-hole.net project and...
+	# https://github.com/StarshipEngineer/OpenVPN-Setup/
+
+	Execute...
+
+		curl -L https://install.pivpn.io > install.sh
+		chmod +x install.sh
+		sudo ./install.sh --unattende options.conf
+			:::
+			::: You are root.
+			::: --unattended passed to install script, no whiptail \ 
+				dialogs will be displayed
+			::: Can't open options.conf
+		# Create empty options.conf file
+		nano options.conf
+			Cntl-s
+			Cntl-x
+		sudo ./install.sh --unattended options.conf
+
+		ifconfig	show ip address of my server
+
+			:::	192.168.1.146
+
+	host machine is		192.168.1.146
+	target machine is	192.168.1.36
+
+	make another raspberry pi accessable using vsn; in this case the 
+		target raspberry pi has these settings:
+
+			:::	machine:	1 TB ssd raspberry pi
+			:::	hostname:	familyroom000
+			:::	interfaces:	enable SSH, VNC
+			:::	ifconfig	show ip address on command line
+
+				192.168.1.36
+
+		pi@raspberrypi:~ $ pivpn -a -n famillyroom000
+
+			::: Client Keys generated
+			::: Client config generated
+			::: Updated server config
+			::: WireGuard reloaded
+			======================================================================
+			::: Done! famillyroom000.conf successfully created!
+			::: famillyroom000.conf was copied to /home/pi/configs for easy transfer.
+			::: Please use this profile only on one device and create additional
+			::: profiles for other devices. You can also use pivpn -qr
+			::: to generate a QR Code you can scan with the mobile app.
+			======================================================================
+
+		pi@raspberrypi:~ $ ls /home/pi/configs 
+
+			famillyroom000.conf
+
+		pi@raspberrypi:~ $ cat /home/pi/configs/famillyroom000.conf
+
+			[Interface]
+			PrivateKey = yPw2LRUhyclxfbJYQct8Xmd0p+W8VUUo+lijpLB5r3I=
+			Address = 10.6.0.2/24
+			DNS = 9.9.9.9, 149.112.112.112
+			
+			[Peer]
+			PublicKey = wLehSoM8XGh8F3pAfNKtV82SkHqQtc3ZXrzpyTaTIio=
+			PresharedKey = SwsM5vfZyQ8h9mDfuMxEPZe/jZvqt2fCUrhQRA+7NWA=
+			Endpoint = 66.216.232.105:51820
+			AllowedIPs = 0.0.0.0/0, ::0/0
+
+How to Turn a Raspberry Pi into a VPN Server (Easy Setup)
+
+	Google:	raspberry pi vpn server 2021
+
+	Source:	https://restoreprivacy.com/vpn/raspberry-pi/
+
+Owncloud and Raspberry Pi
+
+	Google:	raspberry pi cloudmo
+
+	Source:	https://pimylifeup.com/raspberry-pi-owncloud/
+
+Cloudmo and Raspberry pi
+
+	owncloud installed on raspberry pi.
+
+	Google: raspberry pi cloudmo
+	
+	Source: https://medium.com/google-cloud/\ 
+		cloud-iot-step-by-step-connecting-raspberry-pi-python-2f27a2893ab5
+	
+	Cloud IoT step-by-step: Connecting Raspberry PI + PythonCloud IoT 
+	step-by-step: Connecting Raspberry PI + Python
+
+
+BitTorrent on a Raspberry Pi
+
+	Source:	Wikipedia
+
+	BitTorrent is a communication protocol for peer-to-peer file sharing, 
+	which enables users to distribute data and electronic files over the 
+	Internet in a decentralized manner.
+
+	To send or receive files, a person uses a BitTorrent client on their... 
+
+	PiBorg: baobao is a disk usage gui. It makes it very easy to find dirs 
+	using the most disk.
+
+		sudo apt-get install baobao
+			or install it by going into the 
+				Main Menu > Preferences > Add/Remove Software. 
+				Type “baobab” in the search engine on the left.
+	baobao
+
+Remove chromium - baobab analysis shows chromium uses 399MB disk space. 
+
+	Chromium will be removed since I do not us it.
+
+		sudo apt purge chromium-browser --auto-remove'
+
+How to turn of Narrator (speaks for ever keystroke)
+
+	remove /etc/xdg/autostart/orca-autostart.desktop
+	or
+	move the file out of /etc/xdg/autostart directory
+
+Install office Excel equivalent
+
+	sudo apt update
+	sudo apt upgrade
+	sudo apt install libreoffice
+
